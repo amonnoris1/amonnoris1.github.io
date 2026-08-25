@@ -1,0 +1,348 @@
+{
+  "id": 307,
+  "name": "Small Underground House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": 5,
+  "styleName": "Rustic",
+  "style": "Rustic",
+  "tags": [
+    {
+      "id": 33,
+      "name": "Starter"
+    },
+    {
+      "id": 38,
+      "name": "Underground"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 10,
+  "steps": 10,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/969d29d5-c189-430a-99b2-35ebf0c17c09.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/969d29d5-c189-430a-99b2-35ebf0c17c09.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a34e865-fcdd-4bb2-9d74-f7ad0a1fd5f5.webp",
+  "description": "A hidden underground base under a lid of wooden trapdoors flush with the grass. Below sits a compact room with a bed, storage and a crafting spot. Costs almost nothing, mostly digging. A safe first shelter that mobs and other players walk right past.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-14T15:49:10.231127",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Slab",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:oak_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f7be016-3c48-4c90-a975-7175d3e11c69.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Carpet",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:red_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/494682b2-6dc6-46c0-9a26-cf39e199ab7d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Bed",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:red_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f67e8cdf-e312-470d-add6-f6eefc7f9480.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 15469,
+      "buildId": 307,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8000c807-3c84-42d0-8a53-54ddd9c77fc0.webp",
+      "description": "Dig a 5x5 hole in the ground, 4 blocks deep.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:11.434704",
+      "materials": []
+    },
+    {
+      "id": 15470,
+      "buildId": 307,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b6aa9718-fd61-4456-8cfb-3d16271a607a.webp",
+      "description": "Build the walls and floor of the underground room.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:12.685618",
+      "materials": []
+    },
+    {
+      "id": 15471,
+      "buildId": 307,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df02cb62-e5f2-498c-8141-242f03ed1bbe.webp",
+      "description": "Place the bed in the corner of the room.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:13.69872",
+      "materials": [
+        {
+          "name": "Red Bed",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_bed",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f67e8cdf-e312-470d-add6-f6eefc7f9480.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15472,
+      "buildId": 307,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a0c78714-5c38-45ec-bbfd-21c91751c818.webp",
+      "description": "Add the crafting table, furnace, and carpet.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:15.100682",
+      "materials": [
+        {
+          "name": "Crafting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crafting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+          "type": "item"
+        },
+        {
+          "name": "Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Carpet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15473,
+      "buildId": 307,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80b48fcf-3ba8-43f2-af96-946d719682a7.webp",
+      "description": "Place the chests and barrel for storage.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:16.157344",
+      "materials": [
+        {
+          "name": "Chest",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:chest",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+          "type": "item"
+        },
+        {
+          "name": "Barrel",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15474,
+      "buildId": 307,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6a9a997-f97d-4314-aeca-036213d9e289.webp",
+      "description": "Place the ladders for the entrance and exit.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:17.172283",
+      "materials": [
+        {
+          "name": "Ladder",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:ladder",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15475,
+      "buildId": 307,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/731589b7-47e9-4c39-aaa6-7ccd7eea6bc1.webp",
+      "description": "Add the oak slabs for the ceiling.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:17.983919",
+      "materials": [
+        {
+          "name": "Oak Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:oak_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f7be016-3c48-4c90-a975-7175d3e11c69.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15476,
+      "buildId": 307,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d2f0f9c1-50f0-439b-bcc0-c6fae8f4c068.webp",
+      "description": "Place the glass blocks for the skylight.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:19.123766",
+      "materials": [
+        {
+          "name": "Glass",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/494682b2-6dc6-46c0-9a26-cf39e199ab7d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15477,
+      "buildId": 307,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b839a914-b0a3-41a0-9986-088c988a3d24.webp",
+      "description": "Add the spruce trapdoors around the entrance.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:20.091057",
+      "materials": [
+        {
+          "name": "Spruce Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:spruce_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 15478,
+      "buildId": 307,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a34e865-fcdd-4bb2-9d74-f7ad0a1fd5f5.webp",
+      "description": "Cover the top with grass and add finishing touches.",
+      "moveToArea": false,
+      "createdAt": "2026-02-14T15:49:20.966826",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8000c807-3c84-42d0-8a53-54ddd9c77fc0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b6aa9718-fd61-4456-8cfb-3d16271a607a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df02cb62-e5f2-498c-8141-242f03ed1bbe.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a0c78714-5c38-45ec-bbfd-21c91751c818.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80b48fcf-3ba8-43f2-af96-946d719682a7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6a9a997-f97d-4314-aeca-036213d9e289.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/731589b7-47e9-4c39-aaa6-7ccd7eea6bc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d2f0f9c1-50f0-439b-bcc0-c6fae8f4c068.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b839a914-b0a3-41a0-9986-088c988a3d24.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a34e865-fcdd-4bb2-9d74-f7ad0a1fd5f5.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a34e865-fcdd-4bb2-9d74-f7ad0a1fd5f5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a34e865-fcdd-4bb2-9d74-f7ad0a1fd5f5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

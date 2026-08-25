@@ -1,0 +1,451 @@
+{
+  "id": 679,
+  "name": "Copper Bug-Bot",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 16,
+  "steps": 15,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/00506f15-5d7b-4db1-a6f0-3955ddc8e9ca.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/00506f15-5d7b-4db1-a6f0-3955ddc8e9ca.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/993f3f87-13a6-41ec-b730-bad62b0312d0.webp",
+  "description": "A minecraft statue of a bug robot built from copper blocks, with three grindstone-and-rod legs per side, a framed eye and a spyglass antenna. A small block count, mostly copper. Set it beside a lab, copper farm or industrial build as a mascot.",
+  "dimensions": {
+    "width": 6,
+    "height": 4,
+    "length": 5
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-07-10T15:04:44.116717",
+  "updatedAt": "2026-08-21T11:40:04.891716",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Copper",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:copper_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f8a69305-a91a-48d7-9339-6fd2ae9bbe96.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cut Copper Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:cut_copper_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c36f8af0-0391-4b0e-bf20-ca228255fe16.webp",
+      "type": "item"
+    },
+    {
+      "name": "End Rod",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:end_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glow Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:glow_item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lightning Rod",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:lightning_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 40236,
+      "buildId": 679,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8def2ca3-fba1-48e5-8631-d3a7303ffb77.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.165217",
+      "materials": [
+        {
+          "name": "Block of Copper",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:copper_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f8a69305-a91a-48d7-9339-6fd2ae9bbe96.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40237,
+      "buildId": 679,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc8c49ed-0ddb-416b-a595-67f97f8f7697.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.168421",
+      "materials": [
+        {
+          "name": "Cut Copper Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cut_copper_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c36f8af0-0391-4b0e-bf20-ca228255fe16.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40238,
+      "buildId": 679,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90d03edc-90e9-4bcc-8a6a-5a59c8d80d52.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.171589",
+      "materials": [
+        {
+          "name": "Block of Copper",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:copper_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f8a69305-a91a-48d7-9339-6fd2ae9bbe96.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40239,
+      "buildId": 679,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f80cfe0-4a41-4ced-b5f6-d9bd4a0c77ae.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.174094",
+      "materials": [
+        {
+          "name": "Block of Copper",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:copper_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f8a69305-a91a-48d7-9339-6fd2ae9bbe96.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40240,
+      "buildId": 679,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ef2a30c-cebc-4c5e-b046-e9b3c0b6ff9f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.177228",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40241,
+      "buildId": 679,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/395ea089-0947-45d8-8960-7703db9f277b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.180249",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40242,
+      "buildId": 679,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fa7804a8-27a0-4a81-bcb5-e6e9ef4f7d41.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.183468",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40243,
+      "buildId": 679,
+      "sequenceOrder": 8,
+      "image": null,
+      "description": "Same pattern on the other side",
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.187194",
+      "materials": []
+    },
+    {
+      "id": 40244,
+      "buildId": 679,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c4d4b04-4260-41a2-bca4-2159600d50e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.205301",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        },
+        {
+          "name": "Lever",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40245,
+      "buildId": 679,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d299212-388e-4b89-903b-6cef6734e82a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.210454",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40246,
+      "buildId": 679,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3b205002-64d4-4054-81de-ee79750875b8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.213579",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40247,
+      "buildId": 679,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46ce3a54-6519-46e1-8c92-8f3ccf8aa38c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.217456",
+      "materials": [
+        {
+          "name": "End Rod",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:end_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40248,
+      "buildId": 679,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1075712-9c95-4117-adc7-7a64f73c9b46.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.220592",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40249,
+      "buildId": 679,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13142907-a85a-4f8c-a032-52317712ae70.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.223785",
+      "materials": [
+        {
+          "name": "Glow Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glow_item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40250,
+      "buildId": 679,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f93710ae-153d-409c-926d-b09c83956483.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.227166",
+      "materials": [
+        {
+          "name": "Glow Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glow_item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40251,
+      "buildId": 679,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/88a1350a-1584-4c8a-9f02-e94944972ef3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:44.233421",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8def2ca3-fba1-48e5-8631-d3a7303ffb77.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc8c49ed-0ddb-416b-a595-67f97f8f7697.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90d03edc-90e9-4bcc-8a6a-5a59c8d80d52.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f80cfe0-4a41-4ced-b5f6-d9bd4a0c77ae.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ef2a30c-cebc-4c5e-b046-e9b3c0b6ff9f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/395ea089-0947-45d8-8960-7703db9f277b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fa7804a8-27a0-4a81-bcb5-e6e9ef4f7d41.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c4d4b04-4260-41a2-bca4-2159600d50e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d299212-388e-4b89-903b-6cef6734e82a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3b205002-64d4-4054-81de-ee79750875b8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46ce3a54-6519-46e1-8c92-8f3ccf8aa38c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1075712-9c95-4117-adc7-7a64f73c9b46.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13142907-a85a-4f8c-a032-52317712ae70.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f93710ae-153d-409c-926d-b09c83956483.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/88a1350a-1584-4c8a-9f02-e94944972ef3.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/993f3f87-13a6-41ec-b730-bad62b0312d0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/da5ae996-a3aa-42b4-adf9-963b16469ee9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/993f3f87-13a6-41ec-b730-bad62b0312d0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/da5ae996-a3aa-42b4-adf9-963b16469ee9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    }
+  ]
+}

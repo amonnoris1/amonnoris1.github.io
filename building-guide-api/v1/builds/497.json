@@ -1,0 +1,88 @@
+{
+  "id": 497,
+  "name": "Demon Hand",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 15,
+  "steps": 15,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/74f22d34-395f-4d2a-b9e7-82952f23cde2.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/74f22d34-395f-4d2a-b9e7-82952f23cde2.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57fc2e0a-c533-41ab-8d8d-5603316d1d7d.webp",
+  "description": "A minecraft statue of a skeletal hand clawing out of the ground, quartz bones tipped with pointed claws. Five fingers, each ending in a brown spike. Quartz is the main cost. Set it in a graveyard, a boss arena or any spooky corner of your world.",
+  "dimensions": {
+    "width": 13,
+    "height": 15,
+    "length": 12
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T20:55:03.329882",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 47,
+      "quantity": 47,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pointed Dripstone",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:pointed_dripstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b69cd67b-38ec-432f-a8c7-c6ec729ff900.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57fc2e0a-c533-41ab-8d8d-5603316d1d7d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57fc2e0a-c533-41ab-8d8d-5603316d1d7d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

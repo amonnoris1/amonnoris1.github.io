@@ -1,0 +1,148 @@
+{
+  "id": 373,
+  "name": "Mini Motorcycle",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 10,
+  "steps": 10,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1b99a682-5b64-418a-be3f-e8cb2aa54fe3.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1b99a682-5b64-418a-be3f-e8cb2aa54fe3.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f45132df-770c-4c63-9f10-0e07783130f3.webp",
+  "description": "A mini motorcycle made from orange wool, wood and coal block wheels, with a windshield and a red tail light. Life-size, so a player fits right behind the handlebars. Only a handful of blocks. Park it outside your house or line up a few in a garage.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:59:28.821446",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5cbf9e7b-1a1c-487f-91ae-43149f48caf5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Button",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:stone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Sandstone Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:red_sandstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b98828fb-157b-4051-bbfe-a8c7437f793f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Sandstone Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9d98f76e-71d6-491f-86b6-d4568c788930.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Redstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3a01e826-0788-4516-9034-17b6e438c1f8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+      "type": "item"
+    },
+    {
+      "name": "Orange Carpet",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:orange_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c7466848-4846-4744-8743-5627bff83fc1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "End Rod",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:end_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Sign",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:oak_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/29712deb-7919-40eb-b0f9-8577b282ecd6.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f45132df-770c-4c63-9f10-0e07783130f3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f45132df-770c-4c63-9f10-0e07783130f3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

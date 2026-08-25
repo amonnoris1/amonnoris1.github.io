@@ -1,0 +1,2692 @@
+{
+  "id": 397,
+  "name": "Elephant Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 6,
+  "styleName": "Natural",
+  "style": "Natural",
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 122,
+  "steps": 122,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6c817ec8-8271-4732-b9b0-0c7a8cf5887e.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6c817ec8-8271-4732-b9b0-0c7a8cf5887e.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/034c5600-3ad2-435e-8f7e-f9bbb4277962.webp",
+  "description": "A minecraft statue of an elephant with its trunk raised, built from stone and andesite. Tusks, big ears and four thick legs you can walk under. Uses common gray stone, though the body takes a fair pile of it. Suits a savanna base, zoo build or park entrance.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:49:00.136068",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Andesite",
+      "count": 429,
+      "quantity": 429,
+      "identifier": "minecraft:andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Wall",
+      "count": 11,
+      "quantity": 11,
+      "identifier": "minecraft:andesite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Diorite Wall",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:diorite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Stairs",
+      "count": 47,
+      "quantity": 47,
+      "identifier": "minecraft:andesite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Slab",
+      "count": 34,
+      "quantity": 34,
+      "identifier": "minecraft:andesite_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 22198,
+      "buildId": 397,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bbf724a1-7445-49bd-b5a8-65794bfcbfa9.webp",
+      "description": "7 by 23",
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:01.620219",
+      "materials": []
+    },
+    {
+      "id": 22199,
+      "buildId": 397,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/130b2467-6c0c-497e-87c2-2a79b5bd31a5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:02.835185",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22200,
+      "buildId": 397,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/224408cc-64f1-4d81-b2b6-7b56d8147bed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:03.687647",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22201,
+      "buildId": 397,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/686b9acd-9d97-44ef-982e-3fa1e7b256f8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:05.802702",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22202,
+      "buildId": 397,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b9a2ce9d-6155-4a9d-be65-82fa050be45c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:07.161319",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22203,
+      "buildId": 397,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd4ce710-e4bb-4e8a-aa43-2a004d24f285.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:08.106614",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22204,
+      "buildId": 397,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00dc90fb-ead0-471f-8437-f5583153476e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:09.098525",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22205,
+      "buildId": 397,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/03ee0f29-75de-4904-ba28-0db94a6e45e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:10.07757",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22206,
+      "buildId": 397,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8caeb709-f9a0-4a20-84f5-bef54a692a42.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:11.496537",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22207,
+      "buildId": 397,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bdb87744-a7be-4c07-817a-7cc4ba47e8b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:12.448686",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22208,
+      "buildId": 397,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e6a92d9-6946-4eb7-9fd7-5b568c6fe671.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:13.272682",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22209,
+      "buildId": 397,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99889182-0137-48ea-b2e4-f726076846d5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:15.514232",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22210,
+      "buildId": 397,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e77f2634-c620-4d56-98b1-ece3be5a5275.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:16.849936",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22211,
+      "buildId": 397,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc3cff41-61e3-4991-8321-b37960f01345.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:18.217117",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22212,
+      "buildId": 397,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d5f4898-a93d-4a49-8cd7-f6bc9f36f685.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:20.442358",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22213,
+      "buildId": 397,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b27b5b10-cdfb-41e0-9aa4-33e4d8e06173.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:21.967754",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22214,
+      "buildId": 397,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2331f7b-6b09-4166-acc1-11c923b84c52.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:23.313253",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22215,
+      "buildId": 397,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15588353-78f7-400d-aee5-d845e38e4848.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:25.600596",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22216,
+      "buildId": 397,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89c27130-2904-401f-b3ca-cdb97e3176dc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:26.983284",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22217,
+      "buildId": 397,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/787aa6ab-cef1-467c-acfa-07887eda4c5d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:28.508803",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22218,
+      "buildId": 397,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5849f549-b741-4671-9ce5-287b4753673a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:29.360546",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22219,
+      "buildId": 397,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6dafd511-623d-42d4-85ef-76affddb683e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:30.29754",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22220,
+      "buildId": 397,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c87eff99-7f2d-4597-b8a1-093a1ef91e66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:31.184585",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22221,
+      "buildId": 397,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f37e7f16-2da1-4c53-b966-dc84c9899e8d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:32.05372",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22222,
+      "buildId": 397,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b22ca131-d74e-4568-b04c-3c4ed6026606.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:33.519357",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22223,
+      "buildId": 397,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92aec532-a5df-4c05-91ea-1c133b63ca66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:35.688653",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22224,
+      "buildId": 397,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5ea86d0d-9d58-45de-95ed-5d005bbbcbd2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:36.720094",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22225,
+      "buildId": 397,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72e3a1eb-8a99-46ef-9bc8-d7c332844896.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:37.960889",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22226,
+      "buildId": 397,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0c77b24e-6a18-4699-b309-d5a3535ec4b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:38.861033",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22227,
+      "buildId": 397,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec92de3f-ee11-4a58-9ca8-a0afeaf39871.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:39.779188",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22228,
+      "buildId": 397,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9a672dd1-eaee-440e-b961-9140e0af9072.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:42.067246",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22229,
+      "buildId": 397,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92ac3f45-b987-4d99-9b90-0c648f11f0f7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:43.529024",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22230,
+      "buildId": 397,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62bd9ddd-99e2-44a8-9376-702061070260.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:44.609506",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22231,
+      "buildId": 397,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d39cfb32-afa8-4f57-ba6a-873ad86429ce.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:45.593845",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22232,
+      "buildId": 397,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b995f62-c47a-49e9-8352-37103df1ac3d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:46.566084",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22233,
+      "buildId": 397,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/406bb750-4fab-44ad-a53d-1a7e3cbc40bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:47.492726",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22234,
+      "buildId": 397,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8fa366d4-a1a8-4bdd-9dfa-a6492d1e0c59.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:48.491155",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22235,
+      "buildId": 397,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9f68bd4-17b7-4efe-b12b-009e1ee24a8c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:49.390437",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22236,
+      "buildId": 397,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6bf0857a-4ab7-47a4-a7a2-8d2e61607884.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:50.199355",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22237,
+      "buildId": 397,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64229f4e-ffd2-4a0d-a761-93a503e5f9ad.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:51.278693",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22238,
+      "buildId": 397,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d8a46d4-79b3-4aac-99fb-a38a644014bc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:52.243716",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22239,
+      "buildId": 397,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f5c80f4-dda5-4835-a377-e40085e9551e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:53.804849",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22240,
+      "buildId": 397,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4250186f-3406-43c9-8c39-c6535a2a06e9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:55.192916",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22241,
+      "buildId": 397,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/841910bc-88b8-4339-b442-d04a4622cbf6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:56.074542",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22242,
+      "buildId": 397,
+      "sequenceOrder": 45,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6692e411-79e6-4821-870a-fa115365bd1d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:56.858738",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22243,
+      "buildId": 397,
+      "sequenceOrder": 46,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/483e2e14-b590-4c84-8028-4d21c4c2d9db.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:57.802486",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22244,
+      "buildId": 397,
+      "sequenceOrder": 47,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6c5596e-7884-4207-ba40-4f54d269c625.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:58.750957",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22245,
+      "buildId": 397,
+      "sequenceOrder": 48,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/900a4557-c8d5-47c8-adfb-212e2a0da305.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:49:59.740971",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22246,
+      "buildId": 397,
+      "sequenceOrder": 49,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/20ebb4ad-f910-46c1-bdda-6c865e25f9b8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:00.650365",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22247,
+      "buildId": 397,
+      "sequenceOrder": 50,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eca9c017-1d91-4443-9e53-7204328dbab8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:01.619717",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22248,
+      "buildId": 397,
+      "sequenceOrder": 51,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d2f1a00-d9d7-4d5c-9afb-9a42493e8cc2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:02.589287",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22249,
+      "buildId": 397,
+      "sequenceOrder": 52,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8895c90-0955-44f2-84f3-48bd26038545.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:04.829746",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22250,
+      "buildId": 397,
+      "sequenceOrder": 53,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/054b2c86-4dad-4263-a053-23ff71a4b712.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:06.260832",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22251,
+      "buildId": 397,
+      "sequenceOrder": 54,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5507ab6d-0562-4ff2-bd96-050507ff1a96.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:07.737185",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22252,
+      "buildId": 397,
+      "sequenceOrder": 55,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2a295ccd-e2a3-40ad-8d93-b230e81775a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:09.202418",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22253,
+      "buildId": 397,
+      "sequenceOrder": 56,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02004dd2-f2fe-4f3e-bce5-cb01f82e7a74.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:11.366259",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22254,
+      "buildId": 397,
+      "sequenceOrder": 57,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/29999e3c-0052-48c5-b9ae-bd7ae5ea0708.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:12.77192",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22255,
+      "buildId": 397,
+      "sequenceOrder": 58,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62869503-3fbc-47f8-9e06-b5aa64643346.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:14.019749",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22256,
+      "buildId": 397,
+      "sequenceOrder": 59,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f5dc0747-176a-443f-9eb3-9bdb6c7162bc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:16.124892",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22257,
+      "buildId": 397,
+      "sequenceOrder": 60,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/824ee0ec-5ec7-4a0d-a782-02d827a8b25c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:17.565093",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22258,
+      "buildId": 397,
+      "sequenceOrder": 61,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b5ef361-1454-4972-b8ef-07eaafbf5ba0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:18.474656",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22259,
+      "buildId": 397,
+      "sequenceOrder": 62,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/53c619f9-7b96-48e3-b340-5f83781d63f2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:19.413385",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22260,
+      "buildId": 397,
+      "sequenceOrder": 63,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d972adbd-9122-4206-be1a-5375d2ea67ce.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:20.591581",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22261,
+      "buildId": 397,
+      "sequenceOrder": 64,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/570e16ee-922b-43e6-a68f-6f525dc44601.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:21.549092",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22262,
+      "buildId": 397,
+      "sequenceOrder": 65,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf829beb-1222-4464-b95a-938d73158425.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:22.491812",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22263,
+      "buildId": 397,
+      "sequenceOrder": 66,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d57d487-31ed-4644-b525-bbb26ce4bf84.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:23.335425",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22264,
+      "buildId": 397,
+      "sequenceOrder": 67,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdecf1f4-c034-4797-ac85-b0f9b15eb008.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:25.006184",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22265,
+      "buildId": 397,
+      "sequenceOrder": 68,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30a6d2d3-be54-4798-8d6a-1a12c7a94feb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:27.245625",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22266,
+      "buildId": 397,
+      "sequenceOrder": 69,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a52d564c-a299-44ba-8abf-c7d76113715b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:28.592226",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22267,
+      "buildId": 397,
+      "sequenceOrder": 70,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e236872b-f159-4e4a-930e-90b20b57c4a8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:29.38283",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22268,
+      "buildId": 397,
+      "sequenceOrder": 71,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2eeb9a59-b7e7-4bb8-90a2-d5e6f46e318a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:31.208977",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22269,
+      "buildId": 397,
+      "sequenceOrder": 72,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07db0eef-14d2-4aea-8c35-4261732531a7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:32.456896",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22270,
+      "buildId": 397,
+      "sequenceOrder": 73,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/efdb09f2-c77b-4ad5-9899-18efca6e6516.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:34.256878",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22271,
+      "buildId": 397,
+      "sequenceOrder": 74,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4bd76713-2a54-46a9-b2f0-4c5391e7472a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:35.097645",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22272,
+      "buildId": 397,
+      "sequenceOrder": 75,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3319fc45-f1d9-4541-939e-412a09edff48.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:37.267887",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22273,
+      "buildId": 397,
+      "sequenceOrder": 76,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2acf40c6-bd66-49db-b2c1-2b7e840f5302.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:38.173647",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22274,
+      "buildId": 397,
+      "sequenceOrder": 77,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e81dc584-ad4f-4cc3-a3c4-d717b00c4330.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:40.346899",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22275,
+      "buildId": 397,
+      "sequenceOrder": 78,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c5387b83-6a66-4644-acef-b058a6a3d30a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:41.256516",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22276,
+      "buildId": 397,
+      "sequenceOrder": 79,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dd73c01f-72a0-469a-9a28-a3c77dd814c1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:42.57199",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22277,
+      "buildId": 397,
+      "sequenceOrder": 80,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb1bfdfa-5d47-48fb-a66f-f74f6e24056b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:43.723479",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22278,
+      "buildId": 397,
+      "sequenceOrder": 81,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fbc4e00b-0631-494c-941a-b74c47da8b02.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:45.404048",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22279,
+      "buildId": 397,
+      "sequenceOrder": 82,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/760e8071-9121-4ab2-946e-a3f7637063c0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:47.591508",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22280,
+      "buildId": 397,
+      "sequenceOrder": 83,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65b0e0c0-3634-46b9-bc36-c5a2e6a0c1ac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:48.646776",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22281,
+      "buildId": 397,
+      "sequenceOrder": 84,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ffb4e39-f968-4c32-a2a6-02106ff89916.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:49.518835",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22282,
+      "buildId": 397,
+      "sequenceOrder": 85,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/044f0bad-65d4-408d-b49a-a1def9b4380b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:51.775134",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22283,
+      "buildId": 397,
+      "sequenceOrder": 86,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e8e77fc-78e4-4b48-afc4-42d911daf75f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:53.141133",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22284,
+      "buildId": 397,
+      "sequenceOrder": 87,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4d082e5c-247e-40f3-8d47-5f97815d17a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:54.403804",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22285,
+      "buildId": 397,
+      "sequenceOrder": 88,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2886f9e6-930c-47fa-84fe-20f77e1d9ef2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:55.461572",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22286,
+      "buildId": 397,
+      "sequenceOrder": 89,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/582615a1-4032-4cf6-8363-bfc3e8a1bbf5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:56.305001",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22287,
+      "buildId": 397,
+      "sequenceOrder": 90,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/878bd6c9-09ae-4694-895a-30f1a3736a0e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:57.951813",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22288,
+      "buildId": 397,
+      "sequenceOrder": 91,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e05cf6b1-522d-4d5b-9c6c-93f0b7e9b51d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:50:59.384989",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22289,
+      "buildId": 397,
+      "sequenceOrder": 92,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/181db7ad-f101-4284-9a36-aa196066f05a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:00.855812",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22290,
+      "buildId": 397,
+      "sequenceOrder": 93,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8df86cb1-6113-4b7b-9349-7bb24f7d3884.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:01.992357",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22291,
+      "buildId": 397,
+      "sequenceOrder": 94,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c86d1a6-c6f5-4610-8a96-f623ccfb53a1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:03.18336",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22292,
+      "buildId": 397,
+      "sequenceOrder": 95,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f9f31e9f-17ae-429e-9be9-3b4fd28d5ef5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:04.283362",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22293,
+      "buildId": 397,
+      "sequenceOrder": 96,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8524ee50-5b3a-4735-a714-ec06ae3179cf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:06.440013",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22294,
+      "buildId": 397,
+      "sequenceOrder": 97,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11e2c8a4-4509-4ff0-a8c3-6e28bd4b3703.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:08.83976",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22295,
+      "buildId": 397,
+      "sequenceOrder": 98,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13ffad4e-7cee-4182-a3f8-3ec0fed7b358.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:09.807729",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22296,
+      "buildId": 397,
+      "sequenceOrder": 99,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a79fcb03-359d-489c-be23-4062dd5e4833.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:10.741344",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22297,
+      "buildId": 397,
+      "sequenceOrder": 100,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77a3f262-f006-456c-9699-e8019503148f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:11.583104",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22298,
+      "buildId": 397,
+      "sequenceOrder": 101,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/213b253e-0e88-4da0-aa0e-014f1d06cf82.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:12.437991",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22299,
+      "buildId": 397,
+      "sequenceOrder": 102,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/31316070-2b01-4f8f-a421-75b2cfa13e7f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:13.826931",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22300,
+      "buildId": 397,
+      "sequenceOrder": 103,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f832c5c6-9a98-456a-bf36-645f4b9cce8b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:15.144578",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22301,
+      "buildId": 397,
+      "sequenceOrder": 104,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32ff5423-255f-477e-802e-e88f3a58d17a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:16.218392",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22302,
+      "buildId": 397,
+      "sequenceOrder": 105,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c16e092-aa07-4636-8fb8-eeee08aededb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:17.057324",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22303,
+      "buildId": 397,
+      "sequenceOrder": 106,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9041cc68-f7e9-4bef-83a6-8f79b76e5006.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:18.397483",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22304,
+      "buildId": 397,
+      "sequenceOrder": 107,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/59f41581-ad55-40b3-95ee-c25dd0b261ef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:19.637748",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22305,
+      "buildId": 397,
+      "sequenceOrder": 108,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1993dd74-d70f-4987-8dcc-8d747a9eb41b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:20.625061",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22306,
+      "buildId": 397,
+      "sequenceOrder": 109,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e7c9715a-258a-4e5e-89fd-1dcf7036ba90.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:22.814453",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22307,
+      "buildId": 397,
+      "sequenceOrder": 110,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9a8dbd5a-8f57-4255-914a-ee3225c0cd30.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:24.246001",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22308,
+      "buildId": 397,
+      "sequenceOrder": 111,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b71b6d42-00ec-4519-9173-ea76ea3a45c6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:25.487388",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22309,
+      "buildId": 397,
+      "sequenceOrder": 112,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc6964a7-7f56-478b-9ec8-54ad94deda25.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:26.443372",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22310,
+      "buildId": 397,
+      "sequenceOrder": 113,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d0bbffc-a6b9-439d-8d99-72e3ce74e74e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:27.67563",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22311,
+      "buildId": 397,
+      "sequenceOrder": 114,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b0b1011-0bfe-4543-a15a-142543fdac2f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:28.722211",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22312,
+      "buildId": 397,
+      "sequenceOrder": 115,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1afcb1de-aa2b-44d7-b0a1-d249c90a12c0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:29.483658",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Andesite Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22313,
+      "buildId": 397,
+      "sequenceOrder": 116,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84e7a213-9402-4e8b-9dec-8f1eec5601c5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:30.502014",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22314,
+      "buildId": 397,
+      "sequenceOrder": 117,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f5f156f-dca1-4e24-b886-fb356e3f610e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:32.716164",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22315,
+      "buildId": 397,
+      "sequenceOrder": 118,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f82447a6-cf77-4910-86bc-e65560ffafe9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:34.19502",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22316,
+      "buildId": 397,
+      "sequenceOrder": 119,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/829476d4-ef43-4f55-b0fc-f82e9cae7243.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:35.356613",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22317,
+      "buildId": 397,
+      "sequenceOrder": 120,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fe8e76c7-5baa-4bcd-b622-204a73019f5d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:36.499901",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22318,
+      "buildId": 397,
+      "sequenceOrder": 121,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2070de41-9f8f-4a44-abfb-98a89948eadd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:38.323406",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 22319,
+      "buildId": 397,
+      "sequenceOrder": 122,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/034c5600-3ad2-435e-8f7e-f9bbb4277962.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:51:39.281435",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bbf724a1-7445-49bd-b5a8-65794bfcbfa9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/130b2467-6c0c-497e-87c2-2a79b5bd31a5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/224408cc-64f1-4d81-b2b6-7b56d8147bed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/686b9acd-9d97-44ef-982e-3fa1e7b256f8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b9a2ce9d-6155-4a9d-be65-82fa050be45c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd4ce710-e4bb-4e8a-aa43-2a004d24f285.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00dc90fb-ead0-471f-8437-f5583153476e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/03ee0f29-75de-4904-ba28-0db94a6e45e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8caeb709-f9a0-4a20-84f5-bef54a692a42.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bdb87744-a7be-4c07-817a-7cc4ba47e8b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e6a92d9-6946-4eb7-9fd7-5b568c6fe671.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99889182-0137-48ea-b2e4-f726076846d5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e77f2634-c620-4d56-98b1-ece3be5a5275.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc3cff41-61e3-4991-8321-b37960f01345.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d5f4898-a93d-4a49-8cd7-f6bc9f36f685.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b27b5b10-cdfb-41e0-9aa4-33e4d8e06173.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2331f7b-6b09-4166-acc1-11c923b84c52.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15588353-78f7-400d-aee5-d845e38e4848.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89c27130-2904-401f-b3ca-cdb97e3176dc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/787aa6ab-cef1-467c-acfa-07887eda4c5d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5849f549-b741-4671-9ce5-287b4753673a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6dafd511-623d-42d4-85ef-76affddb683e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c87eff99-7f2d-4597-b8a1-093a1ef91e66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f37e7f16-2da1-4c53-b966-dc84c9899e8d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b22ca131-d74e-4568-b04c-3c4ed6026606.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92aec532-a5df-4c05-91ea-1c133b63ca66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5ea86d0d-9d58-45de-95ed-5d005bbbcbd2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72e3a1eb-8a99-46ef-9bc8-d7c332844896.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0c77b24e-6a18-4699-b309-d5a3535ec4b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec92de3f-ee11-4a58-9ca8-a0afeaf39871.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9a672dd1-eaee-440e-b961-9140e0af9072.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92ac3f45-b987-4d99-9b90-0c648f11f0f7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62bd9ddd-99e2-44a8-9376-702061070260.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d39cfb32-afa8-4f57-ba6a-873ad86429ce.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b995f62-c47a-49e9-8352-37103df1ac3d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/406bb750-4fab-44ad-a53d-1a7e3cbc40bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8fa366d4-a1a8-4bdd-9dfa-a6492d1e0c59.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9f68bd4-17b7-4efe-b12b-009e1ee24a8c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6bf0857a-4ab7-47a4-a7a2-8d2e61607884.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64229f4e-ffd2-4a0d-a761-93a503e5f9ad.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d8a46d4-79b3-4aac-99fb-a38a644014bc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f5c80f4-dda5-4835-a377-e40085e9551e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4250186f-3406-43c9-8c39-c6535a2a06e9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/841910bc-88b8-4339-b442-d04a4622cbf6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6692e411-79e6-4821-870a-fa115365bd1d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/483e2e14-b590-4c84-8028-4d21c4c2d9db.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6c5596e-7884-4207-ba40-4f54d269c625.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/900a4557-c8d5-47c8-adfb-212e2a0da305.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/20ebb4ad-f910-46c1-bdda-6c865e25f9b8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eca9c017-1d91-4443-9e53-7204328dbab8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d2f1a00-d9d7-4d5c-9afb-9a42493e8cc2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8895c90-0955-44f2-84f3-48bd26038545.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/054b2c86-4dad-4263-a053-23ff71a4b712.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5507ab6d-0562-4ff2-bd96-050507ff1a96.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2a295ccd-e2a3-40ad-8d93-b230e81775a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02004dd2-f2fe-4f3e-bce5-cb01f82e7a74.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/29999e3c-0052-48c5-b9ae-bd7ae5ea0708.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62869503-3fbc-47f8-9e06-b5aa64643346.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f5dc0747-176a-443f-9eb3-9bdb6c7162bc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/824ee0ec-5ec7-4a0d-a782-02d827a8b25c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b5ef361-1454-4972-b8ef-07eaafbf5ba0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/53c619f9-7b96-48e3-b340-5f83781d63f2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d972adbd-9122-4206-be1a-5375d2ea67ce.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/570e16ee-922b-43e6-a68f-6f525dc44601.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf829beb-1222-4464-b95a-938d73158425.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d57d487-31ed-4644-b525-bbb26ce4bf84.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdecf1f4-c034-4797-ac85-b0f9b15eb008.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30a6d2d3-be54-4798-8d6a-1a12c7a94feb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a52d564c-a299-44ba-8abf-c7d76113715b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e236872b-f159-4e4a-930e-90b20b57c4a8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2eeb9a59-b7e7-4bb8-90a2-d5e6f46e318a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07db0eef-14d2-4aea-8c35-4261732531a7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/efdb09f2-c77b-4ad5-9899-18efca6e6516.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4bd76713-2a54-46a9-b2f0-4c5391e7472a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3319fc45-f1d9-4541-939e-412a09edff48.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2acf40c6-bd66-49db-b2c1-2b7e840f5302.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e81dc584-ad4f-4cc3-a3c4-d717b00c4330.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c5387b83-6a66-4644-acef-b058a6a3d30a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dd73c01f-72a0-469a-9a28-a3c77dd814c1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb1bfdfa-5d47-48fb-a66f-f74f6e24056b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fbc4e00b-0631-494c-941a-b74c47da8b02.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/760e8071-9121-4ab2-946e-a3f7637063c0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65b0e0c0-3634-46b9-bc36-c5a2e6a0c1ac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ffb4e39-f968-4c32-a2a6-02106ff89916.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/044f0bad-65d4-408d-b49a-a1def9b4380b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e8e77fc-78e4-4b48-afc4-42d911daf75f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4d082e5c-247e-40f3-8d47-5f97815d17a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2886f9e6-930c-47fa-84fe-20f77e1d9ef2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/582615a1-4032-4cf6-8363-bfc3e8a1bbf5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/878bd6c9-09ae-4694-895a-30f1a3736a0e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e05cf6b1-522d-4d5b-9c6c-93f0b7e9b51d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/181db7ad-f101-4284-9a36-aa196066f05a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8df86cb1-6113-4b7b-9349-7bb24f7d3884.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c86d1a6-c6f5-4610-8a96-f623ccfb53a1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f9f31e9f-17ae-429e-9be9-3b4fd28d5ef5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8524ee50-5b3a-4735-a714-ec06ae3179cf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11e2c8a4-4509-4ff0-a8c3-6e28bd4b3703.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13ffad4e-7cee-4182-a3f8-3ec0fed7b358.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a79fcb03-359d-489c-be23-4062dd5e4833.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77a3f262-f006-456c-9699-e8019503148f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/213b253e-0e88-4da0-aa0e-014f1d06cf82.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/31316070-2b01-4f8f-a421-75b2cfa13e7f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f832c5c6-9a98-456a-bf36-645f4b9cce8b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32ff5423-255f-477e-802e-e88f3a58d17a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c16e092-aa07-4636-8fb8-eeee08aededb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9041cc68-f7e9-4bef-83a6-8f79b76e5006.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/59f41581-ad55-40b3-95ee-c25dd0b261ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1993dd74-d70f-4987-8dcc-8d747a9eb41b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e7c9715a-258a-4e5e-89fd-1dcf7036ba90.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9a8dbd5a-8f57-4255-914a-ee3225c0cd30.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b71b6d42-00ec-4519-9173-ea76ea3a45c6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc6964a7-7f56-478b-9ec8-54ad94deda25.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d0bbffc-a6b9-439d-8d99-72e3ce74e74e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b0b1011-0bfe-4543-a15a-142543fdac2f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1afcb1de-aa2b-44d7-b0a1-d249c90a12c0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84e7a213-9402-4e8b-9dec-8f1eec5601c5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f5f156f-dca1-4e24-b886-fb356e3f610e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f82447a6-cf77-4910-86bc-e65560ffafe9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/829476d4-ef43-4f55-b0fc-f82e9cae7243.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fe8e76c7-5baa-4bcd-b622-204a73019f5d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2070de41-9f8f-4a44-abfb-98a89948eadd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/034c5600-3ad2-435e-8f7e-f9bbb4277962.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/034c5600-3ad2-435e-8f7e-f9bbb4277962.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/034c5600-3ad2-435e-8f7e-f9bbb4277962.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Building Guide MCPE Trainer",
+  "version": 1,
+  "source": "wbuilds-filtered",
+  "publicBase": "https://amonnoris1.github.io/building-guide-api",
+  "allowedCategories": [
+    "Beacon",
+    "House",
+    "Redstone",
+    "Statue",
+    "Vehicle"
+  ],
+  "buildCount": 264,
+  "buildsWithSteps": 157,
+  "buildsWithDimensions": 91,
+  "buildsWithDescription": 264,
+  "buildsWithStyle": 148,
+  "failedDetails": 107,
+  "imagesDownloaded": 10680,
+  "failedImages": 0,
+  "categories": {
+    "Beacon": 13,
+    "House": 121,
+    "Redstone": 12,
+    "Statue": 82,
+    "Vehicle": 36
+  },
+  "endpoints": {
+    "index": "/v1/index.json",
+    "categories": "/v1/categories.json",
+    "builds": "/v1/builds.json",
+    "build": "/v1/builds/{id}.json",
+    "cover": "/v1/media/builds/covers/{file}",
+    "step": "/v1/media/builds/steps/{file}",
+    "material": "/v1/media/materials/{file}"
+  },
+  "pathPrefix": "/v1"
+}

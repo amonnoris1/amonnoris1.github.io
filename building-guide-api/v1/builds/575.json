@@ -1,0 +1,133 @@
+{
+  "id": 575,
+  "name": "Seal Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 12,
+  "steps": 12,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0a14147a-2124-4b6c-ac33-cef83f08f6cb.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0a14147a-2124-4b6c-ac33-cef83f08f6cb.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f35ae0b2-5382-4c5b-9b86-8e3e430c5db5.webp",
+  "description": "A small minecraft statue of a seal in white and sand blocks, with a raised head and flat tail. Only a handful of blocks, built in minutes. Sits well on a beach, an ice biome or beside a pool.",
+  "dimensions": {
+    "width": 5,
+    "height": 4,
+    "length": 7
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:36:12.463104",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Sandstone Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_sandstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4372060-1459-4347-b7a2-e9908d40f825.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:iron_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Candle",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:white_candle",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b35a065a-2923-49c8-82c1-c2820825b3c2.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f35ae0b2-5382-4c5b-9b86-8e3e430c5db5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f35ae0b2-5382-4c5b-9b86-8e3e430c5db5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "id": 645,
+  "name": "Mushroom Statue",
+  "categoryId": 4,
+  "categoryName": "Decoration",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    },
+    {
+      "id": 4,
+      "name": "Decoration",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/41847565-063d-4136-9ff9-b3821c62c76c.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 6,
+  "styleName": "Natural",
+  "style": "Natural",
+  "tags": [
+    {
+      "id": 27,
+      "name": "Mushroom"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 32,
+  "steps": 33,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/a2693003-4de0-475e-b9a8-ec5b7b545518.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/a2693003-4de0-475e-b9a8-ec5b7b545518.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/630ed517-5ad2-471b-bcfb-287650e5729a.webp",
+  "description": "Credit: patryk286125",
+  "dimensions": {
+    "width": 9,
+    "height": 10,
+    "length": 9
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-29T21:09:58.805289",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Button",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:birch_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0adfc324-5d43-44f5-84eb-6f82308e8d6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Birch Log",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:stripped_birch_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Birch Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:birch_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/99ff0f17-6594-486e-a454-f4ecbf28a523.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Stairs",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:acacia_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/effc0cb4-092c-48b7-b820-25f7d630b7f4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Slab",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:acacia_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c90e34d-4441-4008-bedd-cfaabde47399.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Planks",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:acacia_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 34,
+      "quantity": 34,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 32648,
+      "buildId": 645,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4a13aa78-3c8f-4be2-8514-07f08b7999aa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:02.149385",
+      "materials": []
+    },
+    {
+      "id": 32649,
+      "buildId": 645,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cca3489f-0dd9-49f1-8626-a41ad0e3934b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:02.913857",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32650,
+      "buildId": 645,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ad5c0b4-0c63-43da-b29f-48166368d31e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:03.759085",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32651,
+      "buildId": 645,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/645a3334-b5f1-43d6-a131-e8d819f272be.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:05.060797",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32652,
+      "buildId": 645,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14ce0ad4-ab6b-4c04-ba52-b00e49852843.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:05.866028",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32653,
+      "buildId": 645,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46170894-cc62-46df-88dc-234577be64a5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:06.657395",
+      "materials": [
+        {
+          "name": "Stripped Birch Log",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32654,
+      "buildId": 645,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7bfe7b0f-2be9-44cc-bc81-842046e1859a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:07.87517",
+      "materials": [
+        {
+          "name": "Stripped Birch Log",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32655,
+      "buildId": 645,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec1ede29-8bd5-496c-acfd-44c0322cc2fa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:08.761141",
+      "materials": [
+        {
+          "name": "Stripped Birch Log",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32656,
+      "buildId": 645,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af3772a1-9923-4435-912c-d1d43ef6ee11.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:09.611342",
+      "materials": [
+        {
+          "name": "Stripped Birch Log",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32657,
+      "buildId": 645,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89e81d13-f545-44ca-a77c-29eb4cafe0e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:10.488808",
+      "materials": [
+        {
+          "name": "Stripped Birch Log",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32658,
+      "buildId": 645,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/928e46fe-c1de-4e4e-ad3c-1be5144a0919.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:11.421806",
+      "materials": [
+        {
+          "name": "Birch Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:birch_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/99ff0f17-6594-486e-a454-f4ecbf28a523.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32659,
+      "buildId": 645,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/55dc115c-884b-40aa-865f-ba08bec294bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:12.231893",
+      "materials": [
+        {
+          "name": "Birch Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:birch_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/99ff0f17-6594-486e-a454-f4ecbf28a523.webp",
+          "type": "item"
+        },
+        {
+          "name": "Stripped Birch Log",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stripped_birch_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a1a34d3-1382-4eaa-aa8a-5ddf0aba6cc1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32660,
+      "buildId": 645,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c022db78-863a-48b9-9ed5-85f6c61c0a0c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:13.009131",
+      "materials": [
+        {
+          "name": "Birch Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/99ff0f17-6594-486e-a454-f4ecbf28a523.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32661,
+      "buildId": 645,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c7d91a07-eb98-4b04-9611-62af3a76957a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:13.993625",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32662,
+      "buildId": 645,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05b7cce5-cd94-4685-aaa7-444524d7afa6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:14.845024",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32663,
+      "buildId": 645,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cffba8a9-7717-459c-bb6e-51ee770f3bba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:15.666961",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32664,
+      "buildId": 645,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/800c0515-2b16-4fda-88f4-fccc14360542.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:16.534051",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32665,
+      "buildId": 645,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5f3cf4e1-8c38-4df3-adcc-028a07949d0e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:17.340476",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32666,
+      "buildId": 645,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c0b4ca-57da-46af-bb80-392dc8decb9f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:18.308723",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32667,
+      "buildId": 645,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c84e0d1-304d-4a45-b502-6835776aa292.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:19.298051",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32668,
+      "buildId": 645,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b47c22eb-9781-40c6-8ebf-bd50b2833a6d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:20.104402",
+      "materials": [
+        {
+          "name": "Acacia Planks",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:acacia_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/13521fda-1c2d-4020-b41c-695c1d986a5f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32669,
+      "buildId": 645,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f941443f-21ce-497a-b55b-f5c3b453ffe9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:20.901041",
+      "materials": [
+        {
+          "name": "Acacia Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/effc0cb4-092c-48b7-b820-25f7d630b7f4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32670,
+      "buildId": 645,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ab205e9d-d213-4ee9-a849-abc714cef0c9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:23.26033",
+      "materials": [
+        {
+          "name": "Acacia Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:acacia_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/effc0cb4-092c-48b7-b820-25f7d630b7f4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32671,
+      "buildId": 645,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c7904a3-8274-450a-a65e-6d5fd50d923c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:24.256757",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32672,
+      "buildId": 645,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b24c0029-cbad-43f4-8034-571b6155ea83.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:25.018042",
+      "materials": [
+        {
+          "name": "Acacia Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/effc0cb4-092c-48b7-b820-25f7d630b7f4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32673,
+      "buildId": 645,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46546f46-7f6d-4f5e-a1a0-7dfd05e8d834.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:25.819604",
+      "materials": [
+        {
+          "name": "Acacia Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:acacia_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/effc0cb4-092c-48b7-b820-25f7d630b7f4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32674,
+      "buildId": 645,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8f6ff4b-6718-43d1-9b1d-a70a348bd8ab.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:26.968164",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32675,
+      "buildId": 645,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6d07ab11-9d9d-47f7-bfc6-293b94743d3f.webp",
+      "description": "come to front side",
+      "moveToArea": true,
+      "createdAt": "2026-05-29T21:10:27.731569",
+      "materials": []
+    },
+    {
+      "id": 32676,
+      "buildId": 645,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1a23006d-6385-4072-b7c2-dd5f2635031f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:28.574633",
+      "materials": [
+        {
+          "name": "Acacia Slab",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:acacia_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c90e34d-4441-4008-bedd-cfaabde47399.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32677,
+      "buildId": 645,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b66148ee-106d-471b-a289-5bc6e06b4593.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:29.338925",
+      "materials": [
+        {
+          "name": "Birch Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0adfc324-5d43-44f5-84eb-6f82308e8d6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32678,
+      "buildId": 645,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82fe5b5f-2e2e-48aa-a5f3-fdcb17c9e09c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:30.089576",
+      "materials": [
+        {
+          "name": "Birch Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0adfc324-5d43-44f5-84eb-6f82308e8d6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32679,
+      "buildId": 645,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee02b0d1-6e71-47d0-8a98-b4e50f61f8c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:31.195351",
+      "materials": []
+    },
+    {
+      "id": 32680,
+      "buildId": 645,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c188d842-3ced-469f-b529-5b93e852d230.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-29T21:10:31.981572",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4a13aa78-3c8f-4be2-8514-07f08b7999aa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cca3489f-0dd9-49f1-8626-a41ad0e3934b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ad5c0b4-0c63-43da-b29f-48166368d31e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/645a3334-b5f1-43d6-a131-e8d819f272be.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14ce0ad4-ab6b-4c04-ba52-b00e49852843.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46170894-cc62-46df-88dc-234577be64a5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7bfe7b0f-2be9-44cc-bc81-842046e1859a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec1ede29-8bd5-496c-acfd-44c0322cc2fa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af3772a1-9923-4435-912c-d1d43ef6ee11.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89e81d13-f545-44ca-a77c-29eb4cafe0e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/928e46fe-c1de-4e4e-ad3c-1be5144a0919.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/55dc115c-884b-40aa-865f-ba08bec294bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c022db78-863a-48b9-9ed5-85f6c61c0a0c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c7d91a07-eb98-4b04-9611-62af3a76957a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05b7cce5-cd94-4685-aaa7-444524d7afa6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cffba8a9-7717-459c-bb6e-51ee770f3bba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/800c0515-2b16-4fda-88f4-fccc14360542.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5f3cf4e1-8c38-4df3-adcc-028a07949d0e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c0b4ca-57da-46af-bb80-392dc8decb9f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c84e0d1-304d-4a45-b502-6835776aa292.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b47c22eb-9781-40c6-8ebf-bd50b2833a6d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f941443f-21ce-497a-b55b-f5c3b453ffe9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ab205e9d-d213-4ee9-a849-abc714cef0c9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c7904a3-8274-450a-a65e-6d5fd50d923c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b24c0029-cbad-43f4-8034-571b6155ea83.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46546f46-7f6d-4f5e-a1a0-7dfd05e8d834.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8f6ff4b-6718-43d1-9b1d-a70a348bd8ab.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6d07ab11-9d9d-47f7-bfc6-293b94743d3f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1a23006d-6385-4072-b7c2-dd5f2635031f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b66148ee-106d-471b-a289-5bc6e06b4593.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82fe5b5f-2e2e-48aa-a5f3-fdcb17c9e09c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee02b0d1-6e71-47d0-8a98-b4e50f61f8c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c188d842-3ced-469f-b529-5b93e852d230.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/630ed517-5ad2-471b-bcfb-287650e5729a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/630ed517-5ad2-471b-bcfb-287650e5729a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

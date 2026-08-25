@@ -1,0 +1,169 @@
+{
+  "id": 146,
+  "name": "Tree House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 37,
+      "name": "Treehouse"
+    }
+  ],
+  "difficulty": 2,
+  "buildSteps": 60,
+  "steps": 60,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e391d58d-323a-40e9-ac8a-d9fbfc403c66.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e391d58d-323a-40e9-ac8a-d9fbfc403c66.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/333b9b22-97aa-4f01-9822-ac1d99fd78a3.webp",
+  "description": "A compact minecraft treehouse with a glass-walled room on top of a thick trunk and a leaf canopy for a roof. One lookout room upstairs, benches and flowers around the base. Built from logs, leaves and glass, all easy to gather. Works as a starter home or a watchtower by your base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-06T16:43:14.324667",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Door",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fbada5d3-107a-4fe7-86fa-c9a371ab1a0e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Planks",
+      "count": 92,
+      "quantity": 92,
+      "identifier": "minecraft:oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a09ec4a-656e-4231-a41d-5af6791e704d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Stairs",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:oak_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f55f545b-1db6-439d-aab0-3ad8bb6bd1b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Slab",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:oak_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f7be016-3c48-4c90-a975-7175d3e11c69.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Fence",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:oak_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/37676f03-b726-49cd-afff-f8795af76c11.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Trapdoor",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5cbf9e7b-1a1c-487f-91ae-43149f48caf5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Log",
+      "count": 212,
+      "quantity": 212,
+      "identifier": "minecraft:oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ad2b8c02-d9f4-4913-94a9-0f5ec4910e48.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 108,
+      "quantity": 108,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Leaves",
+      "count": 185,
+      "quantity": 185,
+      "identifier": "minecraft:oak_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/74d5edb9-8098-4fe6-ac3a-6ec9712ed96a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Rose Bush",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:rose_bush",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8d7d234-0b44-41ac-b821-f675c32c3163.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lectern",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:lectern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a21581-d23a-439a-8352-32be11bf803f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Water Bucket",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:water_bucket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9840fd88-ba2a-4b65-bd2d-3be68591b5d1.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/333b9b22-97aa-4f01-9822-ac1d99fd78a3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/333b9b22-97aa-4f01-9822-ac1d99fd78a3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

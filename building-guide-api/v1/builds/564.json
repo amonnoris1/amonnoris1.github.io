@@ -1,0 +1,200 @@
+{
+  "id": 564,
+  "name": "Dragon Skull",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 73,
+  "steps": 73,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f569a1cb-736c-46cf-829d-0881845c4057.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f569a1cb-736c-46cf-829d-0881845c4057.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a26f0125-da9b-40ba-8c4c-e05245ee03df.webp",
+  "description": "A giant minecraft statue of a dragon skull in white blocks, with purple portal-block eyes and a mouth full of stone fangs. Horns curve back in dark cobblestone, with grass and vines for age. Takes a good stack of blocks at this size. Place it as a landmark or a hidden lair entrance.",
+  "dimensions": {
+    "width": 16,
+    "height": 15,
+    "length": 26
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-09T17:21:42.027904",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Diorite",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:diorite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b8439764-8f74-4662-a568-5deb1988425d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Diorite Wall",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:diorite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate",
+      "count": 47,
+      "quantity": 47,
+      "identifier": "minecraft:cobbled_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b033a78e-62e9-45e0-b432-8351215d9efc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate Stairs",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:cobbled_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3d423e3f-ed68-41bd-a7bb-1777e1498984.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate Wall",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:cobbled_deepslate_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6ea9708d-1875-423c-b73a-88700b1b925a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 455,
+      "quantity": 455,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Wool",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:red_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Wool",
+      "count": 82,
+      "quantity": 82,
+      "identifier": "minecraft:black_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+      "type": "item"
+    },
+    {
+      "name": "Moss Carpet",
+      "count": 29,
+      "quantity": 29,
+      "identifier": "minecraft:moss_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dfd5a4b5-071f-4b29-9d25-4ed2d24a211d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Moss Block",
+      "count": 27,
+      "quantity": 27,
+      "identifier": "minecraft:moss_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/93264363-1cb0-4309-8a71-1945f712187d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Calcite",
+      "count": 69,
+      "quantity": 69,
+      "identifier": "minecraft:calcite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/923e6085-a5c9-4414-ac3c-2804195e6be1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crying Obsidian",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:crying_obsidian",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8773357-837c-4a84-9e2e-9b9d4065e5f0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pointed Dripstone",
+      "count": 33,
+      "quantity": 33,
+      "identifier": "minecraft:pointed_dripstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b69cd67b-38ec-432f-a8c7-c6ec729ff900.webp",
+      "type": "item"
+    },
+    {
+      "name": "Short Grass",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:short_grass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/71cf4b6f-d569-4380-a169-85589d2e6c9e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Vines",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:vine",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b70461aa-44d7-4c1b-95c0-bef3e72d946c.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a26f0125-da9b-40ba-8c4c-e05245ee03df.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a26f0125-da9b-40ba-8c4c-e05245ee03df.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

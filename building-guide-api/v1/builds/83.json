@@ -1,0 +1,161 @@
+{
+  "id": 83,
+  "name": "Medieval Beacon Tower",
+  "categoryId": 6,
+  "categoryName": "Beacon",
+  "category": "Beacon",
+  "categories": [
+    {
+      "id": 6,
+      "name": "Beacon",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/3fc37cca-e56f-4f2b-a00e-e68d71710bec.webp"
+    }
+  ],
+  "labels": [
+    "Beacon"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 23,
+      "name": "Medieval"
+    }
+  ],
+  "difficulty": 2,
+  "buildSteps": 58,
+  "steps": 58,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/606d7a65-f1dd-41bd-92e5-b00dd924d4bf.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/606d7a65-f1dd-41bd-92e5-b00dd924d4bf.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d169509-d107-4886-bc93-36e4f0873d99.webp",
+  "description": "A medieval minecraft tower built to house a beacon, with wood columns below and dark stone spires above. The beam fires up through the roof, and the open base lets you walk in for the buffs. Uses logs and stone bricks. Fits castle grounds or a village square.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-18T19:46:19.923834",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:spruce_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1390b325-6501-46a9-be5a-f10643fe5624.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Spruce Log",
+      "count": 88,
+      "quantity": 88,
+      "identifier": "minecraft:stripped_spruce_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b1070fd-81d9-45e6-8369-f99411504b8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Stairs",
+      "count": 48,
+      "quantity": 48,
+      "identifier": "minecraft:spruce_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0266331b-38a3-464b-8838-6070d8c89c5c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Fence",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:dark_oak_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b74e76cd-ff7d-4fe6-82c5-0d420163b6a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:polished_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tiles",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:deepslate_tiles",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12a7019d-5cff-4a4b-b567-95563ae05209.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Wall",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:deepslate_tile_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/22c4deda-725d-4621-a60f-ba3ee2402678.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Stairs",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:deepslate_tile_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d2227147-b3b1-4cb3-bdbf-5f100f415387.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Iron",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:iron_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/064beedd-a895-4694-81ed-ee5f25ee24ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Bars",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:iron_bars",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lime_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1c9341d4-5c6d-47f1-b0dc-04e5ed5cb997.webp",
+      "type": "item"
+    },
+    {
+      "name": "Beacon",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:beacon",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15febcd8-a2d4-4dad-99fd-e5df9d47a5d4.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d169509-d107-4886-bc93-36e4f0873d99.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d169509-d107-4886-bc93-36e4f0873d99.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

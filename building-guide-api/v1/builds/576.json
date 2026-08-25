@@ -1,0 +1,467 @@
+{
+  "id": 576,
+  "name": "Caterpie Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 2,
+  "buildSteps": 19,
+  "steps": 18,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/d15f7634-c966-4999-8b6b-303b70125aaf.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/d15f7634-c966-4999-8b6b-303b70125aaf.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c5ad2c-6c17-4062-ba98-959ac3b8d4e9.webp",
+  "description": "A minecraft statue of Caterpie, the green caterpillar Pokemon, with big white eyes and striped legs. Lime wool and a few wood accents, small and cheap to build. A quick decoration for a garden, forest or Pokemon-themed world.",
+  "dimensions": {
+    "width": 3,
+    "height": 3,
+    "length": 5
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:36:34.35935",
+  "updatedAt": "2026-05-15T15:36:34.359352",
+  "contentUpdatedAtEpochMs": 1784720999816,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Lime Wool",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:lime_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b8996b9-8643-4d0f-8649-4880b80c5bec.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Carpet",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:lime_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c547d7f-d509-44f2-91f2-4a2832f6829f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Terracotta",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:lime_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5380c24-26e7-41d8-a25e-09720ec66a33.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:gray_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Banner",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:lime_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4950a8ae-eae7-4a7c-a452-e1b60924a8e9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Dye",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2add268c-dcf2-4480-b040-d408a87a946a.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31408,
+      "buildId": 576,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/715c8b10-2e8b-4dd6-af09-6d343b8eeb04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:35.821378",
+      "materials": [
+        {
+          "name": "Lime Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lime_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b8996b9-8643-4d0f-8649-4880b80c5bec.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31409,
+      "buildId": 576,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e8d0de9-7eb2-420f-b0c2-cb938185d319.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:36.677656",
+      "materials": [
+        {
+          "name": "Black Dye",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2add268c-dcf2-4480-b040-d408a87a946a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Gray Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31410,
+      "buildId": 576,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72f644b3-d97c-4399-9a2b-23bb751ca06c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:37.526983",
+      "materials": []
+    },
+    {
+      "id": 31411,
+      "buildId": 576,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b737692-56f7-4df5-9135-4bcf41a4716a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:38.32595",
+      "materials": []
+    },
+    {
+      "id": 31412,
+      "buildId": 576,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0eb225a9-5cee-4d13-a577-19680fa5d200.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:39.230043",
+      "materials": []
+    },
+    {
+      "id": 31413,
+      "buildId": 576,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71ba64a5-0593-4d54-befd-26d46364cc1d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:40.552034",
+      "materials": []
+    },
+    {
+      "id": 31414,
+      "buildId": 576,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ced83cd-f8c0-47b8-af06-83e0cf83c211.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:42.138324",
+      "materials": [
+        {
+          "name": "Lime Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lime_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4950a8ae-eae7-4a7c-a452-e1b60924a8e9.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Dye",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2add268c-dcf2-4480-b040-d408a87a946a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31415,
+      "buildId": 576,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15183707-0efe-40d8-b2a5-9392febf665b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:43.059084",
+      "materials": []
+    },
+    {
+      "id": 31416,
+      "buildId": 576,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/330849d0-fde8-4370-855a-58465d56e81e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:44.109047",
+      "materials": [
+        {
+          "name": "Gray Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31417,
+      "buildId": 576,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73c109c0-0b77-4a7b-8917-8ffe54baaae1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:45.092793",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31418,
+      "buildId": 576,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/823a3f47-4767-4e12-81d3-fccf51b652b1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:47.30942",
+      "materials": [
+        {
+          "name": "Lime Terracotta",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lime_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5380c24-26e7-41d8-a25e-09720ec66a33.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31419,
+      "buildId": 576,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76416df0-e1f4-4d69-b2d7-892ae16ce45d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:48.58537",
+      "materials": [
+        {
+          "name": "Lime Banner",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lime_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4950a8ae-eae7-4a7c-a452-e1b60924a8e9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31420,
+      "buildId": 576,
+      "sequenceOrder": 13,
+      "image": null,
+      "description": "Repeat the same process on the other side also.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:48.592925",
+      "materials": []
+    },
+    {
+      "id": 31421,
+      "buildId": 576,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fc082745-2526-46c9-8099-cfaa7b4014a1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:49.491732",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31422,
+      "buildId": 576,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c04e92b0-6aff-431e-aca1-fe84e8247c56.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:51.59292",
+      "materials": [
+        {
+          "name": "Lime Terracotta",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lime_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5380c24-26e7-41d8-a25e-09720ec66a33.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31423,
+      "buildId": 576,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f0b405ba-3c96-479a-ac93-b13c1d6db660.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:52.909786",
+      "materials": [
+        {
+          "name": "Lime Banner",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:lime_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4950a8ae-eae7-4a7c-a452-e1b60924a8e9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31424,
+      "buildId": 576,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40308919-e5c1-4efc-8ade-9fc5c93270ad.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:53.707209",
+      "materials": [
+        {
+          "name": "Lime Carpet",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:lime_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c547d7f-d509-44f2-91f2-4a2832f6829f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31425,
+      "buildId": 576,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d61fc4e6-d637-4fd1-8050-d4a6035335d7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:54.644456",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31426,
+      "buildId": 576,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c5ad2c-6c17-4062-ba98-959ac3b8d4e9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:36:55.605146",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/715c8b10-2e8b-4dd6-af09-6d343b8eeb04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e8d0de9-7eb2-420f-b0c2-cb938185d319.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72f644b3-d97c-4399-9a2b-23bb751ca06c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b737692-56f7-4df5-9135-4bcf41a4716a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0eb225a9-5cee-4d13-a577-19680fa5d200.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71ba64a5-0593-4d54-befd-26d46364cc1d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ced83cd-f8c0-47b8-af06-83e0cf83c211.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15183707-0efe-40d8-b2a5-9392febf665b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/330849d0-fde8-4370-855a-58465d56e81e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73c109c0-0b77-4a7b-8917-8ffe54baaae1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/823a3f47-4767-4e12-81d3-fccf51b652b1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76416df0-e1f4-4d69-b2d7-892ae16ce45d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fc082745-2526-46c9-8099-cfaa7b4014a1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c04e92b0-6aff-431e-aca1-fe84e8247c56.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f0b405ba-3c96-479a-ac93-b13c1d6db660.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40308919-e5c1-4efc-8ade-9fc5c93270ad.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d61fc4e6-d637-4fd1-8050-d4a6035335d7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c5ad2c-6c17-4062-ba98-959ac3b8d4e9.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c5ad2c-6c17-4062-ba98-959ac3b8d4e9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3c5ad2c-6c17-4062-ba98-959ac3b8d4e9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

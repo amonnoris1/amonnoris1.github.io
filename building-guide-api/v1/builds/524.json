@@ -1,0 +1,96 @@
+{
+  "id": 524,
+  "name": "Headless Zombie",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 13,
+  "steps": 13,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f06be652-11d2-433d-b56e-3891ed91f8c5.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f06be652-11d2-433d-b56e-3891ed91f8c5.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4269df6-5e35-4687-bde3-a9fe4cd612bc.webp",
+  "description": "A minecraft statue of a headless zombie holding its own green head under one arm, built from terracotta on a small stone base. A quick build from a few common blocks. Stand it in your yard or graveyard as a Halloween prop.",
+  "dimensions": {
+    "width": 4,
+    "height": 4,
+    "length": 4
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T21:13:26.93057",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Block of Redstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3a01e826-0788-4516-9034-17b6e438c1f8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Zombie Head",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:zombie_head",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/476471fc-18bd-44c1-bdd9-5d8b61fb1152.webp",
+      "type": "item"
+    },
+    {
+      "name": "Piston",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4269df6-5e35-4687-bde3-a9fe4cd612bc.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4269df6-5e35-4687-bde3-a9fe4cd612bc.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

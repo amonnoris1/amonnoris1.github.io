@@ -1,0 +1,180 @@
+{
+  "id": 396,
+  "name": "Enderman Sitting Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 112,
+  "steps": 112,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/db910702-ada0-4cf0-9c18-870a32e72088.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/db910702-ada0-4cf0-9c18-870a32e72088.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/505c3ac8-4a53-4949-a872-e0f5c6dffb37.webp",
+  "description": "A minecraft statue of an enderman sitting on the ground with a cake in front of it. Long arms curve around the cake, built from blackstone and obsidian with purple eyes. Dark blocks only, low cost, quick to build. A fun landmark for a spawn area or end-themed base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:46:32.05858",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Stripped Mangrove Wood",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:stripped_mangrove_wood",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f1db830-1e30-40b3-b59a-cfe3936dc2b5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Button",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:mangrove_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18ea196d-d9e5-4811-96a0-2f78730f380c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone",
+      "count": 424,
+      "quantity": 424,
+      "identifier": "minecraft:blackstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ba870212-cc3d-4c13-8a05-3ae5f5e2f0bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone Stairs",
+      "count": 19,
+      "quantity": 19,
+      "identifier": "minecraft:blackstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f07d4ee6-3401-4b06-91d7-7a6de49a6442.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone Slab",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:blackstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4723d795-5936-4514-935e-730f354efb95.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone Wall",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:blackstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5f32d5c7-76cf-4065-8523-ad6696485966.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:polished_blackstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Stairs",
+      "count": 11,
+      "quantity": 11,
+      "identifier": "minecraft:polished_blackstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b8f556a-0f87-4a6a-a979-88500fbc8d92.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/febcf516-f5a4-470a-9446-99517a989521.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Wall",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:polished_blackstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0c679150-2e1d-4a00-904e-d80c87c39779.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Redstone",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:redstone_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3a01e826-0788-4516-9034-17b6e438c1f8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 26,
+      "quantity": 26,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Terracotta",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f66f51df-e853-44b0-8c11-60de53132e46.webp",
+      "type": "item"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:purple_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c627a471-abb7-4140-8a34-67a1171e8e57.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pearlescent Froglight",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:pearlescent_froglight",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/77b4fb6f-db65-4b8a-b3ac-fe1b633a02fc.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/505c3ac8-4a53-4949-a872-e0f5c6dffb37.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/505c3ac8-4a53-4949-a872-e0f5c6dffb37.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

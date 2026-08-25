@@ -1,0 +1,132 @@
+{
+  "id": 203,
+  "name": "Super Smelter",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 36,
+  "steps": 36,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0be51ec3-30c8-44cd-a0a7-3bba5be9884c.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0be51ec3-30c8-44cd-a0a7-3bba5be9884c.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/743efd7b-9e5b-4669-b6b4-158b6e4dcb5e.webp",
+  "description": "The Super Smelter is very easy to build and super efficient. With this smelter you can smelt a full stack of items in just 45 seconds!",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-19T14:52:25.957302",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Stone",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:smooth_stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Hopper",
+      "count": 48,
+      "quantity": 48,
+      "identifier": "minecraft:hopper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Powered Rail",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:powered_rail",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/56c9e297-6bb1-4d1d-9fa4-e9e889659e17.webp",
+      "type": "item"
+    },
+    {
+      "name": "Rail",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:rail",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Minecart with Chest",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chest_minecart",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18da0e4c-3017-41d1-af22-77dafb6cb35c.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/743efd7b-9e5b-4669-b6b4-158b6e4dcb5e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/743efd7b-9e5b-4669-b6b4-158b6e4dcb5e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

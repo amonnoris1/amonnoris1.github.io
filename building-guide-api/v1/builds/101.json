@@ -1,0 +1,201 @@
+{
+  "id": 101,
+  "name": "Wooden House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 33,
+      "name": "Starter"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 48,
+  "steps": 48,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/967f24cc-aad7-4f07-9204-ae855ce73d1a.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/967f24cc-aad7-4f07-9204-ae855ce73d1a.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1b848e2-b4c0-419e-b1d0-f53f87c635c4.webp",
+  "description": "A large minecraft house in oak and spruce with a wraparound balcony and a fenced roof terrace. Two open floors with space for storage, beds and workstations. Takes plenty of wood, but nothing beyond logs, planks and lanterns. A base to settle into for the long run.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-19T19:53:46.078617",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Door",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fbada5d3-107a-4fe7-86fa-c9a371ab1a0e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Planks",
+      "count": 110,
+      "quantity": 110,
+      "identifier": "minecraft:oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a09ec4a-656e-4231-a41d-5af6791e704d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Stairs",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:oak_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f55f545b-1db6-439d-aab0-3ad8bb6bd1b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Slab",
+      "count": 241,
+      "quantity": 241,
+      "identifier": "minecraft:spruce_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1390b325-6501-46a9-be5a-f10643fe5624.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Fence",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:oak_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/37676f03-b726-49cd-afff-f8795af76c11.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Trapdoor",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Fence",
+      "count": 88,
+      "quantity": 88,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Log",
+      "count": 119,
+      "quantity": 119,
+      "identifier": "minecraft:oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ad2b8c02-d9f4-4913-94a9-0f5ec4910e48.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Carpet",
+      "count": 21,
+      "quantity": 21,
+      "identifier": "minecraft:red_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 44,
+      "quantity": 44,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Leaves",
+      "count": 48,
+      "quantity": 48,
+      "identifier": "minecraft:oak_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/74d5edb9-8098-4fe6-ac3a-6ec9712ed96a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Enchanting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:enchanting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d782fc10-8294-488c-bed8-b424b1fda101.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bookshelf",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:bookshelf",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f7fe3153-bac3-4576-81df-f497de1b7dca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1b848e2-b4c0-419e-b1d0-f53f87c635c4.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1b848e2-b4c0-419e-b1d0-f53f87c635c4.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

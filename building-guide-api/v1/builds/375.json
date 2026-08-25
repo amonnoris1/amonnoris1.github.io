@@ -1,0 +1,177 @@
+{
+  "id": 375,
+  "name": "Skeleton TNT Yeeter",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 5,
+  "steps": 5,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/cb699103-a7d2-483c-92a0-ffb52618eda0.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/cb699103-a7d2-483c-92a0-ffb52618eda0.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4086d8d-8d98-4263-9dec-a76312c21c9f.webp",
+  "description": "A minecraft statue of a skeleton lifting a TNT block over its head on wooden poles. Only a few blocks tall, so it fits almost anywhere. TNT, white blocks and sticks are the whole cost. Drop it by your base entrance as a warning sign.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:24:53.408077",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Grindstone",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Skeleton Skull",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fe958367-8c5d-45a3-aba9-7230cd0b8c83.webp",
+      "type": "item"
+    },
+    {
+      "name": "TNT",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:tnt",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/df69141a-f9bc-4126-aa9c-aaa5040af49c.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21128,
+      "buildId": 375,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/525b1ae2-a615-46e0-8474-b622042b1d4c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:24:54.449653",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21129,
+      "buildId": 375,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19f42b11-848e-48ae-b9b7-627d984f01c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:24:55.608847",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21130,
+      "buildId": 375,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/932c5ecb-9b0a-46db-9318-39a073c41157.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:24:56.568315",
+      "materials": [
+        {
+          "name": "TNT",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:tnt",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/df69141a-f9bc-4126-aa9c-aaa5040af49c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21131,
+      "buildId": 375,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b0c0a3d-304c-4b38-8d1f-609957e927dc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:24:58.770142",
+      "materials": [
+        {
+          "name": "Skeleton Skull",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:skeleton_skull",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fe958367-8c5d-45a3-aba9-7230cd0b8c83.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21132,
+      "buildId": 375,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4086d8d-8d98-4263-9dec-a76312c21c9f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:24:59.560589",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/525b1ae2-a615-46e0-8474-b622042b1d4c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19f42b11-848e-48ae-b9b7-627d984f01c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/932c5ecb-9b0a-46db-9318-39a073c41157.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b0c0a3d-304c-4b38-8d1f-609957e927dc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4086d8d-8d98-4263-9dec-a76312c21c9f.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4086d8d-8d98-4263-9dec-a76312c21c9f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4086d8d-8d98-4263-9dec-a76312c21c9f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "id": 358,
+  "name": "Mini Jeep",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": 3,
+  "styleName": "Modern",
+  "style": "Modern",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 26,
+  "steps": 26,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/2810b0a0-c2b0-419b-a99d-de8929fd1aea.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/2810b0a0-c2b0-419b-a99d-de8929fd1aea.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a17eaf2-e594-4554-8d45-a72b4aa4985f.webp",
+  "description": "A mini jeep with a stone body, green roof and glass windshield. Chunky black wheels, front headlights and a grille finish the off-road look. Small and quick to put together from common blocks. Park it outside a base or along a road in your city.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:30:13.072663",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Fence Gate",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:spruce_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/705c419c-99b3-4f37-ace5-cb3fd2e807dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Stone Slab",
+      "count": 11,
+      "quantity": 11,
+      "identifier": "minecraft:smooth_stone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9617b742-0d7d-45e6-b99d-b29aac8a9705.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Stairs",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:andesite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Wool",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+      "type": "item"
+    },
+    {
+      "name": "Green Wool",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:green_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff96ee41-7d2d-42b1-8ad0-3e7cf0925a33.webp",
+      "type": "item"
+    },
+    {
+      "name": "Green Carpet",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:green_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8dd0131-37de-4e5d-84aa-30f16f5aa4cb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Stained Glass",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:black_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4a08f860-64ba-4761-9aa6-dac8abadc826.webp",
+      "type": "item"
+    },
+    {
+      "name": "Green Banner",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:green_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Loom",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:loom",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50c88879-1f0c-457b-b768-57a233d5e44a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Sign",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/29712deb-7919-40eb-b0f9-8577b282ecd6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Wither Skeleton Skull",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:wither_skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+      "type": "item"
+    },
+    {
+      "name": "String",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:string",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6b4648f2-55ba-4a56-8a15-7212d95640a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Dye",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b82ffd7f-d3d9-474e-b7a9-a86afef292e8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Dye",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:black_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2add268c-dcf2-4480-b040-d408a87a946a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Green Dye",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:green_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2f4c42af-ce78-4bb0-beb7-883aea8f04d9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Banner Pattern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:guster_banner_pattern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/373752b7-3381-46ae-bd72-64d15cb18c41.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 20119,
+      "buildId": 358,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99ac4ea7-9401-4b36-a55e-ed2ec0d976c2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:14.554815",
+      "materials": [
+        {
+          "name": "Black Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20120,
+      "buildId": 358,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7dde197d-11ec-4552-beac-bbd512f517f7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:15.498432",
+      "materials": [
+        {
+          "name": "Smooth Stone Slab",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:smooth_stone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9617b742-0d7d-45e6-b99d-b29aac8a9705.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20121,
+      "buildId": 358,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d7d953b4-6b69-442c-a294-4068c2db9aa8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:16.489597",
+      "materials": [
+        {
+          "name": "Smooth Stone Slab",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_stone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9617b742-0d7d-45e6-b99d-b29aac8a9705.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20122,
+      "buildId": 358,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b80ad366-cd32-4e03-b68d-3cd8909d284e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:18.263072",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Blast Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20123,
+      "buildId": 358,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8eff6cdc-ae4f-41a5-b4d7-6520eb4bbf5b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:19.625083",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        },
+        {
+          "name": "Spruce Fence Gate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:spruce_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/705c419c-99b3-4f37-ace5-cb3fd2e807dd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20124,
+      "buildId": 358,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2326d23a-c1a6-44eb-b6ac-35c8f6566933.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:20.462648",
+      "materials": []
+    },
+    {
+      "id": 20125,
+      "buildId": 358,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/823ca35e-cb5b-4794-95ca-5c41f116b415.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:21.770548",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20126,
+      "buildId": 358,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a10f0a3-91e5-4e6a-9626-57e60478b7ff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:23.876617",
+      "materials": [
+        {
+          "name": "Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20127,
+      "buildId": 358,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0f4da5d-cdce-43c3-aa6c-6119bd0f443d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:25.147513",
+      "materials": [
+        {
+          "name": "Green Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:green_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff96ee41-7d2d-42b1-8ad0-3e7cf0925a33.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20128,
+      "buildId": 358,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44ab4f0c-f849-4a76-8831-a42f2d90af94.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:25.977833",
+      "materials": [
+        {
+          "name": "Black Stained Glass",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:black_stained_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4a08f860-64ba-4761-9aa6-dac8abadc826.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20129,
+      "buildId": 358,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2baee26-9596-4964-927d-367792555549.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:28.109054",
+      "materials": [
+        {
+          "name": "String",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:string",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6b4648f2-55ba-4a56-8a15-7212d95640a3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20130,
+      "buildId": 358,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3507398-f550-453a-81cc-bd753032881b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:29.457985",
+      "materials": [
+        {
+          "name": "Green Carpet",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:green_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8dd0131-37de-4e5d-84aa-30f16f5aa4cb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20131,
+      "buildId": 358,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99a565fc-c2fe-45a5-8b81-c7075f743fef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:30.725961",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Wither Skeleton Skull",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:wither_skeleton_skull",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20132,
+      "buildId": 358,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/899db05c-c0e1-46c9-8f49-54ad30f66845.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:32.035724",
+      "materials": [
+        {
+          "name": "Wither Skeleton Skull",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:wither_skeleton_skull",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+          "type": "item"
+        },
+        {
+          "name": "Lever",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20133,
+      "buildId": 358,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8a52a6e-ca98-4934-b29c-fd4699240dea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:33.324468",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:white_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20134,
+      "buildId": 358,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50112a90-8de1-4063-93f4-d2c4b347f8b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:34.149596",
+      "materials": [
+        {
+          "name": "Oak Sign",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:oak_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/29712deb-7919-40eb-b0f9-8577b282ecd6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20135,
+      "buildId": 358,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5da1a426-4ebf-4216-a585-b4f3ebd34abf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:35.321183",
+      "materials": [
+        {
+          "name": "Red Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Item Frame",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20136,
+      "buildId": 358,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56702f97-d21a-499b-9a17-3c224c0f6545.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:36.336304",
+      "materials": [
+        {
+          "name": "Green Banner",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20137,
+      "buildId": 358,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/74315fe5-16ab-4b1c-9bf6-fe0ebe161be0.webp",
+      "description": "Now make this patterned banner using green dye, white dye, green banner and loom",
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:37.264831",
+      "materials": [
+        {
+          "name": "Loom",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:loom",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50c88879-1f0c-457b-b768-57a233d5e44a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Green Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Green Dye",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:green_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2f4c42af-ce78-4bb0-beb7-883aea8f04d9.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Dye",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b82ffd7f-d3d9-474e-b7a9-a86afef292e8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20138,
+      "buildId": 358,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0c10532-0a9b-4fcc-94fa-ed311f661b39.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:38.546259",
+      "materials": [
+        {
+          "name": "Green Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20139,
+      "buildId": 358,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e7a030f4-7387-44fb-adf4-15a279c1b5ef.webp",
+      "description": "Now make this patterned banner using green dye, white dye, green banner and loom",
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:39.404477",
+      "materials": [
+        {
+          "name": "Loom",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:loom",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50c88879-1f0c-457b-b768-57a233d5e44a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Green Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Green Dye",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:green_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2f4c42af-ce78-4bb0-beb7-883aea8f04d9.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Dye",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b82ffd7f-d3d9-474e-b7a9-a86afef292e8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20140,
+      "buildId": 358,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5714f0f2-f6f2-434e-bff2-a4f385b5776f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:40.495925",
+      "materials": [
+        {
+          "name": "Green Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20141,
+      "buildId": 358,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f0ad12e5-69e1-4860-8e3b-fcc4f3ac48bf.webp",
+      "description": "Now make these 4 patterned banners on loom using green banner, Black Field Masoned pattern and black dye",
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:41.435872",
+      "materials": [
+        {
+          "name": "Loom",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:loom",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50c88879-1f0c-457b-b768-57a233d5e44a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Green Banner",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Dye",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:black_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2add268c-dcf2-4480-b040-d408a87a946a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20142,
+      "buildId": 358,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df58e787-1365-4f70-97f4-3cc17c63117c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:43.594835",
+      "materials": [
+        {
+          "name": "Green Banner",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20143,
+      "buildId": 358,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aae7276-6ce8-423b-b17c-edbc0501bc3a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:44.841352",
+      "materials": [
+        {
+          "name": "Green Banner",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:green_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/50209192-2415-4e14-acba-658678f8902b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20144,
+      "buildId": 358,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a17eaf2-e594-4554-8d45-a72b4aa4985f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:30:46.07017",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99ac4ea7-9401-4b36-a55e-ed2ec0d976c2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7dde197d-11ec-4552-beac-bbd512f517f7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d7d953b4-6b69-442c-a294-4068c2db9aa8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b80ad366-cd32-4e03-b68d-3cd8909d284e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8eff6cdc-ae4f-41a5-b4d7-6520eb4bbf5b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2326d23a-c1a6-44eb-b6ac-35c8f6566933.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/823ca35e-cb5b-4794-95ca-5c41f116b415.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a10f0a3-91e5-4e6a-9626-57e60478b7ff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0f4da5d-cdce-43c3-aa6c-6119bd0f443d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44ab4f0c-f849-4a76-8831-a42f2d90af94.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2baee26-9596-4964-927d-367792555549.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3507398-f550-453a-81cc-bd753032881b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99a565fc-c2fe-45a5-8b81-c7075f743fef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/899db05c-c0e1-46c9-8f49-54ad30f66845.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8a52a6e-ca98-4934-b29c-fd4699240dea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50112a90-8de1-4063-93f4-d2c4b347f8b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5da1a426-4ebf-4216-a585-b4f3ebd34abf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56702f97-d21a-499b-9a17-3c224c0f6545.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/74315fe5-16ab-4b1c-9bf6-fe0ebe161be0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0c10532-0a9b-4fcc-94fa-ed311f661b39.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e7a030f4-7387-44fb-adf4-15a279c1b5ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5714f0f2-f6f2-434e-bff2-a4f385b5776f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f0ad12e5-69e1-4860-8e3b-fcc4f3ac48bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df58e787-1365-4f70-97f4-3cc17c63117c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aae7276-6ce8-423b-b17c-edbc0501bc3a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a17eaf2-e594-4554-8d45-a72b4aa4985f.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a17eaf2-e594-4554-8d45-a72b4aa4985f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a17eaf2-e594-4554-8d45-a72b4aa4985f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

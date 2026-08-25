@@ -1,0 +1,301 @@
+{
+  "id": 422,
+  "name": "Cherry Blossom Boat",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 9,
+      "name": "Cherry Blossom"
+    },
+    {
+      "id": 23,
+      "name": "Medieval"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 233,
+  "steps": 233,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/227b5256-940d-4631-814c-2857610f767a.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/227b5256-940d-4631-814c-2857610f767a.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f3968c4d-f620-4c33-bfd6-3f8f5082cc3b.webp",
+  "description": "A sailing boat in cherry blossom colors, with pink sails, a pale pink hull and a covered stern deck. Chests sit at the bow and lanterns line the railings. Mostly cherry planks and wool. Anchor it off a cherry grove or use it as a harbor piece.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-13T12:39:50.754775",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Planks",
+      "count": 73,
+      "quantity": 73,
+      "identifier": "minecraft:spruce_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/259cb642-15b9-479d-a6fb-e1be3b4e75a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Slab",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:spruce_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1390b325-6501-46a9-be5a-f10643fe5624.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Fence",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Oak Log",
+      "count": 66,
+      "quantity": 66,
+      "identifier": "minecraft:stripped_oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e829c18b-7af1-478b-ab42-b651bf5ab2cd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Stairs",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:spruce_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0266331b-38a3-464b-8838-6070d8c89c5c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Dark Oak Log",
+      "count": 43,
+      "quantity": 43,
+      "identifier": "minecraft:stripped_dark_oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/94f704b3-df05-435a-b591-0f4af2cb7128.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Stairs",
+      "count": 80,
+      "quantity": 80,
+      "identifier": "minecraft:dark_oak_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/92d25ec9-d841-45db-85a1-adfc00bf5dca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Door",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:dark_oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Planks",
+      "count": 69,
+      "quantity": 69,
+      "identifier": "minecraft:dark_oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38db94be-a68d-46bb-b950-6346ef990983.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Slab",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:dark_oak_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4b32eb00-a81c-49fa-b5b0-e48972c9aaba.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Cherry Log",
+      "count": 159,
+      "quantity": 159,
+      "identifier": "minecraft:stripped_cherry_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Stairs",
+      "count": 167,
+      "quantity": 167,
+      "identifier": "minecraft:cherry_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Fence",
+      "count": 33,
+      "quantity": 33,
+      "identifier": "minecraft:cherry_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0fde792-f0ac-423e-8bb3-8d1f87170bca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Fence Gate",
+      "count": 29,
+      "quantity": 29,
+      "identifier": "minecraft:cherry_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c781a46b-090e-4fac-add1-9e61420a65af.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Planks",
+      "count": 318,
+      "quantity": 318,
+      "identifier": "minecraft:cherry_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Slab",
+      "count": 48,
+      "quantity": 48,
+      "identifier": "minecraft:cherry_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Trapdoor",
+      "count": 44,
+      "quantity": 44,
+      "identifier": "minecraft:cherry_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Tuff Brick Wall",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:tuff_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a4ba176a-397f-4a0a-91e5-8eb8a4b58d45.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Wool",
+      "count": 102,
+      "quantity": 102,
+      "identifier": "minecraft:white_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Wool",
+      "count": 68,
+      "quantity": 68,
+      "identifier": "minecraft:pink_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c243a3a1-5576-4b04-bfe0-7e24bfb91d2b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Bed",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:pink_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/29f67085-5d09-4f88-ab42-e6e719493d06.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grass Block",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:grass_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33adfc66-2c5b-4818-9d5d-6bff4744042f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 26,
+      "quantity": 26,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bell",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:bell",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ec477c2b-367b-4ac9-8297-340dd051370b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 29,
+      "quantity": 29,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lectern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lectern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a21581-d23a-439a-8352-32be11bf803f.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f3968c4d-f620-4c33-bfd6-3f8f5082cc3b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f3968c4d-f620-4c33-bfd6-3f8f5082cc3b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

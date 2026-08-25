@@ -1,0 +1,294 @@
+{
+  "id": 570,
+  "name": "Robot",
+  "categoryId": 4,
+  "categoryName": "Decoration",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    },
+    {
+      "id": 4,
+      "name": "Decoration",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/41847565-063d-4136-9ff9-b3821c62c76c.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 9,
+  "styleName": "Industrial",
+  "style": "Industrial",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 8,
+  "steps": 8,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/3ae8d67c-2c22-46d7-9b0e-664b6be5c1db.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/3ae8d67c-2c22-46d7-9b0e-664b6be5c1db.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc567c46-1724-4359-a2e7-c984fd4b5620.webp",
+  "description": "A small minecraft statue of a robot with a stone body, orange thruster shoulders and open frame arms. Its face is drawn on a carved block, with a vent grille on the chest. A few stacks of stone and orange blocks cover it. Stands well outside a lab or futuristic base.",
+  "dimensions": {
+    "width": 6,
+    "height": 5,
+    "length": 7
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-11T13:58:14.532074",
+  "updatedAt": "2026-05-11T13:58:14.532075",
+  "contentUpdatedAtEpochMs": 1782142275564,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Red Sandstone Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9d98f76e-71d6-491f-86b6-d4568c788930.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Sandstone Wall",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_sandstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9537aac-282a-4cb4-8ac0-cdf7ca5f01ac.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Bars",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:iron_bars",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grindstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Anvil",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:anvil",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+      "type": "item"
+    },
+    {
+      "name": "Hopper",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:hopper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Observer",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:observer",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31328,
+      "buildId": 570,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/20614c06-51bb-4e1d-9992-97ffb7310f6a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:15.989623",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        },
+        {
+          "name": "Anvil",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:anvil",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31329,
+      "buildId": 570,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b87b670-09dc-4ed9-8573-995d230f28d3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:17.070442",
+      "materials": [
+        {
+          "name": "Blast Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31330,
+      "buildId": 570,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/23c9c7d9-c84b-4e04-86f3-08943b2923b4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:18.212021",
+      "materials": [
+        {
+          "name": "Hopper",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:hopper",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31331,
+      "buildId": 570,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79da1d3f-e2ab-4ce8-b537-9ca616232f5e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:19.22931",
+      "materials": [
+        {
+          "name": "Red Sandstone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_sandstone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9537aac-282a-4cb4-8ac0-cdf7ca5f01ac.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31332,
+      "buildId": 570,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34887ce4-7615-4f73-a08c-d6cfdb4c4f7b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:20.026326",
+      "materials": [
+        {
+          "name": "Red Sandstone Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9d98f76e-71d6-491f-86b6-d4568c788930.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31333,
+      "buildId": 570,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ddc70c37-0b67-4035-92ae-023579dcd056.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:21.044144",
+      "materials": [
+        {
+          "name": "Iron Bars",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:iron_bars",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31334,
+      "buildId": 570,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/392d6ddb-f478-4dc4-81f1-dc37e7809654.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:21.91538",
+      "materials": [
+        {
+          "name": "Observer",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:observer",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31335,
+      "buildId": 570,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc567c46-1724-4359-a2e7-c984fd4b5620.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-11T13:58:22.74387",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/20614c06-51bb-4e1d-9992-97ffb7310f6a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b87b670-09dc-4ed9-8573-995d230f28d3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/23c9c7d9-c84b-4e04-86f3-08943b2923b4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79da1d3f-e2ab-4ce8-b537-9ca616232f5e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34887ce4-7615-4f73-a08c-d6cfdb4c4f7b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ddc70c37-0b67-4035-92ae-023579dcd056.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/392d6ddb-f478-4dc4-81f1-dc37e7809654.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc567c46-1724-4359-a2e7-c984fd4b5620.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc567c46-1724-4359-a2e7-c984fd4b5620.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc567c46-1724-4359-a2e7-c984fd4b5620.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

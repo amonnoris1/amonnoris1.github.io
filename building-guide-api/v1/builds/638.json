@@ -1,0 +1,295 @@
+{
+  "id": 638,
+  "name": "Flamingo",
+  "categoryId": 4,
+  "categoryName": "Decoration",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    },
+    {
+      "id": 4,
+      "name": "Decoration",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/41847565-063d-4136-9ff9-b3821c62c76c.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 9,
+  "steps": 9,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/9a6e61f3-774b-4011-b232-2e8653794dbf.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/9a6e61f3-774b-4011-b232-2e8653794dbf.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/23aba293-8615-48ab-8311-7e0a6743d003.webp",
+  "description": "A small flamingo minecraft statue in pink blocks, standing on one wood leg with a black-tipped beak. A quick build from a handful of blocks. Put it by a pond, beach or garden as a bright yard ornament.",
+  "dimensions": {
+    "width": 6,
+    "height": 5,
+    "length": 6
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-22T10:50:27.554609",
+  "updatedAt": "2026-07-16T14:49:49.516455",
+  "contentUpdatedAtEpochMs": 1784213389516,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Fence",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crimson Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:crimson_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/80b4caa9-f8ba-4ba1-ae24-e3474e3ab147.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crimson Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crimson_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a347c5e3-533c-45b7-921f-583fcd3ad0a0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cut Sandstone Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:cut_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e5be96c4-1eb0-41b3-8d7a-f821920a483d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Concrete",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:pink_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c8b726c-c3b8-4bf6-be47-fe055fb91e05.webp",
+      "type": "item"
+    },
+    {
+      "name": "Wither Skeleton Skull",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:wither_skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 32272,
+      "buildId": 638,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3aaaa585-0d0d-4162-ba4b-805cdbe51e23.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:28.487407",
+      "materials": [
+        {
+          "name": "Spruce Fence",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:spruce_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32273,
+      "buildId": 638,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/94ea4a97-2576-47ea-8032-41d8f894e53d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:29.630887",
+      "materials": [
+        {
+          "name": "Pink Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pink_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c8b726c-c3b8-4bf6-be47-fe055fb91e05.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32274,
+      "buildId": 638,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0519a8c7-2797-474b-beda-a708dabb8fe8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:30.520689",
+      "materials": [
+        {
+          "name": "Crimson Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:crimson_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/80b4caa9-f8ba-4ba1-ae24-e3474e3ab147.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32275,
+      "buildId": 638,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/95544463-1ea7-48ab-8439-7d02bae141b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:31.335385",
+      "materials": [
+        {
+          "name": "Crimson Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crimson_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a347c5e3-533c-45b7-921f-583fcd3ad0a0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32276,
+      "buildId": 638,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1bdcb7cb-8b32-4705-99fb-45ca575cd19f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:32.147841",
+      "materials": [
+        {
+          "name": "Crimson Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crimson_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/80b4caa9-f8ba-4ba1-ae24-e3474e3ab147.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32277,
+      "buildId": 638,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a16efede-942f-4096-ae5c-a4d1317ece96.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:32.987363",
+      "materials": [
+        {
+          "name": "Cut Sandstone Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cut_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e5be96c4-1eb0-41b3-8d7a-f821920a483d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32278,
+      "buildId": 638,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/496d5f61-b68a-469d-b759-d95eef4f5bf3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:33.828708",
+      "materials": [
+        {
+          "name": "Wither Skeleton Skull",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:wither_skeleton_skull",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32279,
+      "buildId": 638,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dee58b0-b3e7-4355-801d-d562d69b1a7c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:35.281841",
+      "materials": [
+        {
+          "name": "Crimson Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crimson_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/80b4caa9-f8ba-4ba1-ae24-e3474e3ab147.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 32280,
+      "buildId": 638,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aa79e62e-e2ce-42fe-b1d6-dc15f3f32625.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-22T10:50:36.149705",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3aaaa585-0d0d-4162-ba4b-805cdbe51e23.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/94ea4a97-2576-47ea-8032-41d8f894e53d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0519a8c7-2797-474b-beda-a708dabb8fe8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/95544463-1ea7-48ab-8439-7d02bae141b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1bdcb7cb-8b32-4705-99fb-45ca575cd19f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a16efede-942f-4096-ae5c-a4d1317ece96.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/496d5f61-b68a-469d-b759-d95eef4f5bf3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dee58b0-b3e7-4355-801d-d562d69b1a7c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aa79e62e-e2ce-42fe-b1d6-dc15f3f32625.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/23aba293-8615-48ab-8311-7e0a6743d003.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/23aba293-8615-48ab-8311-7e0a6743d003.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

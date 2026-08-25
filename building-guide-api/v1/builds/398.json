@@ -1,0 +1,132 @@
+{
+  "id": 398,
+  "name": "Dragon Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 109,
+  "steps": 109,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6a64b7a8-d5d1-4c49-9e23-547efd129921.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6a64b7a8-d5d1-4c49-9e23-547efd129921.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc4038f7-ebe7-43d7-854c-1f7c42bcaedf.webp",
+  "description": "A minecraft statue of a dragon head rearing from a stone base, with water pouring from its mouth. Dark wings crest the skull and purple eyes glow in the sockets. Stone, deepslate and one water source do the job. Works as a fountain for a castle yard or base entrance.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:51:47.623244",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Stone",
+      "count": 296,
+      "quantity": 296,
+      "identifier": "minecraft:smooth_stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 69,
+      "quantity": 69,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Slab",
+      "count": 59,
+      "quantity": 59,
+      "identifier": "minecraft:stone_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/94339034-d02d-4d09-b2c1-d785a4a420dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Wall",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:andesite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:polished_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Stairs",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:polished_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crying Obsidian",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crying_obsidian",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8773357-837c-4a84-9e2e-9b9d4065e5f0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Water Bucket",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:water_bucket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9840fd88-ba2a-4b65-bd2d-3be68591b5d1.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc4038f7-ebe7-43d7-854c-1f7c42bcaedf.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc4038f7-ebe7-43d7-854c-1f7c42bcaedf.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

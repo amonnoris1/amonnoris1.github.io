@@ -1,0 +1,1642 @@
+{
+  "id": 387,
+  "name": "Pegasus Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 72,
+  "steps": 72,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/74b66198-7ac5-41c0-b184-4eb34b392b30.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/74b66198-7ac5-41c0-b184-4eb34b392b30.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78afbb46-1898-4188-8049-f857b8e8aa6f.webp",
+  "description": "A minecraft statue of a pegasus rearing on its hind legs, built in white blocks on a stone pedestal. Both wings spread wide, with doors as feather detail. Mostly quartz-style white blocks, so gather plenty. Works as a centerpiece for a plaza, fountain or castle courtyard.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:33:23.078837",
+  "updatedAt": "2026-03-06T18:33:23.078847",
+  "contentUpdatedAtEpochMs": 1784720999816,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Quartz Stairs",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1307d300-dfd8-4ce1-aef5-d2f06e63c1dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 52,
+      "quantity": 52,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Quartz Bricks",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:quartz_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ce24d3e4-772b-4ece-a13c-ecb8ff994c37.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 107,
+      "quantity": 107,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Trapdoor",
+      "count": 21,
+      "quantity": 21,
+      "identifier": "minecraft:pale_oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:pale_oak_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fa4bcb3f-7fd4-4dfa-a749-d035156cdbaa.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Fence Gate",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:pale_oak_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/de3fda1c-eacb-4fa6-9c27-e7c462ca1f37.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Sign",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:pale_oak_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e6a0d88-a3bc-4698-9e64-fd716f16e473.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21498,
+      "buildId": 387,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1fd3ad05-5051-4d53-b867-1a0a26700316.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:24.651106",
+      "materials": []
+    },
+    {
+      "id": 21499,
+      "buildId": 387,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a7d97032-4eb2-4fb4-80e0-57341df571fb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:25.754667",
+      "materials": [
+        {
+          "name": "Quartz Bricks",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:quartz_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ce24d3e4-772b-4ece-a13c-ecb8ff994c37.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21500,
+      "buildId": 387,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27c914b5-563a-4de7-a1d8-c8605d1921f4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:26.684348",
+      "materials": [
+        {
+          "name": "Quartz Bricks",
+          "count": 27,
+          "quantity": 27,
+          "identifier": "minecraft:quartz_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ce24d3e4-772b-4ece-a13c-ecb8ff994c37.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21501,
+      "buildId": 387,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9612c8e3-8ab7-40e5-952a-181e55e89668.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:28.416925",
+      "materials": [
+        {
+          "name": "Quartz Stairs",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1307d300-dfd8-4ce1-aef5-d2f06e63c1dd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21502,
+      "buildId": 387,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/36e26364-074f-485f-b57c-6b1dd32c5217.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:29.242571",
+      "materials": [
+        {
+          "name": "Quartz Stairs",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1307d300-dfd8-4ce1-aef5-d2f06e63c1dd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21503,
+      "buildId": 387,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/531b23c5-4faf-4c86-9972-c9ea83950399.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:30.325679",
+      "materials": [
+        {
+          "name": "Quartz Stairs",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1307d300-dfd8-4ce1-aef5-d2f06e63c1dd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21504,
+      "buildId": 387,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/adab3a7b-1151-47be-a6e1-9a013ec71eee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:32.412182",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21505,
+      "buildId": 387,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7dce491c-4fa1-4403-8421-f065fa68daff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:33.325143",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21506,
+      "buildId": 387,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/adfa0e7d-ecae-4883-932f-afe5fcb79f89.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:35.094901",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21507,
+      "buildId": 387,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c9885ff-1c06-4157-97eb-53c77e8adeb9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:36.338214",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21508,
+      "buildId": 387,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/54bf62a3-5259-4ab2-bfcf-6e2f4a811411.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:38.615392",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21509,
+      "buildId": 387,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8f443b6-163d-4ebc-9b20-a0078c5ab0bc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:39.469488",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21510,
+      "buildId": 387,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a27522b5-2cc3-4a91-bce6-c44551713ff2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:40.407576",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21511,
+      "buildId": 387,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/977fcaaf-6ca8-48dd-b348-6a08e97333cc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:41.5655",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21512,
+      "buildId": 387,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8dfe43aa-84e6-4963-9599-e272bd6ae702.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:43.714904",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21513,
+      "buildId": 387,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1e7053e-1370-4417-9e8d-3955f0a09f36.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:44.532574",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21514,
+      "buildId": 387,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5096549e-3146-4cfb-b1f0-aa764b242382.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:45.695742",
+      "materials": []
+    },
+    {
+      "id": 21515,
+      "buildId": 387,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f37dddc2-c39b-4c2e-a526-a6e48d7a057a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:46.709069",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21516,
+      "buildId": 387,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2e6537b3-a869-4fe3-8f83-f100b32185a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:47.73764",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21517,
+      "buildId": 387,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/725ef147-8748-419a-b322-2463dcd16436.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:48.716188",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21518,
+      "buildId": 387,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72e609bc-d1ec-4a9f-9ef5-75a4b22aaf7a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:50.154039",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21519,
+      "buildId": 387,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9cc2abe-86e9-4300-9b1d-be502bec26c8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:51.044005",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21520,
+      "buildId": 387,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b63ba986-5cd2-48e9-80af-55c6cceabe25.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:51.924009",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21521,
+      "buildId": 387,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3ce89073-ba6a-4d94-bd3c-9a09f47d382f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:53.907147",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21522,
+      "buildId": 387,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82b9ee3e-1a3b-4cf6-bb47-7ee29b2ae0b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:54.846915",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21523,
+      "buildId": 387,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af9b319c-e800-4a98-8b12-fea804354f98.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:55.688516",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21524,
+      "buildId": 387,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00802360-31e8-4cfe-8875-3c7a27898baf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:56.570336",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21525,
+      "buildId": 387,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d2a5a45-2a50-4f47-bccb-7a3dfdccaaaa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:58.684714",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21526,
+      "buildId": 387,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/802d8311-1183-4500-89ff-80833d8fd840.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:33:59.879297",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21527,
+      "buildId": 387,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/962fec16-1544-4f97-ada2-30bc57fd3005.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:01.036607",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21528,
+      "buildId": 387,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4f05329-2096-4c20-9be1-d6053d1a19de.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:02.121618",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21529,
+      "buildId": 387,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9754925-21e2-459a-ad46-d3ce2b7361f7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:03.134713",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21530,
+      "buildId": 387,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d7d3b4f-f633-4ab2-af8b-191ad8cbdbc7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:03.942733",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21531,
+      "buildId": 387,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70801ffa-ffe0-44fd-a352-c662635ca173.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:04.929765",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Block",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21532,
+      "buildId": 387,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c1bad63-51d0-4c90-97cb-edead5e8f4b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:06.139965",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21533,
+      "buildId": 387,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/020fc7f9-f835-460b-9ca9-58eab06c53e1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:07.178965",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21534,
+      "buildId": 387,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdcf9443-68d0-4acc-8e2a-1403164819bc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:09.152908",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21535,
+      "buildId": 387,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6180ebe5-6d5a-445d-8eb2-c29a037d6c80.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:10.221771",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21536,
+      "buildId": 387,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7a2d878-db11-4b39-84b9-8ceebffccd58.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:11.005049",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21537,
+      "buildId": 387,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99144162-5d6a-42ca-a3b0-5c0537240533.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:12.015117",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21538,
+      "buildId": 387,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cfbe869a-f0c7-4fcc-8088-d6ea8d4fa7bb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:12.82982",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21539,
+      "buildId": 387,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a307fe1-de50-4425-b48c-e7d8e363d7e9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:14.083113",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21540,
+      "buildId": 387,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f30046f0-b137-4511-b2fa-7528e4887580.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:15.208183",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21541,
+      "buildId": 387,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea540188-4831-4e9d-890d-c98c0e525c17.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:16.203172",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21542,
+      "buildId": 387,
+      "sequenceOrder": 45,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30f55e91-31c4-4060-b5f0-ee44b51b4760.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:17.147168",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21543,
+      "buildId": 387,
+      "sequenceOrder": 46,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3d6e00d-8041-4fe1-96b8-a47d9ce11080.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:18.325044",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21544,
+      "buildId": 387,
+      "sequenceOrder": 47,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f18a7bf-c1e9-4d49-9de2-aec375e06826.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:20.170708",
+      "materials": []
+    },
+    {
+      "id": 21545,
+      "buildId": 387,
+      "sequenceOrder": 48,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aed0244-bb2c-4833-9609-f4328526727a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:21.320234",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21546,
+      "buildId": 387,
+      "sequenceOrder": 49,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4d7ac5c-3b26-4bb3-b225-3262f4af2ad6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:22.310639",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21547,
+      "buildId": 387,
+      "sequenceOrder": 50,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50ca2f5a-083c-4c9c-a33e-4bf782656e94.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:23.223801",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21548,
+      "buildId": 387,
+      "sequenceOrder": 51,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ca8e94b-ec52-4269-ba9c-3f152e8efd33.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:24.004207",
+      "materials": [
+        {
+          "name": "Pale Oak Sign",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:pale_oak_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e6a0d88-a3bc-4698-9e64-fd716f16e473.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21549,
+      "buildId": 387,
+      "sequenceOrder": 52,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8e24f3b6-af6d-4f04-930a-fdafba9406f1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:25.088716",
+      "materials": [
+        {
+          "name": "Pale Oak Fence Gate",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:pale_oak_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/de3fda1c-eacb-4fa6-9c27-e7c462ca1f37.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21550,
+      "buildId": 387,
+      "sequenceOrder": 53,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f91e9d77-b644-4fac-b887-328cfe7a791e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:26.879906",
+      "materials": [
+        {
+          "name": "Pale Oak Fence Gate",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:pale_oak_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/de3fda1c-eacb-4fa6-9c27-e7c462ca1f37.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21551,
+      "buildId": 387,
+      "sequenceOrder": 54,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/348b9d67-3bfb-4f3d-91b5-c18811a6e82e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:28.310866",
+      "materials": [
+        {
+          "name": "Pale Oak Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fa4bcb3f-7fd4-4dfa-a749-d035156cdbaa.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21552,
+      "buildId": 387,
+      "sequenceOrder": 55,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8eb2aaa0-cf4a-4770-a406-df0ba955e793.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:30.137096",
+      "materials": [
+        {
+          "name": "Pale Oak Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fa4bcb3f-7fd4-4dfa-a749-d035156cdbaa.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21553,
+      "buildId": 387,
+      "sequenceOrder": 56,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f11150d5-1000-482a-b1ee-f065aadde7de.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:31.191297",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21554,
+      "buildId": 387,
+      "sequenceOrder": 57,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92ef2d50-656a-4fea-8231-2384270130cc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:32.626128",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Block",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21555,
+      "buildId": 387,
+      "sequenceOrder": 58,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/206f553a-cf22-4dec-8487-7c8b86bb892e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:33.502381",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Block",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21556,
+      "buildId": 387,
+      "sequenceOrder": 59,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d1422818-af32-481e-865e-02147ef7c1f4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:35.667068",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21557,
+      "buildId": 387,
+      "sequenceOrder": 60,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91b5ad56-9522-4ee7-9229-52a0dee3a0f2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:36.623163",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21558,
+      "buildId": 387,
+      "sequenceOrder": 61,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b43c3cd6-822e-4dfe-a78e-9a97f0769c0c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:37.422527",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21559,
+      "buildId": 387,
+      "sequenceOrder": 62,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/253625ed-be1c-4810-bf5f-58b366a22c09.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:39.488802",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21560,
+      "buildId": 387,
+      "sequenceOrder": 63,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec050234-bbee-4038-abbb-0475002fa397.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:40.692546",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21561,
+      "buildId": 387,
+      "sequenceOrder": 64,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a8bed5b-9338-412e-b5aa-ade74a98f333.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:41.454496",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21562,
+      "buildId": 387,
+      "sequenceOrder": 65,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81c412c4-fdc1-4e62-85cc-bfc3cc2f6a3a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:42.303822",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21563,
+      "buildId": 387,
+      "sequenceOrder": 66,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ded92823-dabf-4b05-bfe2-1f62fad2a194.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:43.480494",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21564,
+      "buildId": 387,
+      "sequenceOrder": 67,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/201247a7-e50f-4f1e-b955-259bacc03408.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:44.384575",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21565,
+      "buildId": 387,
+      "sequenceOrder": 68,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51a8e0ab-8070-4e16-bf65-22105308fdd9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:45.328638",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21566,
+      "buildId": 387,
+      "sequenceOrder": 69,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b6e2fa7-a9e2-4e83-8e4a-2759597ddad3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:46.472699",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21567,
+      "buildId": 387,
+      "sequenceOrder": 70,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/805b52a9-75ce-4ada-b037-1c23cc7414f2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:47.281439",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21568,
+      "buildId": 387,
+      "sequenceOrder": 71,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be7247e4-a32b-4058-aefb-3679d13568c5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:48.230769",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21569,
+      "buildId": 387,
+      "sequenceOrder": 72,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78afbb46-1898-4188-8049-f857b8e8aa6f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:34:49.050234",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1fd3ad05-5051-4d53-b867-1a0a26700316.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a7d97032-4eb2-4fb4-80e0-57341df571fb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27c914b5-563a-4de7-a1d8-c8605d1921f4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9612c8e3-8ab7-40e5-952a-181e55e89668.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/36e26364-074f-485f-b57c-6b1dd32c5217.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/531b23c5-4faf-4c86-9972-c9ea83950399.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/adab3a7b-1151-47be-a6e1-9a013ec71eee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7dce491c-4fa1-4403-8421-f065fa68daff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/adfa0e7d-ecae-4883-932f-afe5fcb79f89.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c9885ff-1c06-4157-97eb-53c77e8adeb9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/54bf62a3-5259-4ab2-bfcf-6e2f4a811411.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8f443b6-163d-4ebc-9b20-a0078c5ab0bc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a27522b5-2cc3-4a91-bce6-c44551713ff2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/977fcaaf-6ca8-48dd-b348-6a08e97333cc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8dfe43aa-84e6-4963-9599-e272bd6ae702.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1e7053e-1370-4417-9e8d-3955f0a09f36.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5096549e-3146-4cfb-b1f0-aa764b242382.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f37dddc2-c39b-4c2e-a526-a6e48d7a057a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2e6537b3-a869-4fe3-8f83-f100b32185a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/725ef147-8748-419a-b322-2463dcd16436.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/72e609bc-d1ec-4a9f-9ef5-75a4b22aaf7a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9cc2abe-86e9-4300-9b1d-be502bec26c8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b63ba986-5cd2-48e9-80af-55c6cceabe25.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3ce89073-ba6a-4d94-bd3c-9a09f47d382f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82b9ee3e-1a3b-4cf6-bb47-7ee29b2ae0b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af9b319c-e800-4a98-8b12-fea804354f98.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00802360-31e8-4cfe-8875-3c7a27898baf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d2a5a45-2a50-4f47-bccb-7a3dfdccaaaa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/802d8311-1183-4500-89ff-80833d8fd840.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/962fec16-1544-4f97-ada2-30bc57fd3005.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4f05329-2096-4c20-9be1-d6053d1a19de.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9754925-21e2-459a-ad46-d3ce2b7361f7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d7d3b4f-f633-4ab2-af8b-191ad8cbdbc7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70801ffa-ffe0-44fd-a352-c662635ca173.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c1bad63-51d0-4c90-97cb-edead5e8f4b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/020fc7f9-f835-460b-9ca9-58eab06c53e1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdcf9443-68d0-4acc-8e2a-1403164819bc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6180ebe5-6d5a-445d-8eb2-c29a037d6c80.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7a2d878-db11-4b39-84b9-8ceebffccd58.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99144162-5d6a-42ca-a3b0-5c0537240533.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cfbe869a-f0c7-4fcc-8088-d6ea8d4fa7bb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a307fe1-de50-4425-b48c-e7d8e363d7e9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f30046f0-b137-4511-b2fa-7528e4887580.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea540188-4831-4e9d-890d-c98c0e525c17.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30f55e91-31c4-4060-b5f0-ee44b51b4760.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3d6e00d-8041-4fe1-96b8-a47d9ce11080.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f18a7bf-c1e9-4d49-9de2-aec375e06826.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aed0244-bb2c-4833-9609-f4328526727a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4d7ac5c-3b26-4bb3-b225-3262f4af2ad6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50ca2f5a-083c-4c9c-a33e-4bf782656e94.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ca8e94b-ec52-4269-ba9c-3f152e8efd33.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8e24f3b6-af6d-4f04-930a-fdafba9406f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f91e9d77-b644-4fac-b887-328cfe7a791e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/348b9d67-3bfb-4f3d-91b5-c18811a6e82e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8eb2aaa0-cf4a-4770-a406-df0ba955e793.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f11150d5-1000-482a-b1ee-f065aadde7de.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92ef2d50-656a-4fea-8231-2384270130cc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/206f553a-cf22-4dec-8487-7c8b86bb892e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d1422818-af32-481e-865e-02147ef7c1f4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91b5ad56-9522-4ee7-9229-52a0dee3a0f2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b43c3cd6-822e-4dfe-a78e-9a97f0769c0c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/253625ed-be1c-4810-bf5f-58b366a22c09.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec050234-bbee-4038-abbb-0475002fa397.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a8bed5b-9338-412e-b5aa-ade74a98f333.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81c412c4-fdc1-4e62-85cc-bfc3cc2f6a3a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ded92823-dabf-4b05-bfe2-1f62fad2a194.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/201247a7-e50f-4f1e-b955-259bacc03408.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51a8e0ab-8070-4e16-bf65-22105308fdd9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b6e2fa7-a9e2-4e83-8e4a-2759597ddad3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/805b52a9-75ce-4ada-b037-1c23cc7414f2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be7247e4-a32b-4058-aefb-3679d13568c5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78afbb46-1898-4188-8049-f857b8e8aa6f.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78afbb46-1898-4188-8049-f857b8e8aa6f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78afbb46-1898-4188-8049-f857b8e8aa6f.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

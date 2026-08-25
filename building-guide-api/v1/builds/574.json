@@ -1,0 +1,205 @@
+{
+  "id": 574,
+  "name": "Raft Base",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 33,
+      "name": "Starter"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 16,
+  "steps": 16,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0136e859-571a-40d5-8f2b-53baa8a6d82b.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0136e859-571a-40d5-8f2b-53baa8a6d82b.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62a9e1e2-19f6-448f-9107-caf259118cc9.webp",
+  "description": "A floating raft starter house built from wood, with a sail, a trellis roof and lantern-lit walls. Bed, furnace, chests and crafting space packed on one open deck. Common wood blocks, quick to build. A first base for ocean or island survival.",
+  "dimensions": {
+    "width": 12,
+    "height": 9,
+    "length": 11
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:35:44.316286",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Fence",
+      "count": 11,
+      "quantity": 11,
+      "identifier": "minecraft:birch_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/62785899-96a0-47b7-a276-441051d8fcda.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Slab",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:spruce_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1390b325-6501-46a9-be5a-f10643fe5624.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Birch Planks",
+      "count": 42,
+      "quantity": 42,
+      "identifier": "minecraft:birch_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Carpet",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:gray_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cc3543bb-a5ad-4f3c-ad82-ced043260c45.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Gray Carpet",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:light_gray_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a7242f-af4b-4827-bd5e-249d95adefe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Purple Bed",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:purple_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cdab430a-fde5-4446-98af-fea92e237400.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Banner",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:white_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Leaves",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:oak_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/74d5edb9-8098-4fe6-ac3a-6ec9712ed96a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Campfire",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:campfire",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e32a72-27bb-4255-844b-6ff127345fd7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Anvil",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:anvil",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+      "type": "item"
+    },
+    {
+      "name": "Birch Sign",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:birch_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7002e4ba-b24f-414c-9115-5aa700bce2e7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62a9e1e2-19f6-448f-9107-caf259118cc9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62a9e1e2-19f6-448f-9107-caf259118cc9.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "house",
+    "name": "House",
+    "count": 121
+  },
+  {
+    "id": "statue",
+    "name": "Statue",
+    "count": 82
+  },
+  {
+    "id": "vehicle",
+    "name": "Vehicle",
+    "count": 36
+  },
+  {
+    "id": "beacon",
+    "name": "Beacon",
+    "count": 13
+  },
+  {
+    "id": "redstone",
+    "name": "Redstone",
+    "count": 12
+  }
+]

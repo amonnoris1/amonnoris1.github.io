@@ -1,0 +1,1100 @@
+{
+  "id": 660,
+  "name": "Netherite Sword Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [],
+  "difficulty": 3,
+  "buildSteps": 37,
+  "steps": 37,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f856ad67-73b2-4a1a-9344-7b48a02b16c4.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f856ad67-73b2-4a1a-9344-7b48a02b16c4.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/64687650-cd0b-4c73-9a22-79323e90cd24.webp",
+  "description": "A minecraft statue of a netherite sword stuck blade-up in a stone pedestal. The pixel-style blade and crossguard copy the item texture in dark and pink blocks. Small base, modest block count. Plant it at your spawn, arena entrance or trophy room.",
+  "dimensions": {
+    "width": 21,
+    "height": 24,
+    "length": 16
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-29T14:04:18.217555",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Stone",
+      "count": 17,
+      "quantity": 17,
+      "identifier": "minecraft:stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Stairs",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:stone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4003183-e438-4801-be19-d922429ecdce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 28,
+      "quantity": 28,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Terracotta",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:gray_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+      "type": "item"
+    },
+    {
+      "name": "Brown Terracotta",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:brown_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c4083a20-ba8e-4e96-bba6-dffab0510451.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Terracotta",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:red_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2eacc0e-8447-4635-b629-64309fafdcf0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Terracotta",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:black_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Purple Terracotta",
+      "count": 21,
+      "quantity": 21,
+      "identifier": "minecraft:purple_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Terracotta",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:pink_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2caa9126-db5e-4885-9fe5-2372f0c46bec.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Terracotta",
+      "count": 11,
+      "quantity": 11,
+      "identifier": "minecraft:cyan_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Gray Concrete",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:light_gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9096e6d-8bed-4091-911e-a83e91b34c74.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Concrete",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 36927,
+      "buildId": 660,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/41f08b10-e224-47c2-8128-f8d5a4144faf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.422324",
+      "materials": []
+    },
+    {
+      "id": 36928,
+      "buildId": 660,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce98279b-7e22-473a-b551-eea662f9bb51.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.423822",
+      "materials": [
+        {
+          "name": "Stone",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36929,
+      "buildId": 660,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90867767-6db4-47a7-8449-a037a08f5e67.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.433105",
+      "materials": [
+        {
+          "name": "Stone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36930,
+      "buildId": 660,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89f8a2f4-f0df-44a1-a0a5-0eebb2281633.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.449022",
+      "materials": [
+        {
+          "name": "Stone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36931,
+      "buildId": 660,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05bba0a5-f090-4117-a731-5ea5ba31deb2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.455069",
+      "materials": [
+        {
+          "name": "Stone Stairs",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:stone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4003183-e438-4801-be19-d922429ecdce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36932,
+      "buildId": 660,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5bb10ada-66ce-4103-abe2-427ddd163b65.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.474854",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36933,
+      "buildId": 660,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/625e7960-ec30-4f7b-acd8-f084529b3bb0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.507016",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36934,
+      "buildId": 660,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00b6507c-8edc-4c9f-97f3-19cc4a3b2be7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.544278",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36935,
+      "buildId": 660,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8dde3e4e-939f-486f-90b0-88c57a43ef6b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.559497",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36936,
+      "buildId": 660,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd1d2d85-b287-4d48-8910-b680de346431.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.578791",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36937,
+      "buildId": 660,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d301e159-de86-4097-bdc6-f1e190b7884c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.584385",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36938,
+      "buildId": 660,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f22d9a5-6222-47aa-a16d-9dfdd3d944bd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.592509",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36939,
+      "buildId": 660,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e024213d-d3ac-423d-be3a-3c81efda2ad3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.606116",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36940,
+      "buildId": 660,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9ab4807-e11a-4fd8-a1f7-db9a0a96e706.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.618533",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Stone Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36941,
+      "buildId": 660,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e56e8e64-7a47-4107-aee9-de883d452d67.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.647878",
+      "materials": [
+        {
+          "name": "Gray Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2eacc0e-8447-4635-b629-64309fafdcf0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36942,
+      "buildId": 660,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57f38204-d394-493a-8e4f-7a5ef849e372.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.676352",
+      "materials": [
+        {
+          "name": "Gray Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+          "type": "item"
+        },
+        {
+          "name": "Pink Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:pink_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2caa9126-db5e-4885-9fe5-2372f0c46bec.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36943,
+      "buildId": 660,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dbc4a9ea-8ba9-454a-814a-61908de95b70.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.704397",
+      "materials": [
+        {
+          "name": "Gray Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+          "type": "item"
+        },
+        {
+          "name": "Cyan Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36944,
+      "buildId": 660,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b050230-8770-4bcd-b766-d978de7ec0fc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.743748",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        },
+        {
+          "name": "Brown Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:brown_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c4083a20-ba8e-4e96-bba6-dffab0510451.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36945,
+      "buildId": 660,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba04fcf5-f1c6-40db-9be9-78bb7ebc2b4f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.766693",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36946,
+      "buildId": 660,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1fd83b6e-e1a8-4f4c-bfee-ddc9f475d3cc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.779607",
+      "materials": [
+        {
+          "name": "Gray Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2eacc0e-8447-4635-b629-64309fafdcf0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36947,
+      "buildId": 660,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ed95835-6905-4020-8cc2-657534a6f2f7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.79914",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2eacc0e-8447-4635-b629-64309fafdcf0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36948,
+      "buildId": 660,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7278f36-dfd7-4595-bc6f-f27c5a878148.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.833047",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36949,
+      "buildId": 660,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52bcde8f-0ca8-44cd-965e-bd031722be4b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.848939",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36950,
+      "buildId": 660,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c30e8c3-cea6-4837-aff1-c0f0cac0dc30.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.898263",
+      "materials": [
+        {
+          "name": "Black Terracotta",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36951,
+      "buildId": 660,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67e6cb55-1e6b-4d1b-bd0c-92b9d88723df.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.914852",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36952,
+      "buildId": 660,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/992db6af-02a1-42cf-842e-47c20e3e4aa6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.937484",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36953,
+      "buildId": 660,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b37d4ea2-7ebd-4d7a-ade6-c0aaa0f07920.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.963096",
+      "materials": [
+        {
+          "name": "Light Gray Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:light_gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9096e6d-8bed-4091-911e-a83e91b34c74.webp",
+          "type": "item"
+        },
+        {
+          "name": "Cyan Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36954,
+      "buildId": 660,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb6f7bd6-193b-45a5-969f-2f5e27113970.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:18.998952",
+      "materials": [
+        {
+          "name": "Brown Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:brown_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c4083a20-ba8e-4e96-bba6-dffab0510451.webp",
+          "type": "item"
+        },
+        {
+          "name": "Gray Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36955,
+      "buildId": 660,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0f9cbd6-48ad-4092-98ec-f1c7d75266ff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.032704",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36956,
+      "buildId": 660,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13f7d21e-50b9-42bb-b59b-1b02f1c887de.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.039551",
+      "materials": [
+        {
+          "name": "Black Terracotta",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36957,
+      "buildId": 660,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ba0b803-d935-4637-8adf-500fbe1ba841.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.052143",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36958,
+      "buildId": 660,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f4ada89-8c4f-4695-b456-21c17ab4cb63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.061952",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36959,
+      "buildId": 660,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3e12bbad-814f-432f-8716-03774d250cc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.074465",
+      "materials": [
+        {
+          "name": "Gray Terracotta",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c6db284-2033-4dd2-afb9-6d32213cfbdf.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36960,
+      "buildId": 660,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3bcf0c34-e2df-4d18-aca7-c39f3855adc4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.101827",
+      "materials": [
+        {
+          "name": "Light Gray Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:light_gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9096e6d-8bed-4091-911e-a83e91b34c74.webp",
+          "type": "item"
+        },
+        {
+          "name": "Cyan Terracotta",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36961,
+      "buildId": 660,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b5757e4-8f0d-4524-bc42-0822300b73ed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.137718",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36962,
+      "buildId": 660,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef0acfd7-63b9-4db0-91e6-39566f435f35.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.15465",
+      "materials": [
+        {
+          "name": "Purple Terracotta",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:purple_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a23a248-04cb-43f2-bbe2-200f238c2d79.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165e6c1f-3094-4332-a80e-d3d1e9aa50bd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36963,
+      "buildId": 660,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c996fca-ec5e-4fe9-8027-4353f41ff841.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:19.168668",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/41f08b10-e224-47c2-8128-f8d5a4144faf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce98279b-7e22-473a-b551-eea662f9bb51.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90867767-6db4-47a7-8449-a037a08f5e67.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/89f8a2f4-f0df-44a1-a0a5-0eebb2281633.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05bba0a5-f090-4117-a731-5ea5ba31deb2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5bb10ada-66ce-4103-abe2-427ddd163b65.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/625e7960-ec30-4f7b-acd8-f084529b3bb0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00b6507c-8edc-4c9f-97f3-19cc4a3b2be7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8dde3e4e-939f-486f-90b0-88c57a43ef6b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd1d2d85-b287-4d48-8910-b680de346431.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d301e159-de86-4097-bdc6-f1e190b7884c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f22d9a5-6222-47aa-a16d-9dfdd3d944bd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e024213d-d3ac-423d-be3a-3c81efda2ad3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9ab4807-e11a-4fd8-a1f7-db9a0a96e706.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e56e8e64-7a47-4107-aee9-de883d452d67.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57f38204-d394-493a-8e4f-7a5ef849e372.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dbc4a9ea-8ba9-454a-814a-61908de95b70.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b050230-8770-4bcd-b766-d978de7ec0fc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba04fcf5-f1c6-40db-9be9-78bb7ebc2b4f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1fd83b6e-e1a8-4f4c-bfee-ddc9f475d3cc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ed95835-6905-4020-8cc2-657534a6f2f7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7278f36-dfd7-4595-bc6f-f27c5a878148.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52bcde8f-0ca8-44cd-965e-bd031722be4b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c30e8c3-cea6-4837-aff1-c0f0cac0dc30.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67e6cb55-1e6b-4d1b-bd0c-92b9d88723df.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/992db6af-02a1-42cf-842e-47c20e3e4aa6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b37d4ea2-7ebd-4d7a-ade6-c0aaa0f07920.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb6f7bd6-193b-45a5-969f-2f5e27113970.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0f9cbd6-48ad-4092-98ec-f1c7d75266ff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13f7d21e-50b9-42bb-b59b-1b02f1c887de.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ba0b803-d935-4637-8adf-500fbe1ba841.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f4ada89-8c4f-4695-b456-21c17ab4cb63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3e12bbad-814f-432f-8716-03774d250cc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3bcf0c34-e2df-4d18-aca7-c39f3855adc4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b5757e4-8f0d-4524-bc42-0822300b73ed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef0acfd7-63b9-4db0-91e6-39566f435f35.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c996fca-ec5e-4fe9-8027-4353f41ff841.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/64687650-cd0b-4c73-9a22-79323e90cd24.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/d295f374-d1e9-4656-9b1b-85cecdf05ff5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/a9833c2a-78d1-4453-b0f8-837cedc39a0b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/64687650-cd0b-4c73-9a22-79323e90cd24.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/d295f374-d1e9-4656-9b1b-85cecdf05ff5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/a9833c2a-78d1-4453-b0f8-837cedc39a0b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ]
+}

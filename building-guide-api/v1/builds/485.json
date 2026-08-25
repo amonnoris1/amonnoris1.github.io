@@ -1,0 +1,205 @@
+{
+  "id": 485,
+  "name": "Drone",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 5,
+  "steps": 5,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e73da5e2-2644-4c1b-b8eb-43c023bb474b.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e73da5e2-2644-4c1b-b8eb-43c023bb474b.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71e97be9-b16b-492e-b349-fc3cdb61e9ba.webp",
+  "description": "A small drone with four rotor frames made from white stained glass panes around a stone body. A camera lens and lights sit underneath. A handful of blocks, done in minutes. Hang it in the air over a modern base or city build as a prop.",
+  "dimensions": {
+    "width": 7,
+    "height": 10,
+    "length": 18
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T20:51:58.9389",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Crimson Button",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crimson_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e0c5a7-030d-4a12-96ae-dbb3362ba0ac.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Button",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:warped_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/809b7ff9-671a-4c6b-a64f-adec4694d47a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:iron_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 26996,
+      "buildId": 485,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1be670ae-c2bf-4425-9485-84d2bc927f11.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:00.447867",
+      "materials": [
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 26997,
+      "buildId": 485,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed7767e6-3e6f-4070-b2d6-8cd23e8dd90e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:02.797795",
+      "materials": [
+        {
+          "name": "Iron Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:iron_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 26998,
+      "buildId": 485,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b1496418-52a5-41e1-9326-b149698c9b12.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:03.838609",
+      "materials": [
+        {
+          "name": "Warped Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/809b7ff9-671a-4c6b-a64f-adec4694d47a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Crimson Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crimson_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e0c5a7-030d-4a12-96ae-dbb3362ba0ac.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 26999,
+      "buildId": 485,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e5cf937-20cb-4ebb-aee4-8c8d4f6b0952.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:04.683492",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27000,
+      "buildId": 485,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71e97be9-b16b-492e-b349-fc3cdb61e9ba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:05.551106",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1be670ae-c2bf-4425-9485-84d2bc927f11.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed7767e6-3e6f-4070-b2d6-8cd23e8dd90e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b1496418-52a5-41e1-9326-b149698c9b12.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e5cf937-20cb-4ebb-aee4-8c8d4f6b0952.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71e97be9-b16b-492e-b349-fc3cdb61e9ba.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71e97be9-b16b-492e-b349-fc3cdb61e9ba.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71e97be9-b16b-492e-b349-fc3cdb61e9ba.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

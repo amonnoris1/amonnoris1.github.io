@@ -1,0 +1,217 @@
+{
+  "id": 90,
+  "name": "Magical Dragon Beacon",
+  "categoryId": 6,
+  "categoryName": "Beacon",
+  "category": "Beacon",
+  "categories": [
+    {
+      "id": 6,
+      "name": "Beacon",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/3fc37cca-e56f-4f2b-a00e-e68d71710bec.webp"
+    }
+  ],
+  "labels": [
+    "Beacon"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 9,
+      "name": "Cherry Blossom"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 54,
+  "steps": 54,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/44cf1c56-75ca-4f76-96ea-dc02d8e236ef.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/44cf1c56-75ca-4f76-96ea-dc02d8e236ef.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/febab1ad-47e9-4d75-a648-e6fae385f58b.webp",
+  "description": "A beacon shrine under a cherry blossom canopy, raised on a deepslate platform with lanterns and candles. Stone steps lead up to the beam, which rises through the blossoms. Cherry leaves, logs and deepslate cover most of it. Suits a cherry grove or a japanese base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-19T19:44:25.980349",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Fence",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Trapdoor",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:cherry_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Bricks",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:deepslate_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d04c3f1c-39b8-403a-9cc9-aa722176997f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Brick Stairs",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:deepslate_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9d2e51e6-20d9-4aba-93dd-e7ef8ca0d193.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Brick Slab",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:deepslate_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3e7228fd-93b7-4459-9b1d-032fac9ff88a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Brick Wall",
+      "count": 39,
+      "quantity": 39,
+      "identifier": "minecraft:deepslate_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0743528-0664-410a-ad40-edfbe5e16f25.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Iron",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:iron_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/064beedd-a895-4694-81ed-ee5f25ee24ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chain",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:chain",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Carpet",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f46c201a-f7ab-49cc-a7da-fef64a8a8c8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Carpet",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:pink_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9ccceac0-6378-43f4-b3ce-ba34a248bd95.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Stained Glass",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:pink_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ddb7bdfc-078a-4bcc-a372-2fc8ae8b5fff.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Candle",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:black_candle",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ceabb604-3201-4773-9bc9-15560de63bf7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Leaves",
+      "count": 64,
+      "quantity": 64,
+      "identifier": "minecraft:cherry_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12609e07-c063-47e3-b088-d367eb8fef8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spore Blossom",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:spore_blossom",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/01df375e-48fb-4887-a524-e2a7026803d4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Soul Lantern",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:soul_lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/52cc41b9-31c8-44c2-896c-81e3b76fb9da.webp",
+      "type": "item"
+    },
+    {
+      "name": "Beacon",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:beacon",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15febcd8-a2d4-4dad-99fd-e5df9d47a5d4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dragon Head",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:dragon_head",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e1a33828-3430-49c8-94c0-a2302a87622a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dragon Egg",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dragon_egg",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5a22edfe-2fa8-4ba5-acd7-4e176564fd3e.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/febab1ad-47e9-4d75-a648-e6fae385f58b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/febab1ad-47e9-4d75-a648-e6fae385f58b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

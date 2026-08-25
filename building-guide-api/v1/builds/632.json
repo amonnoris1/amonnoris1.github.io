@@ -1,0 +1,887 @@
+{
+  "id": 632,
+  "name": "Psyduck",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 2,
+  "buildSteps": 44,
+  "steps": 36,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/800ed499-a925-4c32-8de2-b808ffd4512c.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/800ed499-a925-4c32-8de2-b808ffd4512c.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7716af10-e2e1-43ad-b5fe-35dcf48a1b29.webp",
+  "description": "A small Psyduck minecraft statue in orange blocks with a white bill, yellow tail and gold feet. A quick build from a handful of colored blocks. Set it near your base or a pond as a Pokemon landmark.",
+  "dimensions": {
+    "width": 5,
+    "height": 4,
+    "length": 5
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:48:45.954124",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Acacia Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:acacia_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Sandstone Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5377dfe-44ab-48f1-a8d3-6d9fa9ee490e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_red_sandstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5e61dcb8-cc41-4b41-9811-5c557460e751.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:smooth_red_sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Yellow Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:yellow_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21be5534-852d-4d6e-819e-aac8233cc9d7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dead Brain Coral Fan",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dead_brain_coral_fan",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/88b3a491-9dcf-4e09-b00a-751971541f87.webp",
+      "type": "item"
+    },
+    {
+      "name": "Enchanting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:enchanting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d782fc10-8294-488c-bed8-b424b1fda101.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Piston",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+      "type": "item"
+    },
+    {
+      "name": "Golden Chestplate",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:golden_chestplate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/741c549e-e1df-4913-b9a3-5aba060427da.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31952,
+      "buildId": 632,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/946e5318-5072-4295-88c3-22f9cf2a2016.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:48.282075",
+      "materials": [
+        {
+          "name": "Enchanting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:enchanting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d782fc10-8294-488c-bed8-b424b1fda101.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31953,
+      "buildId": 632,
+      "sequenceOrder": 2,
+      "image": null,
+      "description": "Dig down two blocks and place the enchanting table there.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:48.290526",
+      "materials": []
+    },
+    {
+      "id": 31954,
+      "buildId": 632,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05729c89-0cb9-45b1-b667-3f7477023212.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:49.406367",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31955,
+      "buildId": 632,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/41a5d871-948f-47ab-b361-f20f79df8865.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:50.602504",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31956,
+      "buildId": 632,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aa5d6d79-d761-4340-904b-95828c336aa2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:51.670836",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31957,
+      "buildId": 632,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac1e7633-5cc8-4315-baad-1cd453e40bbe.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:52.824216",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31958,
+      "buildId": 632,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e25891b-2265-4510-90fb-0ca454c7bcc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:54.190529",
+      "materials": [
+        {
+          "name": "Armor Stand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:armor_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31959,
+      "buildId": 632,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9781ca91-69ea-4efc-ad74-27b3add9d4d5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:55.303504",
+      "materials": [
+        {
+          "name": "Golden Chestplate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:golden_chestplate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/741c549e-e1df-4913-b9a3-5aba060427da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31960,
+      "buildId": 632,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1df57e37-3c2e-4f75-8763-0b77b6362198.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:57.458834",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31961,
+      "buildId": 632,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d428f69-a0c7-44c8-80bb-779e6a85139f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:58.641801",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31962,
+      "buildId": 632,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50d428a9-2ab6-454d-8284-ad8b188a3a65.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:48:59.703687",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31963,
+      "buildId": 632,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7edbc896-9f1d-4246-8cec-dd16f22ff69b.gif",
+      "description": "Place a redstone block to activate the piston.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:00.974039",
+      "materials": []
+    },
+    {
+      "id": 31964,
+      "buildId": 632,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6561fc34-970e-4b65-b236-5d14aa6ef928.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:01.895282",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31965,
+      "buildId": 632,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2c10d6-44f9-42de-b838-1e6464ad1b39.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:03.976529",
+      "materials": []
+    },
+    {
+      "id": 31966,
+      "buildId": 632,
+      "sequenceOrder": 15,
+      "image": null,
+      "description": "After the piston is activated, break the first piston by moving the armor stand.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:03.9796",
+      "materials": []
+    },
+    {
+      "id": 31967,
+      "buildId": 632,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e137e1f-9ccb-4f2b-a383-0b98189d7775.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:06.921383",
+      "materials": []
+    },
+    {
+      "id": 31968,
+      "buildId": 632,
+      "sequenceOrder": 17,
+      "image": null,
+      "description": "Drop the armor stand like this.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:06.924163",
+      "materials": []
+    },
+    {
+      "id": 31969,
+      "buildId": 632,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e16f215-cd05-4d6c-b782-d1cb71fa64a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:08.114542",
+      "materials": [
+        {
+          "name": "Armor Stand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:armor_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31970,
+      "buildId": 632,
+      "sequenceOrder": 19,
+      "image": null,
+      "description": "Reposition the block and reposition the armor stand on the opposite side like this.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:08.120695",
+      "materials": []
+    },
+    {
+      "id": 31971,
+      "buildId": 632,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c03b3095-c716-490e-be31-1804b2aac03d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:09.022387",
+      "materials": [
+        {
+          "name": "Golden Chestplate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:golden_chestplate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/741c549e-e1df-4913-b9a3-5aba060427da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31972,
+      "buildId": 632,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b0123164-ecf8-44df-9cdb-993f12a68c5f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:10.734513",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31973,
+      "buildId": 632,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79213358-22b3-4a2a-a9e8-41ed60c29afc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:11.593089",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31974,
+      "buildId": 632,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed4bf128-d5a2-4b4f-bbe3-0ede39576d2e.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:14.47453",
+      "materials": []
+    },
+    {
+      "id": 31975,
+      "buildId": 632,
+      "sequenceOrder": 24,
+      "image": null,
+      "description": "Move the armor stand like this.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:14.478171",
+      "materials": []
+    },
+    {
+      "id": 31976,
+      "buildId": 632,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34f77bea-decb-4f5a-b5fb-ed90b6ed54b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:15.379858",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31977,
+      "buildId": 632,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18b5df36-7200-4211-93c5-015c8fa46663.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:17.61673",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31978,
+      "buildId": 632,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc8a5b34-6179-418a-97e5-72aaa62e1c23.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:19.889613",
+      "materials": []
+    },
+    {
+      "id": 31979,
+      "buildId": 632,
+      "sequenceOrder": 28,
+      "image": null,
+      "description": "Move the armor stand like this.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:19.892923",
+      "materials": []
+    },
+    {
+      "id": 31980,
+      "buildId": 632,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8d91d8e-1b31-46c5-8764-94ec5027c7f2.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:23.015979",
+      "materials": []
+    },
+    {
+      "id": 31981,
+      "buildId": 632,
+      "sequenceOrder": 30,
+      "image": null,
+      "description": "Drop the armor stand like this.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:23.023341",
+      "materials": []
+    },
+    {
+      "id": 31982,
+      "buildId": 632,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6532cde3-aa2b-4c35-80bc-3d152963f5af.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:24.283149",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31983,
+      "buildId": 632,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f847576-167b-4abb-8a02-7020f633173e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:25.125008",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31984,
+      "buildId": 632,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ccdc6b03-20f5-41e1-8c5f-889adc07238c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:26.332921",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5e61dcb8-cc41-4b41-9811-5c557460e751.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31985,
+      "buildId": 632,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8120bf21-5eeb-4351-9947-46ff81d851cf.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:28.295591",
+      "materials": []
+    },
+    {
+      "id": 31986,
+      "buildId": 632,
+      "sequenceOrder": 35,
+      "image": null,
+      "description": "Place redstone to activate the piston, move the stair, and break the other blocks.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:28.299953",
+      "materials": []
+    },
+    {
+      "id": 31987,
+      "buildId": 632,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d99c515-06d0-486d-8d8d-af079ca760f9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:29.195481",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31988,
+      "buildId": 632,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6daadcc-c0b3-44d4-9bef-7ec61a4b538f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:31.373672",
+      "materials": [
+        {
+          "name": "Acacia Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:acacia_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31989,
+      "buildId": 632,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/277cd494-3a95-450b-a400-ec88d3e5d0ba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:32.268619",
+      "materials": [
+        {
+          "name": "Yellow Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21be5534-852d-4d6e-819e-aac8233cc9d7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31990,
+      "buildId": 632,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ee8c625-22d0-4e23-861e-6d04834db097.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:33.900627",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31991,
+      "buildId": 632,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0578c8e8-1e98-48a9-913b-b147c8add663.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:34.70145",
+      "materials": [
+        {
+          "name": "Yellow Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21be5534-852d-4d6e-819e-aac8233cc9d7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31992,
+      "buildId": 632,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5839629-80d6-4b04-bd25-75787239093c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:36.086516",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31993,
+      "buildId": 632,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/94fe4754-6281-47eb-9640-1a79e5dd2692.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:37.863067",
+      "materials": [
+        {
+          "name": "Dead Brain Coral Fan",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dead_brain_coral_fan",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/88b3a491-9dcf-4e09-b00a-751971541f87.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31994,
+      "buildId": 632,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9c003ff-7ea4-46fa-8bc2-43f06f65b5bd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:38.700447",
+      "materials": [
+        {
+          "name": "Smooth Sandstone Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5377dfe-44ab-48f1-a8d3-6d9fa9ee490e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31995,
+      "buildId": 632,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7716af10-e2e1-43ad-b5fe-35dcf48a1b29.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:49:39.957782",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/946e5318-5072-4295-88c3-22f9cf2a2016.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05729c89-0cb9-45b1-b667-3f7477023212.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/41a5d871-948f-47ab-b361-f20f79df8865.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aa5d6d79-d761-4340-904b-95828c336aa2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac1e7633-5cc8-4315-baad-1cd453e40bbe.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e25891b-2265-4510-90fb-0ca454c7bcc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9781ca91-69ea-4efc-ad74-27b3add9d4d5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1df57e37-3c2e-4f75-8763-0b77b6362198.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d428f69-a0c7-44c8-80bb-779e6a85139f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50d428a9-2ab6-454d-8284-ad8b188a3a65.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7edbc896-9f1d-4246-8cec-dd16f22ff69b.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6561fc34-970e-4b65-b236-5d14aa6ef928.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2c10d6-44f9-42de-b838-1e6464ad1b39.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e137e1f-9ccb-4f2b-a383-0b98189d7775.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e16f215-cd05-4d6c-b782-d1cb71fa64a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c03b3095-c716-490e-be31-1804b2aac03d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b0123164-ecf8-44df-9cdb-993f12a68c5f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79213358-22b3-4a2a-a9e8-41ed60c29afc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed4bf128-d5a2-4b4f-bbe3-0ede39576d2e.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34f77bea-decb-4f5a-b5fb-ed90b6ed54b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18b5df36-7200-4211-93c5-015c8fa46663.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc8a5b34-6179-418a-97e5-72aaa62e1c23.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8d91d8e-1b31-46c5-8764-94ec5027c7f2.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6532cde3-aa2b-4c35-80bc-3d152963f5af.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f847576-167b-4abb-8a02-7020f633173e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ccdc6b03-20f5-41e1-8c5f-889adc07238c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8120bf21-5eeb-4351-9947-46ff81d851cf.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d99c515-06d0-486d-8d8d-af079ca760f9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6daadcc-c0b3-44d4-9bef-7ec61a4b538f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/277cd494-3a95-450b-a400-ec88d3e5d0ba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ee8c625-22d0-4e23-861e-6d04834db097.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0578c8e8-1e98-48a9-913b-b147c8add663.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5839629-80d6-4b04-bd25-75787239093c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/94fe4754-6281-47eb-9640-1a79e5dd2692.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9c003ff-7ea4-46fa-8bc2-43f06f65b5bd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7716af10-e2e1-43ad-b5fe-35dcf48a1b29.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7716af10-e2e1-43ad-b5fe-35dcf48a1b29.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7716af10-e2e1-43ad-b5fe-35dcf48a1b29.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

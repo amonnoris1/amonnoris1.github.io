@@ -1,0 +1,217 @@
+{
+  "id": 91,
+  "name": "Modern House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 25,
+      "name": "Modern"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 33,
+  "steps": 33,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6fea5776-46d5-42d0-baaf-83301113a7d9.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/6fea5776-46d5-42d0-baaf-83301113a7d9.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/42ad1940-60b8-4c6b-8d34-45b15fcef339.webp",
+  "description": "A small modern house in white concrete and wood, with a flat overhang and a pool at the side. Two floors, a wide window strip upstairs and a hedge-lined patio outside. Concrete and planks keep the material list short. An easy first modern base for survival.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-19T19:45:32.10317",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Jungle Planks",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:jungle_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8419f325-1880-412c-99fb-5e7b8bcfcd55.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Door",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fbada5d3-107a-4fe7-86fa-c9a371ab1a0e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Planks",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a09ec4a-656e-4231-a41d-5af6791e704d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Birch Slab",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:birch_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac4d8f6b-e60e-4222-9ed0-b21f49906f03.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Fence",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:oak_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/37676f03-b726-49cd-afff-f8795af76c11.webp",
+      "type": "item"
+    },
+    {
+      "name": "Jungle Stairs",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:jungle_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/348e4706-922c-421c-8f13-a19bb4353b70.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:iron_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 99,
+      "quantity": 99,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:white_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/87e0bb41-714b-49e3-9018-e04fd0109944.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Bed",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:black_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bcbd089c-5ab8-4f0e-93a1-77efffc27a8a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Leaves",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:oak_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/74d5edb9-8098-4fe6-ac3a-6ec9712ed96a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Water Bucket",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:water_bucket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9840fd88-ba2a-4b65-bd2d-3be68591b5d1.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/42ad1940-60b8-4c6b-8d34-45b15fcef339.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/42ad1940-60b8-4c6b-8d34-45b15fcef339.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

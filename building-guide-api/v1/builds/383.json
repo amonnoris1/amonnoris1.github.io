@@ -1,0 +1,888 @@
+{
+  "id": 383,
+  "name": "Griffin Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 37,
+  "steps": 37,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/7e141cc3-cb22-45fd-b7f6-7b28c9fb3c12.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/7e141cc3-cb22-45fd-b7f6-7b28c9fb3c12.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08835131-9e71-4e6d-905a-134729aeda29.webp",
+  "description": "A griffin minecraft statue in gray stone, rearing on its hind legs with wings raised over a stone platform. Takes a few stacks of stone bricks and deepslate, nothing rare. Guards a castle courtyard, a gate, or a fountain plaza.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:29:20.02561",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Polished Deepslate",
+      "count": 87,
+      "quantity": 87,
+      "identifier": "minecraft:polished_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Wall",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:polished_deepslate_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Stairs",
+      "count": 33,
+      "quantity": 33,
+      "identifier": "minecraft:polished_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21324,
+      "buildId": 383,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56663073-f255-418f-a4d5-f76e7a0882c1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:22.215931",
+      "materials": []
+    },
+    {
+      "id": 21325,
+      "buildId": 383,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65cc9eca-15c6-4d0d-b929-d160c38e7a84.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:23.533551",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 24,
+          "quantity": 24,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21326,
+      "buildId": 383,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8f4d6c7-cd9d-47b2-bbaf-62e1dc40722e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:24.888003",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 45,
+          "quantity": 45,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21327,
+      "buildId": 383,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c164e7e-dbd7-4511-80ce-71ee9f709c4f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:26.13542",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21328,
+      "buildId": 383,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/117cbdfa-3fed-4820-aa6d-efe94537274b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:27.044186",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21329,
+      "buildId": 383,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d0ec7b28-03bb-4bca-9acf-c6f9ecb4b427.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:28.092126",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21330,
+      "buildId": 383,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/160b1133-1a3a-40ea-a1cc-a5ef3771421a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:28.912003",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21331,
+      "buildId": 383,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21b5b514-5098-4ecb-9fbe-b66fd99c1c14.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:29.828085",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21332,
+      "buildId": 383,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/909f9122-aa06-48fc-b689-deb5d12b63f8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:31.132525",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21333,
+      "buildId": 383,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4298b9d-238d-46bc-b3ac-8bbc2fa47da7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:32.025674",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21334,
+      "buildId": 383,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50cf4c8a-589a-4c42-b13a-21dea4e457b2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:32.899547",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21335,
+      "buildId": 383,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a2f762cb-9420-413d-8efe-2a32697b64a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:33.802145",
+      "materials": [
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21336,
+      "buildId": 383,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6cc81a63-3392-4513-b502-c4a9cb0d4878.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:34.592755",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21337,
+      "buildId": 383,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30206ef1-19d7-4629-ae67-ae5ca11b6fc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:35.476111",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21338,
+      "buildId": 383,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30312c5c-cbab-449c-ba54-c041aa87ae45.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:36.579966",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21339,
+      "buildId": 383,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9f62dd4-c63a-49cb-a0c4-e865ca3291e7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:38.704248",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21340,
+      "buildId": 383,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ce8edf1-a779-4c4b-a3f0-2d4a58604103.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:39.476369",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21341,
+      "buildId": 383,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5b84759b-8851-49cc-96cc-b6f50316bcbb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:40.444846",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21342,
+      "buildId": 383,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7916ea79-0e34-4923-9b4d-dd2044e93ed4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:41.422706",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21343,
+      "buildId": 383,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91859e81-da7d-4823-b104-30258962168d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:43.734718",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21344,
+      "buildId": 383,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca753198-cd50-4fb8-bfef-9461ffad9d63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:45.127536",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21345,
+      "buildId": 383,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3879635d-1fef-448c-9cac-4243701755d9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:46.329984",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21346,
+      "buildId": 383,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcc3dbfc-4441-4c88-bff6-a1189f42fa7e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:47.490648",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21347,
+      "buildId": 383,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ab17afd9-2d22-465f-939a-20bf2765744c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:48.375205",
+      "materials": [
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21348,
+      "buildId": 383,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9c2e0547-3353-4f35-90c4-c1076703ae29.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:49.333188",
+      "materials": [
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21349,
+      "buildId": 383,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92b0c927-59ca-475b-999e-2486621f2881.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:50.217752",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21350,
+      "buildId": 383,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ace5966e-1c67-4683-8de5-fd75cae5c7f1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:51.235018",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21351,
+      "buildId": 383,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/acf9d8e0-bfe5-4118-ab4e-613a36b6c985.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:52.922663",
+      "materials": [
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21352,
+      "buildId": 383,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/230a5ee4-3866-4b24-b918-88999592f11d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:53.875553",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21353,
+      "buildId": 383,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0465503-139d-4751-a068-73a3350ccfed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:55.039521",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21354,
+      "buildId": 383,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18ceb04b-a40f-46f3-818b-68b3fd8441b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:56.319241",
+      "materials": [
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21355,
+      "buildId": 383,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d76408b3-acd2-48c9-8bd9-d4c417cfc3a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:57.188685",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21356,
+      "buildId": 383,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fae30558-511c-40aa-8d0f-c4e3e9720935.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:58.192318",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21357,
+      "buildId": 383,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b2f4170-1adf-4fab-a4c0-8f13049a4e8d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:29:59.071109",
+      "materials": [
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21358,
+      "buildId": 383,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1bf5716a-bdc5-49b0-9dab-d4fa06f0f096.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:30:00.088076",
+      "materials": [
+        {
+          "name": "Polished Deepslate",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Deepslate Wall",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_deepslate_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21359,
+      "buildId": 383,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57af1192-eb09-4bc4-9189-172df51aade2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:30:01.04753",
+      "materials": [
+        {
+          "name": "Polished Deepslate Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_deepslate_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21360,
+      "buildId": 383,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08835131-9e71-4e6d-905a-134729aeda29.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:30:02.28966",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56663073-f255-418f-a4d5-f76e7a0882c1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65cc9eca-15c6-4d0d-b929-d160c38e7a84.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8f4d6c7-cd9d-47b2-bbaf-62e1dc40722e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c164e7e-dbd7-4511-80ce-71ee9f709c4f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/117cbdfa-3fed-4820-aa6d-efe94537274b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d0ec7b28-03bb-4bca-9acf-c6f9ecb4b427.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/160b1133-1a3a-40ea-a1cc-a5ef3771421a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21b5b514-5098-4ecb-9fbe-b66fd99c1c14.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/909f9122-aa06-48fc-b689-deb5d12b63f8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4298b9d-238d-46bc-b3ac-8bbc2fa47da7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50cf4c8a-589a-4c42-b13a-21dea4e457b2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a2f762cb-9420-413d-8efe-2a32697b64a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6cc81a63-3392-4513-b502-c4a9cb0d4878.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30206ef1-19d7-4629-ae67-ae5ca11b6fc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/30312c5c-cbab-449c-ba54-c041aa87ae45.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9f62dd4-c63a-49cb-a0c4-e865ca3291e7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ce8edf1-a779-4c4b-a3f0-2d4a58604103.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5b84759b-8851-49cc-96cc-b6f50316bcbb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7916ea79-0e34-4923-9b4d-dd2044e93ed4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91859e81-da7d-4823-b104-30258962168d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca753198-cd50-4fb8-bfef-9461ffad9d63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3879635d-1fef-448c-9cac-4243701755d9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcc3dbfc-4441-4c88-bff6-a1189f42fa7e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ab17afd9-2d22-465f-939a-20bf2765744c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9c2e0547-3353-4f35-90c4-c1076703ae29.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/92b0c927-59ca-475b-999e-2486621f2881.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ace5966e-1c67-4683-8de5-fd75cae5c7f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/acf9d8e0-bfe5-4118-ab4e-613a36b6c985.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/230a5ee4-3866-4b24-b918-88999592f11d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0465503-139d-4751-a068-73a3350ccfed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18ceb04b-a40f-46f3-818b-68b3fd8441b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d76408b3-acd2-48c9-8bd9-d4c417cfc3a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fae30558-511c-40aa-8d0f-c4e3e9720935.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b2f4170-1adf-4fab-a4c0-8f13049a4e8d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1bf5716a-bdc5-49b0-9dab-d4fa06f0f096.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/57af1192-eb09-4bc4-9189-172df51aade2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08835131-9e71-4e6d-905a-134729aeda29.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08835131-9e71-4e6d-905a-134729aeda29.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08835131-9e71-4e6d-905a-134729aeda29.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

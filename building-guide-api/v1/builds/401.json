@@ -1,0 +1,180 @@
+{
+  "id": 401,
+  "name": "Eagle Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 3,
+  "buildSteps": 175,
+  "steps": 175,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c28a6a67-ee20-478c-afac-14d9a57471d0.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c28a6a67-ee20-478c-afac-14d9a57471d0.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16adf033-a843-49e2-a50b-94fc0941a93e.webp",
+  "description": "A minecraft statue of an eagle with raised wings, built from deepslate and dark stone. Layered slabs and walls shape the feathers, and it stands on its own talons. Takes a fair stack of stone blocks. Place it at a base entrance or on a cliff edge.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-07T08:44:09.279932",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Cobbled Deepslate",
+      "count": 19,
+      "quantity": 19,
+      "identifier": "minecraft:cobbled_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b033a78e-62e9-45e0-b432-8351215d9efc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate Stairs",
+      "count": 26,
+      "quantity": 26,
+      "identifier": "minecraft:cobbled_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3d423e3f-ed68-41bd-a7bb-1777e1498984.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate",
+      "count": 45,
+      "quantity": 45,
+      "identifier": "minecraft:polished_deepslate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6a51fadc-f64c-4bb3-88aa-99a34dc05242.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate Slab",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:cobbled_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0c33e300-28df-4f12-8005-2fd533e1b7a7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Wall",
+      "count": 71,
+      "quantity": 71,
+      "identifier": "minecraft:polished_deepslate_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aaca88bf-b2e5-46c6-a195-b8e6eef2458e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Stairs",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:polished_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobbled Deepslate Wall",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:cobbled_deepslate_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6ea9708d-1875-423c-b73a-88700b1b925a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tiles",
+      "count": 198,
+      "quantity": 198,
+      "identifier": "minecraft:deepslate_tiles",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12a7019d-5cff-4a4b-b567-95563ae05209.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Wall",
+      "count": 86,
+      "quantity": 86,
+      "identifier": "minecraft:deepslate_tile_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/22c4deda-725d-4621-a60f-ba3ee2402678.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Slab",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:deepslate_tile_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2323456-585a-4890-b816-3f018ef75866.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Stairs",
+      "count": 41,
+      "quantity": 41,
+      "identifier": "minecraft:deepslate_tile_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d2227147-b3b1-4cb3-bdbf-5f100f415387.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Carpet",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:gray_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cc3543bb-a5ad-4f3c-ad82-ced043260c45.webp",
+      "type": "item"
+    },
+    {
+      "name": "Soul Lantern",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:soul_lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/52cc41b9-31c8-44c2-896c-81e3b76fb9da.webp",
+      "type": "item"
+    },
+    {
+      "name": "Hopper",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:hopper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16adf033-a843-49e2-a50b-94fc0941a93e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16adf033-a843-49e2-a50b-94fc0941a93e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

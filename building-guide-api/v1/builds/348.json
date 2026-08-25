@@ -1,0 +1,124 @@
+{
+  "id": 348,
+  "name": "Ender Dragon Flex",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 12,
+  "steps": 12,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/bfd7b80f-02b0-4128-b658-edcaa04fa91e.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/bfd7b80f-02b0-4128-b658-edcaa04fa91e.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34246b47-2fb7-4d5a-94b7-5fc73a32072c.webp",
+  "description": "A minecraft statue of a kneeling stone knight gripping a nether brick sword, with a dragon egg resting on its arm. A dragon head sits at its foot. Small build, mostly stone bricks. Place it at an End portal room or as an end-game trophy.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:19:46.699884",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Stone",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:chiseled_stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/eaa728d9-d3ab-4860-b582-d9e15ece1cee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:polished_andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/06a969ee-00be-49b5-97fc-77d4769c6d59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Brick Wall",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:nether_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/67b24803-a2ee-49dc-b4ff-ebdf672aad82.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dragon Head",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dragon_head",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e1a33828-3430-49c8-94c0-a2302a87622a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dragon Egg",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dragon_egg",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5a22edfe-2fa8-4ba5-acd7-4e176564fd3e.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34246b47-2fb7-4d5a-94b7-5fc73a32072c.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34246b47-2fb7-4d5a-94b7-5fc73a32072c.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": 104,
+  "name": "Chunk Loader",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": 9,
+  "styleName": "Industrial",
+  "style": "Industrial",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 11,
+  "steps": 6,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/45a894a1-405f-4b02-8c60-ff5ed9ad6ffd.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/45a894a1-405f-4b02-8c60-ff5ed9ad6ffd.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/854857da-c33d-4809-9a15-2989443fef1b.webp",
+  "description": "It will only fully load the chunk where the ender pearl is, which means that it will process random ticks even if you are far away. So, your crops will always keep growing as long as you are in the game. Another cool thing is that in the surrounding 3x3 chunk area, redstone processing still works even though random ticks don't. That means your item sortters, super smelters, and other redstone contraptions will stay fully functional across that 3x3 chunk area.",
+  "dimensions": null,
+  "editions": [
+    "java"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-21T20:22:57.491074",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Soul Sand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:soul_sand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8c36bff-cd41-47e8-b69b-9acfc254f571.webp",
+      "type": "item"
+    },
+    {
+      "name": "Water Bucket",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:water_bucket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9840fd88-ba2a-4b65-bd2d-3be68591b5d1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ender Pearl",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:ender_pearl",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ccbbd5cc-d24b-49a9-bc68-b0425f1955f2.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 3841,
+      "buildId": 104,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8a26d2c-86a5-4715-971e-6af2965f9439.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:22:59.29505",
+      "materials": []
+    },
+    {
+      "id": 3842,
+      "buildId": 104,
+      "sequenceOrder": 2,
+      "image": null,
+      "description": "Dig down 8 blocks",
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:22:59.299769",
+      "materials": []
+    },
+    {
+      "id": 3843,
+      "buildId": 104,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2d083b-4e46-49e7-aa48-439852822a9a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:00.140681",
+      "materials": []
+    },
+    {
+      "id": 3844,
+      "buildId": 104,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d83c1abb-8a8c-495f-9f60-c32bd7f19b8d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:00.996528",
+      "materials": []
+    },
+    {
+      "id": 3845,
+      "buildId": 104,
+      "sequenceOrder": 5,
+      "image": null,
+      "description": "Then put water in every blocks up to the top",
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:01.005353",
+      "materials": []
+    },
+    {
+      "id": 3846,
+      "buildId": 104,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e7b3a92-f58a-4ec1-90b5-3870df03b74b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:02.521073",
+      "materials": []
+    },
+    {
+      "id": 3847,
+      "buildId": 104,
+      "sequenceOrder": 7,
+      "image": null,
+      "description": "look down and throw an ender pearl right in the middle",
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:02.530092",
+      "materials": []
+    },
+    {
+      "id": 3848,
+      "buildId": 104,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ac0930c-aeab-41e0-a893-1bda5c5df8e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:03.41163",
+      "materials": []
+    },
+    {
+      "id": 3849,
+      "buildId": 104,
+      "sequenceOrder": 9,
+      "image": null,
+      "description": "it should pop up and down in the water like so",
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:03.416699",
+      "materials": []
+    },
+    {
+      "id": 3850,
+      "buildId": 104,
+      "sequenceOrder": 10,
+      "image": null,
+      "description": "Must read the Description about its work",
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:03.424725",
+      "materials": []
+    },
+    {
+      "id": 3851,
+      "buildId": 104,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/854857da-c33d-4809-9a15-2989443fef1b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2025-12-21T20:23:04.516256",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8a26d2c-86a5-4715-971e-6af2965f9439.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2d083b-4e46-49e7-aa48-439852822a9a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d83c1abb-8a8c-495f-9f60-c32bd7f19b8d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e7b3a92-f58a-4ec1-90b5-3870df03b74b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ac0930c-aeab-41e0-a893-1bda5c5df8e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/854857da-c33d-4809-9a15-2989443fef1b.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/854857da-c33d-4809-9a15-2989443fef1b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/854857da-c33d-4809-9a15-2989443fef1b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

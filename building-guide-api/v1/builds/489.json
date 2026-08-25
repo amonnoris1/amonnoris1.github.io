@@ -1,0 +1,101 @@
+{
+  "id": 489,
+  "name": "Creepy Light",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 21,
+      "name": "Lamp"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 6,
+  "steps": 6,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e8e86acc-c42e-49a1-a1f1-0cd84bbf9923.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/e8e86acc-c42e-49a1-a1f1-0cd84bbf9923.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44db8bb2-d053-4a4c-94f6-9fbedf1e6a66.webp",
+  "description": "A redstone light strip that runs a row of redstone lamps from a lever through repeaters and torch circuits. Flip the lever and the lamps switch along the line. Cheap parts: redstone dust, repeaters, torches and lamps. Use it for flicker lighting in a haunted or spooky build.",
+  "dimensions": {
+    "width": 15,
+    "height": 4,
+    "length": 8
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T20:52:51.063797",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Redstone Lamp",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:redstone_lamp",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1e08a6b0-8893-4219-94f7-dc7ec6997f6f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Repeater",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:repeater",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b72937d7-3c1e-45f6-916c-19551401267c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44db8bb2-d053-4a4c-94f6-9fbedf1e6a66.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44db8bb2-d053-4a4c-94f6-9fbedf1e6a66.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

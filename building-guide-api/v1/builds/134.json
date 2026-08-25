@@ -1,0 +1,289 @@
+{
+  "id": 134,
+  "name": "Fire Sword",
+  "categoryId": 4,
+  "categoryName": "Decoration",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    },
+    {
+      "id": 4,
+      "name": "Decoration",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/41847565-063d-4136-9ff9-b3821c62c76c.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 17,
+  "steps": 12,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/066d2fc7-31ef-4bc8-a25d-472f262bd201.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/066d2fc7-31ef-4bc8-a25d-472f262bd201.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d178615-fbf0-47ba-a80e-c9603020e584.webp",
+  "description": "A small minecraft statue of a sword stuck point-down in a mound of mossy stone, with fire burning at the blade. Only a few blocks, built in minutes. Drop it on a hilltop, at a spawn point or as a landmark on any survival world.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-06T16:06:20.502703",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Mossy Stone Bricks",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:mossy_stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/433384ec-78c5-4301-b323-f6ba4c667e8a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mossy Stone Brick Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:mossy_stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95a73461-3a2b-469d-9e78-bb0e1edaface.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Candle",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:black_candle",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ceabb604-3201-4773-9bc9-15560de63bf7.webp",
+      "type": "item"
+    },
+    {
+      "name": "End Rod",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:end_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lava Bucket",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lava_bucket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ab5455ef-2bc6-4ae3-9dce-db74f6f00d87.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 5002,
+      "buildId": 134,
+      "sequenceOrder": 1,
+      "image": null,
+      "description": "The first step is to break any ground block.",
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:20.532264",
+      "materials": []
+    },
+    {
+      "id": 5003,
+      "buildId": 134,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2123b574-1945-4063-84a9-f5ab2b86cd75.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:22.294275",
+      "materials": []
+    },
+    {
+      "id": 5004,
+      "buildId": 134,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91e84672-2022-458f-a085-19c0cb0cc93c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:23.819793",
+      "materials": []
+    },
+    {
+      "id": 5005,
+      "buildId": 134,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71969bb5-a5e3-40c9-a86a-47de852337b3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:24.780536",
+      "materials": []
+    },
+    {
+      "id": 5006,
+      "buildId": 134,
+      "sequenceOrder": 5,
+      "image": null,
+      "description": "add armor stand in dispenser",
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:24.7869",
+      "materials": []
+    },
+    {
+      "id": 5007,
+      "buildId": 134,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81c1979a-972f-480e-bef5-82683196d5d4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:25.918532",
+      "materials": []
+    },
+    {
+      "id": 5008,
+      "buildId": 134,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10bceda4-1ea8-425f-ba11-d54c4a7ed723.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:27.37306",
+      "materials": []
+    },
+    {
+      "id": 5009,
+      "buildId": 134,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/742ee583-88ff-4df8-be11-bc9151bfdba9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:28.591595",
+      "materials": []
+    },
+    {
+      "id": 5010,
+      "buildId": 134,
+      "sequenceOrder": 9,
+      "image": null,
+      "description": "Place a redstone block behind the dispenser, then break it, and then break the dispenser as well.",
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:28.598522",
+      "materials": []
+    },
+    {
+      "id": 5011,
+      "buildId": 134,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3f7a01db-20d9-4c18-9f1a-14b762e43346.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:29.399716",
+      "materials": []
+    },
+    {
+      "id": 5012,
+      "buildId": 134,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3987528-6b39-4b1d-a05f-e17599a68772.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:33.502724",
+      "materials": []
+    },
+    {
+      "id": 5013,
+      "buildId": 134,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9258513c-8cde-418a-888f-da01672bb46f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:34.32173",
+      "materials": []
+    },
+    {
+      "id": 5014,
+      "buildId": 134,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c2bbc7d-4a1c-4329-9d13-40c6c49d1b0e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:35.203143",
+      "materials": []
+    },
+    {
+      "id": 5015,
+      "buildId": 134,
+      "sequenceOrder": 14,
+      "image": null,
+      "description": "Place the Endrod on the mossy stone block upside down.",
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:35.209346",
+      "materials": []
+    },
+    {
+      "id": 5016,
+      "buildId": 134,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3eb62445-33f1-4b4a-934a-d95780e2db52.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:36.854989",
+      "materials": []
+    },
+    {
+      "id": 5017,
+      "buildId": 134,
+      "sequenceOrder": 16,
+      "image": null,
+      "description": "put Cadle on top of endrod",
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:36.862122",
+      "materials": []
+    },
+    {
+      "id": 5018,
+      "buildId": 134,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d178615-fbf0-47ba-a80e-c9603020e584.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-06T16:06:37.64871",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2123b574-1945-4063-84a9-f5ab2b86cd75.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/91e84672-2022-458f-a085-19c0cb0cc93c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71969bb5-a5e3-40c9-a86a-47de852337b3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81c1979a-972f-480e-bef5-82683196d5d4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10bceda4-1ea8-425f-ba11-d54c4a7ed723.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/742ee583-88ff-4df8-be11-bc9151bfdba9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3f7a01db-20d9-4c18-9f1a-14b762e43346.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3987528-6b39-4b1d-a05f-e17599a68772.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9258513c-8cde-418a-888f-da01672bb46f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c2bbc7d-4a1c-4329-9d13-40c6c49d1b0e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3eb62445-33f1-4b4a-934a-d95780e2db52.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d178615-fbf0-47ba-a80e-c9603020e584.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d178615-fbf0-47ba-a80e-c9603020e584.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d178615-fbf0-47ba-a80e-c9603020e584.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

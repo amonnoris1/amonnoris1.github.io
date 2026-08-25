@@ -1,0 +1,647 @@
+{
+  "id": 681,
+  "name": "Animatronic",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 24,
+  "steps": 23,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1c50f86e-7c3c-44a2-b01c-11b7b11e29c7.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1c50f86e-7c3c-44a2-b01c-11b7b11e29c7.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/9df84608-c96d-450f-93e1-c91ab5b62bbd.webp",
+  "description": "A minecraft statue of a shark built from oxidized copper, with cut copper on the belly and a grate mouth. A quick build, only a few stacks of copper blocks. Set it by an ocean base or aquarium.",
+  "dimensions": {
+    "width": 13,
+    "height": 7,
+    "length": 8
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-07-10T15:04:58.454305",
+  "updatedAt": "2026-08-21T11:40:04.891716",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cut Copper Slab",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:cut_copper_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b3bf3b58-e6ac-4ad7-a927-1106265d4551.webp",
+      "type": "item"
+    },
+    {
+      "name": "Waxed Block of Copper",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:waxed_copper_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c51842aa-eb17-40d8-92fe-07b329e1bf56.webp",
+      "type": "item"
+    },
+    {
+      "name": "Waxed Oxidized Copper",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:waxed_oxidized_copper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7d477fac-44d0-4ce4-8f75-23eb96cb027d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Waxed Oxidized Cut Copper Slab",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+      "type": "item"
+    },
+    {
+      "name": "Waxed Oxidized Cut Copper Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dec4ca9-b7cf-437b-8016-99eb0f63ced7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glow Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:glow_item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lightning Rod",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:lightning_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 40278,
+      "buildId": 681,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b0ab833-c417-4735-9b96-ab37eba4eae3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.553081",
+      "materials": [
+        {
+          "name": "Waxed Block of Copper",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_copper_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c51842aa-eb17-40d8-92fe-07b329e1bf56.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40279,
+      "buildId": 681,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e052d09-1f87-4639-8b08-0fb84b3b823a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.561868",
+      "materials": [
+        {
+          "name": "Waxed Block of Copper",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:waxed_copper_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c51842aa-eb17-40d8-92fe-07b329e1bf56.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40280,
+      "buildId": 681,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b770916b-1018-4288-a786-2cb29ef3348f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.567907",
+      "materials": [
+        {
+          "name": "Cut Copper Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b3bf3b58-e6ac-4ad7-a927-1106265d4551.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40281,
+      "buildId": 681,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80f50e3b-6226-4f79-a30b-571052295862.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.574971",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Copper",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:waxed_oxidized_copper",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7d477fac-44d0-4ce4-8f75-23eb96cb027d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40282,
+      "buildId": 681,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44a6075e-d407-46dd-b928-92e3385357d6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.582658",
+      "materials": [
+        {
+          "name": "Cut Copper Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b3bf3b58-e6ac-4ad7-a927-1106265d4551.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40283,
+      "buildId": 681,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34a5d28e-59cd-43d1-90d5-78bb1a6e0ad6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.587788",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40284,
+      "buildId": 681,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00dc1041-f247-490a-b085-ea5bed7872ec.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.594888",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40285,
+      "buildId": 681,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0a3deef-34ed-4ad4-8727-dc5f8aa5b274.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.601259",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40286,
+      "buildId": 681,
+      "sequenceOrder": 9,
+      "image": null,
+      "description": "Same pattern on the other side",
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.608213",
+      "materials": []
+    },
+    {
+      "id": 40287,
+      "buildId": 681,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ab359ad-69f1-49ba-b77d-f7fb2f00f201.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.643377",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        },
+        {
+          "name": "Lightning Rod",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40288,
+      "buildId": 681,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1083bda8-3501-4204-b714-45f1a516ce1a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.65211",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40289,
+      "buildId": 681,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b6bc98a-c858-4d67-ad5b-d0bec055e685.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.671069",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Copper",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:waxed_oxidized_copper",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7d477fac-44d0-4ce4-8f75-23eb96cb027d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40290,
+      "buildId": 681,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eea31f98-77a2-4b99-8213-241c05ed5c2d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.676165",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40291,
+      "buildId": 681,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bef69a42-2ef6-483e-a5e9-0f77167acf83.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.683667",
+      "materials": [
+        {
+          "name": "Lightning Rod",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lightning_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d745f7a-ffcc-4e14-add9-7e757e20d474.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40292,
+      "buildId": 681,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aeb26678-eff7-4d4f-b020-e40306ab69c3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.69076",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dec4ca9-b7cf-437b-8016-99eb0f63ced7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40293,
+      "buildId": 681,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/39929ff4-55b2-4e2a-96e3-81395774fcf4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.696563",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/787ee63b-cdaf-4740-a2e4-ba0367d7f1df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40294,
+      "buildId": 681,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d358e34-3eab-4f76-9716-ba39281a02b2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.702679",
+      "materials": [
+        {
+          "name": "Blast Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40295,
+      "buildId": 681,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6b6efbb-9a90-4108-846a-ea356adc3f99.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.708236",
+      "materials": [
+        {
+          "name": "Glow Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glow_item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40296,
+      "buildId": 681,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1725c28f-0a6b-4de2-956b-5b1f5e087065.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.718225",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Glow Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glow_item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14528153-e372-43ca-b11f-64b0a7e3cfbb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40297,
+      "buildId": 681,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6f2632bf-dd1b-4a12-9e96-cfbcb306a40b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.73171",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Copper",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:waxed_oxidized_copper",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7d477fac-44d0-4ce4-8f75-23eb96cb027d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40298,
+      "buildId": 681,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18a67c0c-33cb-47ca-abd7-99415f989342.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.738828",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dec4ca9-b7cf-437b-8016-99eb0f63ced7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40299,
+      "buildId": 681,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4bd287cc-e830-403f-88f7-1924cafd8e5a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.747078",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dec4ca9-b7cf-437b-8016-99eb0f63ced7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40300,
+      "buildId": 681,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/de9ab4b9-1823-4def-9353-753ca94d675e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.753093",
+      "materials": [
+        {
+          "name": "Waxed Oxidized Cut Copper Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dec4ca9-b7cf-437b-8016-99eb0f63ced7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 40301,
+      "buildId": 681,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0acdc436-2382-4372-9d00-5ba3e362f6cc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-07-10T15:04:58.762639",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1b0ab833-c417-4735-9b96-ab37eba4eae3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e052d09-1f87-4639-8b08-0fb84b3b823a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b770916b-1018-4288-a786-2cb29ef3348f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80f50e3b-6226-4f79-a30b-571052295862.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44a6075e-d407-46dd-b928-92e3385357d6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34a5d28e-59cd-43d1-90d5-78bb1a6e0ad6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00dc1041-f247-490a-b085-ea5bed7872ec.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0a3deef-34ed-4ad4-8727-dc5f8aa5b274.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ab359ad-69f1-49ba-b77d-f7fb2f00f201.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1083bda8-3501-4204-b714-45f1a516ce1a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b6bc98a-c858-4d67-ad5b-d0bec055e685.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eea31f98-77a2-4b99-8213-241c05ed5c2d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bef69a42-2ef6-483e-a5e9-0f77167acf83.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aeb26678-eff7-4d4f-b020-e40306ab69c3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/39929ff4-55b2-4e2a-96e3-81395774fcf4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d358e34-3eab-4f76-9716-ba39281a02b2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6b6efbb-9a90-4108-846a-ea356adc3f99.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1725c28f-0a6b-4de2-956b-5b1f5e087065.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6f2632bf-dd1b-4a12-9e96-cfbcb306a40b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18a67c0c-33cb-47ca-abd7-99415f989342.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4bd287cc-e830-403f-88f7-1924cafd8e5a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/de9ab4b9-1823-4def-9353-753ca94d675e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0acdc436-2382-4372-9d00-5ba3e362f6cc.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/9df84608-c96d-450f-93e1-c91ab5b62bbd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/d0ed0b53-526c-41c0-9d26-7d71f8d5d80a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/4bba04c4-708d-4766-a259-4452fefe071e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/9df84608-c96d-450f-93e1-c91ab5b62bbd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/d0ed0b53-526c-41c0-9d26-7d71f8d5d80a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/4bba04c4-708d-4766-a259-4452fefe071e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ]
+}

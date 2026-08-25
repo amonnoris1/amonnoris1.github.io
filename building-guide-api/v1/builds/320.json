@@ -1,0 +1,433 @@
+{
+  "id": 320,
+  "name": "Mega Medieval House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 6,
+      "name": "Big"
+    },
+    {
+      "id": 22,
+      "name": "Mansion"
+    },
+    {
+      "id": 23,
+      "name": "Medieval"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 359,
+  "steps": 359,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/5918df5d-1f76-440e-86ec-ad5bbcbf0f61.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/5918df5d-1f76-440e-86ec-ad5bbcbf0f61.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4df75322-4a5f-4661-9240-592cdfe686b7.webp",
+  "description": "A big medieval house with swept rooftops, a central spire, a stone chimney and a porch out front. Two floors, a balcony, window boxes and a small crop garden along the side wall. A large build that takes plenty of dark wood, stone and time. Works as the main hall of a medieval village.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-14T16:50:57.152239",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Planks",
+      "count": 34,
+      "quantity": 34,
+      "identifier": "minecraft:oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a09ec4a-656e-4231-a41d-5af6791e704d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Planks",
+      "count": 948,
+      "quantity": 948,
+      "identifier": "minecraft:spruce_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/259cb642-15b9-479d-a6fb-e1be3b4e75a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Slab",
+      "count": 326,
+      "quantity": 326,
+      "identifier": "minecraft:spruce_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1390b325-6501-46a9-be5a-f10643fe5624.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Trapdoor",
+      "count": 76,
+      "quantity": 76,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Fence",
+      "count": 88,
+      "quantity": 88,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Fence Gate",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:spruce_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/705c419c-99b3-4f37-ace5-cb3fd2e807dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Trapdoor",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5cbf9e7b-1a1c-487f-91ae-43149f48caf5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Log",
+      "count": 439,
+      "quantity": 439,
+      "identifier": "minecraft:oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ad2b8c02-d9f4-4913-94a9-0f5ec4910e48.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Spruce Log",
+      "count": 762,
+      "quantity": 762,
+      "identifier": "minecraft:stripped_spruce_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b1070fd-81d9-45e6-8369-f99411504b8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Stairs",
+      "count": 80,
+      "quantity": 80,
+      "identifier": "minecraft:spruce_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0266331b-38a3-464b-8838-6070d8c89c5c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Fence",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dark_oak_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b74e76cd-ff7d-4fe6-82c5-0d420163b6a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Dark Oak Log",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:stripped_dark_oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/94f704b3-df05-435a-b591-0f4af2cb7128.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Door",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:dark_oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Log",
+      "count": 1104,
+      "quantity": 1104,
+      "identifier": "minecraft:dark_oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/adf123bc-87a0-4f87-9e4b-ecbbe9dc9a9a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Trapdoor",
+      "count": 144,
+      "quantity": 144,
+      "identifier": "minecraft:dark_oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6e7ff944-c96e-43dd-be0d-eaef09fc157a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Planks",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:dark_oak_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38db94be-a68d-46bb-b950-6346ef990983.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Oak Slab",
+      "count": 94,
+      "quantity": 94,
+      "identifier": "minecraft:dark_oak_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4b32eb00-a81c-49fa-b5b0-e48972c9aaba.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone",
+      "count": 192,
+      "quantity": 192,
+      "identifier": "minecraft:stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobblestone",
+      "count": 28,
+      "quantity": 28,
+      "identifier": "minecraft:cobblestone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b0896735-052e-4799-94c9-2a9e14c8b7bb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 498,
+      "quantity": 498,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Wall",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:stone_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2d632491-6653-44eb-8d7a-0d9cad4ac884.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Slab",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:stone_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/94339034-d02d-4d09-b2c1-d785a4a420dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite",
+      "count": 42,
+      "quantity": 42,
+      "identifier": "minecraft:andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite",
+      "count": 221,
+      "quantity": 221,
+      "identifier": "minecraft:polished_andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/06a969ee-00be-49b5-97fc-77d4769c6d59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Deepslate Tile Wall",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:deepslate_tile_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/22c4deda-725d-4621-a60f-ba3ee2402678.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mud Brick Wall",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:mud_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5550451-faa2-4bb1-93b4-59023d3b8d51.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chain",
+      "count": 17,
+      "quantity": 17,
+      "identifier": "minecraft:chain",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 119,
+      "quantity": 119,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dirt",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:dirt",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/75614cdd-5f63-4882-aefe-d21e5e43d7a8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Coarse Dirt",
+      "count": 55,
+      "quantity": 55,
+      "identifier": "minecraft:coarse_dirt",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a306259-ed41-4133-842e-2edb29024eac.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glowstone",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:glowstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oak Leaves",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:oak_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/74d5edb9-8098-4fe6-ac3a-6ec9712ed96a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Sapling",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:spruce_sapling",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6d688bdc-eec6-4db1-96fc-0eadf48cfd4d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flowering Azalea",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:flowering_azalea",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/86125c0b-c676-4b14-a773-8adf962fb76a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dead Bush",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:dead_bush",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9becf999-898d-4428-a9aa-0fd7acd1cd5c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sweet Berries",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:sweet_berries",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0d6a214b-f4d7-4c07-98e9-c7afbd013b97.webp",
+      "type": "item"
+    },
+    {
+      "name": "Torch",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:torch",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/403525e3-8f13-45c7-aa43-6c6e350b8d91.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Campfire",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:campfire",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e32a72-27bb-4255-844b-6ff127345fd7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flower Pot",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:flower_pot",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lectern",
+      "count": 28,
+      "quantity": 28,
+      "identifier": "minecraft:lectern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a21581-d23a-439a-8352-32be11bf803f.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4df75322-4a5f-4661-9240-592cdfe686b7.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4df75322-4a5f-4661-9240-592cdfe686b7.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

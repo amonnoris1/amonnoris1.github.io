@@ -1,0 +1,1338 @@
+{
+  "id": 353,
+  "name": "Mini Bus",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 51,
+  "steps": 51,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/5c2b71d8-8f60-4c5c-ba98-004fb54ec97f.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/5c2b71d8-8f60-4c5c-ba98-004fb54ec97f.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75ad9576-8109-4dfa-bf32-3cd191eeff53.webp",
+  "description": "A city bus built from white concrete, with tinted glass windows, a roof vent and lamp headlights. Life-size scale, a few blocks tall. Mostly white concrete and glass, cheap to make. Park it on a street in a modern city or at a bus stop build.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:26:03.330345",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Dark Oak Fence Gate",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dark_oak_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20083200-6dbf-4ba2-9488-8de0df760119.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Button",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:stone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/06a969ee-00be-49b5-97fc-77d4769c6d59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 72,
+      "quantity": 72,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:polished_blackstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Button",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:iron_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Tinted Glass",
+      "count": 80,
+      "quantity": 80,
+      "identifier": "minecraft:tinted_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/87e0bb41-714b-49e3-9018-e04fd0109944.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Banner",
+      "count": 27,
+      "quantity": 27,
+      "identifier": "minecraft:gray_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+      "type": "item"
+    },
+    {
+      "name": "Snow Block",
+      "count": 112,
+      "quantity": 112,
+      "identifier": "minecraft:snow_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Snow",
+      "count": 50,
+      "quantity": 50,
+      "identifier": "minecraft:snow",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/46d06697-a92f-4255-b258-ff5c9af520f2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glowstone",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:glowstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Birch Sign",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:birch_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7002e4ba-b24f-414c-9115-5aa700bce2e7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Rail",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:rail",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 19945,
+      "buildId": 353,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b59d8144-d19e-4705-a309-7c508dc99f56.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:04.71692",
+      "materials": [
+        {
+          "name": "Polished Blackstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19946,
+      "buildId": 353,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/59bbcb22-9586-4748-9db2-47f4a14372ef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:05.798466",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19947,
+      "buildId": 353,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/746891c1-b11e-4f17-a47d-1318f28c422c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:07.272294",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19948,
+      "buildId": 353,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eefef18c-88f5-457f-a591-db651d2b7328.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:08.780889",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Blackstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19949,
+      "buildId": 353,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0375e0b6-365c-464b-b91b-9ddf818b0e62.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:09.882857",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19950,
+      "buildId": 353,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5229becd-881a-4e58-94a5-2674bbf8dd2b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:11.280522",
+      "materials": [
+        {
+          "name": "Polished Blackstone",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19951,
+      "buildId": 353,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84d90b5e-688d-457a-a268-94b2e35b6452.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:12.193886",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19952,
+      "buildId": 353,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8d360f6-e913-4ea8-aa44-59d4dd625768.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:13.218311",
+      "materials": [
+        {
+          "name": "Iron Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:iron_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19953,
+      "buildId": 353,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/481a3d53-4018-4976-a618-f5610b9c0290.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:14.687022",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Polished Blackstone",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8fedecf2-36a8-4c3d-95c5-3c04a36a9141.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19954,
+      "buildId": 353,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79dc5514-b740-4379-b501-370448bcadea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:16.041604",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19955,
+      "buildId": 353,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9ff15aa-18e5-4650-89b1-7ba7a2d4ecb6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:16.886758",
+      "materials": [
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 34,
+          "quantity": 34,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19956,
+      "buildId": 353,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a6b52842-d9c3-4b9b-af9a-93f68b4e3ed4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:19.161794",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19957,
+      "buildId": 353,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da9d8d4f-f975-444f-89bb-bf4c53858c44.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:20.63697",
+      "materials": [
+        {
+          "name": "Polished Andesite",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_andesite",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/06a969ee-00be-49b5-97fc-77d4769c6d59.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19958,
+      "buildId": 353,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/097741fa-18ea-4841-8585-80a81262d933.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:21.681412",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19959,
+      "buildId": 353,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d50a8760-7de7-4fc9-a4c7-94591e10fe59.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:22.625361",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19960,
+      "buildId": 353,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5895bd41-f96b-448d-812d-514abe818c15.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:24.036007",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Snow Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19961,
+      "buildId": 353,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f83668ed-1b70-4cff-b820-fd3b105ec47b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:25.171133",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 26,
+          "quantity": 26,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19962,
+      "buildId": 353,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b5244a0-8794-4d7d-b7d5-2593301bf8a0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:26.196675",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19963,
+      "buildId": 353,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8fc5929-4abf-45ce-b2fd-fe413e58e682.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:27.116042",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19964,
+      "buildId": 353,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27b43e1d-d2cf-4358-8406-2793b61f9584.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:28.326767",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19965,
+      "buildId": 353,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7af4c554-4bf4-4dc4-a438-9f1e8cdad9b9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:29.422669",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19966,
+      "buildId": 353,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/45770bf2-675d-485a-8ef9-718ee376439e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:30.673709",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19967,
+      "buildId": 353,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4c5563f-3842-46d9-950a-39c33474ae9f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:31.878333",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19968,
+      "buildId": 353,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b36b6c3b-f07b-484f-b32d-b167dd8dd73d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:34.004821",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Snow Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19969,
+      "buildId": 353,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d0da5f33-8704-4f6d-b0c2-096411c03521.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:34.843721",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19970,
+      "buildId": 353,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df094ab8-157d-44e3-a858-d98caa4cc614.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:35.74888",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Snow Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19971,
+      "buildId": 353,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38887556-3a94-4962-ad24-a2924a16ea10.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:36.621073",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19972,
+      "buildId": 353,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/17239cef-20cc-4b35-af71-66f796fe1fc7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:38.83545",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19973,
+      "buildId": 353,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7408050d-9d34-41ed-a903-4e071509e233.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:40.114171",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19974,
+      "buildId": 353,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4142e99a-f65e-473b-9472-c3d44093c9ac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:41.066055",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19975,
+      "buildId": 353,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22a469bd-bb5f-464e-82b3-2941128dfc2c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:41.972613",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 30,
+          "quantity": 30,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19976,
+      "buildId": 353,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff1a7fb6-853b-47dd-8b19-2f9f4f33dc87.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:43.750668",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 26,
+          "quantity": 26,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19977,
+      "buildId": 353,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12211fe0-4dcd-4ab7-830c-05c2a7097637.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:44.700506",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Tinted Glass",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19978,
+      "buildId": 353,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09ba8ccf-97b2-4f14-91cf-37ae07ba5031.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:45.633343",
+      "materials": [
+        {
+          "name": "Tinted Glass",
+          "count": 26,
+          "quantity": 26,
+          "identifier": "minecraft:tinted_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e38b14d-5067-41e5-a951-c41ca0eae44d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19979,
+      "buildId": 353,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/35c1fc52-6712-4d91-a392-4344e1e5ac35.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:46.592402",
+      "materials": [
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 34,
+          "quantity": 34,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19980,
+      "buildId": 353,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/161f8a5c-88f3-4e18-8161-2af837c4a592.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:48.787093",
+      "materials": [
+        {
+          "name": "Polished Deepslate Slab",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:polished_deepslate_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19981,
+      "buildId": 353,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dadefe5b-5aa9-4bbf-83f8-91d67c79205c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:49.817744",
+      "materials": [
+        {
+          "name": "Gray Banner",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19982,
+      "buildId": 353,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8f1629ff-57b9-44f5-a861-2e4499af8d6e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:51.106001",
+      "materials": [
+        {
+          "name": "Gray Banner",
+          "count": 22,
+          "quantity": 22,
+          "identifier": "minecraft:gray_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19983,
+      "buildId": 353,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d1818df-6ae1-4054-97e8-3484423e746b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:51.929824",
+      "materials": [
+        {
+          "name": "Dark Oak Fence Gate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dark_oak_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20083200-6dbf-4ba2-9488-8de0df760119.webp",
+          "type": "item"
+        },
+        {
+          "name": "Gray Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/78e4ade9-50b6-41b0-80ee-b69ab9c1fc78.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19984,
+      "buildId": 353,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cde57c2c-242a-4a86-bc13-0b63cf93f3d6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:53.335125",
+      "materials": [
+        {
+          "name": "Snow Block",
+          "count": 28,
+          "quantity": 28,
+          "identifier": "minecraft:snow_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d03ce242-131d-430d-850d-ee75ab84775b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19985,
+      "buildId": 353,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2bfeee26-4642-47b3-8072-fabbd50cd3b7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:54.323322",
+      "materials": [
+        {
+          "name": "Snow",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:snow",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/46d06697-a92f-4255-b258-ff5c9af520f2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19986,
+      "buildId": 353,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6158ae6b-27b2-48c6-b689-9f59a6c6f8d8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:55.360507",
+      "materials": [
+        {
+          "name": "Snow",
+          "count": 30,
+          "quantity": 30,
+          "identifier": "minecraft:snow",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/46d06697-a92f-4255-b258-ff5c9af520f2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19987,
+      "buildId": 353,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7908e56a-31ea-4142-9d16-3eaa6a5e1c3e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:56.902734",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Stained Glass Pane",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_stained_glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/87e0bb41-714b-49e3-9018-e04fd0109944.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19988,
+      "buildId": 353,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99fd269e-29a5-47f3-baa5-cbc1a24c27e5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:58.075495",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Stained Glass Pane",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_stained_glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/87e0bb41-714b-49e3-9018-e04fd0109944.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19989,
+      "buildId": 353,
+      "sequenceOrder": 45,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/847443a6-ba59-4bce-8e02-07f84b43fb6c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:26:59.263181",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Birch Sign",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7002e4ba-b24f-414c-9115-5aa700bce2e7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19990,
+      "buildId": 353,
+      "sequenceOrder": 46,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/672155fa-6ae0-4671-8a4f-b895fab89f57.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:00.345158",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Birch Sign",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7002e4ba-b24f-414c-9115-5aa700bce2e7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19991,
+      "buildId": 353,
+      "sequenceOrder": 47,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5a19d59-13ee-4602-82c3-91fe3e155596.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:01.696923",
+      "materials": [
+        {
+          "name": "Rail",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:rail",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19992,
+      "buildId": 353,
+      "sequenceOrder": 48,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcff68c4-4875-461b-8640-fef9a3197aea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:02.784692",
+      "materials": [
+        {
+          "name": "Rail",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:rail",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19993,
+      "buildId": 353,
+      "sequenceOrder": 49,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea792dba-74e8-4295-9706-0cd8c68fd059.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:03.616925",
+      "materials": [
+        {
+          "name": "Rail",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:rail",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19994,
+      "buildId": 353,
+      "sequenceOrder": 50,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4a5278e-57b9-47fd-9b9e-2d0e33edfd65.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:04.80183",
+      "materials": [
+        {
+          "name": "Rail",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:rail",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 19995,
+      "buildId": 353,
+      "sequenceOrder": 51,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75ad9576-8109-4dfa-bf32-3cd191eeff53.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:27:06.157189",
+      "materials": [
+        {
+          "name": "Snow",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:snow",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/46d06697-a92f-4255-b258-ff5c9af520f2.webp",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b59d8144-d19e-4705-a309-7c508dc99f56.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/59bbcb22-9586-4748-9db2-47f4a14372ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/746891c1-b11e-4f17-a47d-1318f28c422c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eefef18c-88f5-457f-a591-db651d2b7328.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0375e0b6-365c-464b-b91b-9ddf818b0e62.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5229becd-881a-4e58-94a5-2674bbf8dd2b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84d90b5e-688d-457a-a268-94b2e35b6452.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8d360f6-e913-4ea8-aa44-59d4dd625768.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/481a3d53-4018-4976-a618-f5610b9c0290.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79dc5514-b740-4379-b501-370448bcadea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9ff15aa-18e5-4650-89b1-7ba7a2d4ecb6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a6b52842-d9c3-4b9b-af9a-93f68b4e3ed4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da9d8d4f-f975-444f-89bb-bf4c53858c44.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/097741fa-18ea-4841-8585-80a81262d933.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d50a8760-7de7-4fc9-a4c7-94591e10fe59.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5895bd41-f96b-448d-812d-514abe818c15.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f83668ed-1b70-4cff-b820-fd3b105ec47b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b5244a0-8794-4d7d-b7d5-2593301bf8a0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8fc5929-4abf-45ce-b2fd-fe413e58e682.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27b43e1d-d2cf-4358-8406-2793b61f9584.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7af4c554-4bf4-4dc4-a438-9f1e8cdad9b9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/45770bf2-675d-485a-8ef9-718ee376439e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4c5563f-3842-46d9-950a-39c33474ae9f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b36b6c3b-f07b-484f-b32d-b167dd8dd73d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d0da5f33-8704-4f6d-b0c2-096411c03521.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df094ab8-157d-44e3-a858-d98caa4cc614.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38887556-3a94-4962-ad24-a2924a16ea10.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/17239cef-20cc-4b35-af71-66f796fe1fc7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7408050d-9d34-41ed-a903-4e071509e233.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4142e99a-f65e-473b-9472-c3d44093c9ac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22a469bd-bb5f-464e-82b3-2941128dfc2c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff1a7fb6-853b-47dd-8b19-2f9f4f33dc87.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12211fe0-4dcd-4ab7-830c-05c2a7097637.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09ba8ccf-97b2-4f14-91cf-37ae07ba5031.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/35c1fc52-6712-4d91-a392-4344e1e5ac35.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/161f8a5c-88f3-4e18-8161-2af837c4a592.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dadefe5b-5aa9-4bbf-83f8-91d67c79205c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8f1629ff-57b9-44f5-a861-2e4499af8d6e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d1818df-6ae1-4054-97e8-3484423e746b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cde57c2c-242a-4a86-bc13-0b63cf93f3d6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2bfeee26-4642-47b3-8072-fabbd50cd3b7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6158ae6b-27b2-48c6-b689-9f59a6c6f8d8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7908e56a-31ea-4142-9d16-3eaa6a5e1c3e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99fd269e-29a5-47f3-baa5-cbc1a24c27e5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/847443a6-ba59-4bce-8e02-07f84b43fb6c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/672155fa-6ae0-4671-8a4f-b895fab89f57.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5a19d59-13ee-4602-82c3-91fe3e155596.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcff68c4-4875-461b-8640-fef9a3197aea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea792dba-74e8-4295-9706-0cd8c68fd059.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4a5278e-57b9-47fd-9b9e-2d0e33edfd65.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75ad9576-8109-4dfa-bf32-3cd191eeff53.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75ad9576-8109-4dfa-bf32-3cd191eeff53.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75ad9576-8109-4dfa-bf32-3cd191eeff53.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

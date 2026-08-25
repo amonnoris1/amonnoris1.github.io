@@ -1,0 +1,184 @@
+{
+  "id": 571,
+  "name": "Modern Car",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 21,
+  "steps": 21,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/ba3692d6-4a06-4712-9ef8-563a9a25bf75.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/ba3692d6-4a06-4712-9ef8-563a9a25bf75.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16942f2c-9a1e-4eb1-85ce-5eb1dcf3fc18.webp",
+  "description": "A blocky modern car in white and black with glass windows and red tail lights. A parked prop, not a working vehicle. A few stacks of concrete, quartz and glass. Park it in a driveway, garage or city street.",
+  "dimensions": {
+    "width": 9,
+    "height": 4,
+    "length": 5
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-11T14:00:39.91149",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Trapdoor",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:birch_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3e089d82-d705-4012-8070-a674bee37280.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Planks",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:spruce_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/259cb642-15b9-479d-a6fb-e1be3b4e75a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Button",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:stone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Diorite Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:polished_diorite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ea5a0c3c-61c6-45d5-97f9-453430885ce0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Diorite Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_diorite_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/83a12a56-b74c-434f-86b3-ebf949592399.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:polished_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Slab",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:polished_deepslate_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f5d56b5-9785-4623-a6c4-2c4036ed364c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Quartz Slab",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6fb00478-edba-4830-a8e7-c839ec44489d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Quartz",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:quartz_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/03b629cd-78b1-44f4-bb1d-7b3662e72b64.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Carpet",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:white_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Carpet",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f46c201a-f7ab-49cc-a7da-fef64a8a8c8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Stained Glass",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:black_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4a08f860-64ba-4761-9aa6-dac8abadc826.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Sign",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:mangrove_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c262fb0-1d9e-44d7-9280-47c3af14a082.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16942f2c-9a1e-4eb1-85ce-5eb1dcf3fc18.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16942f2c-9a1e-4eb1-85ce-5eb1dcf3fc18.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": 288,
+  "name": "Statue Of Liberty",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 6,
+      "name": "Big"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 177,
+  "steps": 177,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/8f6861d6-6c4f-457c-be99-e41797afb07f.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/8f6861d6-6c4f-457c-be99-e41797afb07f.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a2ab149-64d9-4a00-b108-110ed1cf7ab3.webp",
+  "description": "A minecraft statue of the Statue of Liberty, built in weathered copper on a stone pedestal with a gold torch. Crown, raised arm and tablet are all there. It stands tall, so expect to place plenty of copper blocks. A landmark for a city, harbor or server spawn.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-06T17:37:37.904327",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Sandstone Slab",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e43ed3b3-6335-46c6-88c2-88f51cfd8f98.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sandstone Stairs",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:sandstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5be90299-362d-492d-82a9-2aabd5cf7786.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sandstone",
+      "count": 252,
+      "quantity": 252,
+      "identifier": "minecraft:sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8f636158-5b77-4e95-83f9-075bf087cfe0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Sandstone",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:chiseled_sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2e972931-681b-458d-9318-1931e84a17c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Sandstone",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:smooth_sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/df53b93f-7f65-40ec-b01e-2ba6f095d19b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cut Sandstone",
+      "count": 52,
+      "quantity": 52,
+      "identifier": "minecraft:cut_sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/34ffd781-bcb4-4304-896d-bc4d0523acda.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sandstone Wall",
+      "count": 64,
+      "quantity": 64,
+      "identifier": "minecraft:sandstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/112ac76f-173f-4132-a20e-236884d31c0c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Prismarine Wall",
+      "count": 53,
+      "quantity": 53,
+      "identifier": "minecraft:prismarine_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b99ed66a-c60e-4143-8f32-a1d2aad22b87.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oxidized Copper",
+      "count": 64,
+      "quantity": 64,
+      "identifier": "minecraft:oxidized_copper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8ec8f56b-8eba-40c0-8346-e2c1d5a55118.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oxidized Cut Copper",
+      "count": 560,
+      "quantity": 560,
+      "identifier": "minecraft:oxidized_cut_copper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98ccd654-5a45-44c7-ac9c-142146c2ce7f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oxidized Cut Copper Slab",
+      "count": 44,
+      "quantity": 44,
+      "identifier": "minecraft:oxidized_cut_copper_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7524b1eb-9b74-4495-9808-61edd69477cd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oxidized Cut Copper Stairs",
+      "count": 42,
+      "quantity": 42,
+      "identifier": "minecraft:oxidized_cut_copper_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15dd73bf-84c8-4b15-9c99-9c2a72f16a8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Wool",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:black_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glowstone",
+      "count": 23,
+      "quantity": 23,
+      "identifier": "minecraft:glowstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a2ab149-64d9-4a00-b108-110ed1cf7ab3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6a2ab149-64d9-4a00-b108-110ed1cf7ab3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

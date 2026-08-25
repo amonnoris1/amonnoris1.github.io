@@ -1,0 +1,148 @@
+{
+  "id": 113,
+  "name": "Elytra Launcher",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 23,
+  "steps": 23,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/62e7cb16-e2b9-43ac-ac39-1ca1e02aaac4.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/62e7cb16-e2b9-43ac-ac39-1ca1e02aaac4.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee42f5bc-8124-45e9-8d1c-abe2e9f6b015.webp",
+  "description": "An elytra launcher hidden inside a stepped white mound with lanterns on the corners. Step on and it throws you into the air, high enough to open your elytra and fly. Built from quartz-style blocks over a compact redstone core. Place it at your base as a takeoff point.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-23T14:51:26.70518",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Pressure Plate",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_pressure_plate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/96d0f209-7bc6-4263-85a4-0014236efa8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Oak Log",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:stripped_oak_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e829c18b-7af1-478b-ab42-b651bf5ab2cd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sandstone Wall",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:sandstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/112ac76f-173f-4132-a20e-236884d31c0c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Carpet",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:white_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Composter",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:composter",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ec093770-f346-46e9-8bc9-35f7227446b1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dispenser",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:dispenser",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6e9751f7-66d0-402e-b9ce-b19bb96cf9b3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Wind Charge",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:wind_charge",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dc3d82f6-d32d-4f15-8a6e-aaea600f42d7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Firework Rocket",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:firework_rocket",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d7dfeb00-3dba-4134-91de-969005880760.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee42f5bc-8124-45e9-8d1c-abe2e9f6b015.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee42f5bc-8124-45e9-8d1c-abe2e9f6b015.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

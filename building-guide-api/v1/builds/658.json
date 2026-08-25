@@ -1,0 +1,728 @@
+{
+  "id": 658,
+  "name": "Trident Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [],
+  "difficulty": 3,
+  "buildSteps": 28,
+  "steps": 28,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/4c72f092-383c-4af9-aaf9-70a20571199c.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/4c72f092-383c-4af9-aaf9-70a20571199c.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/0ac544a3-c684-42f4-9a8a-69579ece8ea7.webp",
+  "description": "A minecraft statue of a trident planted tip-up on a stone stand. The head is built from quartz and diorite, the shaft from prismarine and diamond blocks. Small footprint, low block count. Marks an ocean monument base, a beach spawn or an underwater-themed area.",
+  "dimensions": {
+    "width": 8,
+    "height": 19,
+    "length": 17
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-29T14:04:03.459577",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Stone",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:smooth_stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Prismarine Bricks",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:prismarine_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dark Prismarine",
+      "count": 23,
+      "quantity": 23,
+      "identifier": "minecraft:dark_prismarine",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Gray Wool",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:light_gray_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e14e0ce5-0e92-40f9-9eee-f0cd9022401c.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 36880,
+      "buildId": 658,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/543595cc-4d52-4148-80a0-d59b9b8a0b83.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.644549",
+      "materials": []
+    },
+    {
+      "id": 36881,
+      "buildId": 658,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4cad8c89-60e9-446e-a639-0174deba0544.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.648654",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36882,
+      "buildId": 658,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c164769a-1782-42c6-b85b-bc43108df3fb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.657375",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36883,
+      "buildId": 658,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f98cdc5c-736a-4c53-9f9c-b2416d803f33.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.670547",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36884,
+      "buildId": 658,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a797aba8-0c4a-4f58-ac16-8c723798274d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.679179",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36885,
+      "buildId": 658,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd05aa51-13f7-47a1-ba0f-00be922514e4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.690534",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36886,
+      "buildId": 658,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1340596f-8550-4a9c-8550-e0b0b6ca645a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.704265",
+      "materials": [
+        {
+          "name": "Stone Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36887,
+      "buildId": 658,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/60288859-eaba-49c5-907f-4e91b23edf45.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.715018",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36888,
+      "buildId": 658,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cb0156e-e409-4210-9206-a333241fe9b8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.725036",
+      "materials": [
+        {
+          "name": "Stone Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Stone Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36889,
+      "buildId": 658,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c8bea2f-d4d1-4943-abb4-4a5c2b1004ea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.73906",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Prismarine Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36890,
+      "buildId": 658,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec37f64e-256a-4494-a0d4-a00c2bd36557.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.749506",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Prismarine Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36891,
+      "buildId": 658,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/933dd765-c766-425a-9026-d5d963c84551.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.763281",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Prismarine Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36892,
+      "buildId": 658,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf80a60a-8031-49aa-ad6a-e592a2e2d66e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.769886",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        },
+        {
+          "name": "Prismarine Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36893,
+      "buildId": 658,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73fa35f4-e0f6-4bf9-88a5-145b966f80c3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.778865",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36894,
+      "buildId": 658,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd3efc7f-dc20-47eb-9f82-58d85c591c0f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.78393",
+      "materials": [
+        {
+          "name": "Prismarine Bricks",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36895,
+      "buildId": 658,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f93fe939-69d8-41aa-b7e6-da6a2604695a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.792174",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36896,
+      "buildId": 658,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db777d81-ebef-4fa8-a4ec-b528ff5fc29a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.796626",
+      "materials": [
+        {
+          "name": "Prismarine Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36897,
+      "buildId": 658,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2681bba-9c9f-467f-ba71-7ab65cac3e85.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.805765",
+      "materials": [
+        {
+          "name": "Dark Prismarine",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:dark_prismarine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1ac844b-92f4-46e6-b115-edfe464e44d0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36898,
+      "buildId": 658,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b523aec9-4894-4742-aa88-3980eb1e947a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.811923",
+      "materials": [
+        {
+          "name": "Light Gray Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:light_gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e14e0ce5-0e92-40f9-9eee-f0cd9022401c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36899,
+      "buildId": 658,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4bdd50d-90a8-4c4b-a406-c0ff206997b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.817722",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36900,
+      "buildId": 658,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bbf95d85-9641-46a7-b681-e4ba58e6bdf0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.82705",
+      "materials": [
+        {
+          "name": "Smooth Stone",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36901,
+      "buildId": 658,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2aaf2534-8275-49e5-a292-383a22b253a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.835139",
+      "materials": [
+        {
+          "name": "Light Gray Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:light_gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e14e0ce5-0e92-40f9-9eee-f0cd9022401c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36902,
+      "buildId": 658,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40650b15-6b19-4d3a-9192-c01ac5e5dcdf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.839206",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36903,
+      "buildId": 658,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f9de27f3-c4c6-415a-94b6-ab089c6b3361.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.84566",
+      "materials": [
+        {
+          "name": "Smooth Stone",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36904,
+      "buildId": 658,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18284982-e82f-43b4-9087-0219cd172324.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.852303",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36905,
+      "buildId": 658,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4950b2a7-e411-434e-8c0a-aeadea45bd54.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.857796",
+      "materials": [
+        {
+          "name": "Smooth Stone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36906,
+      "buildId": 658,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a121daad-acf6-41a4-8ef7-a49f9a0df132.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.862957",
+      "materials": [
+        {
+          "name": "Smooth Stone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_stone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36907,
+      "buildId": 658,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff0163f9-d01c-445d-85ef-5f044cad0daa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:04:03.871922",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/543595cc-4d52-4148-80a0-d59b9b8a0b83.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4cad8c89-60e9-446e-a639-0174deba0544.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c164769a-1782-42c6-b85b-bc43108df3fb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f98cdc5c-736a-4c53-9f9c-b2416d803f33.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a797aba8-0c4a-4f58-ac16-8c723798274d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd05aa51-13f7-47a1-ba0f-00be922514e4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1340596f-8550-4a9c-8550-e0b0b6ca645a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/60288859-eaba-49c5-907f-4e91b23edf45.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cb0156e-e409-4210-9206-a333241fe9b8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c8bea2f-d4d1-4943-abb4-4a5c2b1004ea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec37f64e-256a-4494-a0d4-a00c2bd36557.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/933dd765-c766-425a-9026-d5d963c84551.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf80a60a-8031-49aa-ad6a-e592a2e2d66e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73fa35f4-e0f6-4bf9-88a5-145b966f80c3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd3efc7f-dc20-47eb-9f82-58d85c591c0f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f93fe939-69d8-41aa-b7e6-da6a2604695a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db777d81-ebef-4fa8-a4ec-b528ff5fc29a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2681bba-9c9f-467f-ba71-7ab65cac3e85.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b523aec9-4894-4742-aa88-3980eb1e947a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4bdd50d-90a8-4c4b-a406-c0ff206997b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bbf95d85-9641-46a7-b681-e4ba58e6bdf0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2aaf2534-8275-49e5-a292-383a22b253a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40650b15-6b19-4d3a-9192-c01ac5e5dcdf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f9de27f3-c4c6-415a-94b6-ab089c6b3361.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18284982-e82f-43b4-9087-0219cd172324.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4950b2a7-e411-434e-8c0a-aeadea45bd54.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a121daad-acf6-41a4-8ef7-a49f9a0df132.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff0163f9-d01c-445d-85ef-5f044cad0daa.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/0ac544a3-c684-42f4-9a8a-69579ece8ea7.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/3c3f2c43-68bf-4df6-b814-3815d2a648d6.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/df0e69cf-a4a2-4111-91c4-dc6a44a36cdd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/0ac544a3-c684-42f4-9a8a-69579ece8ea7.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/3c3f2c43-68bf-4df6-b814-3815d2a648d6.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/df0e69cf-a4a2-4111-91c4-dc6a44a36cdd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ]
+}

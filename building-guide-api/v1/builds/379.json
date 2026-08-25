@@ -1,0 +1,990 @@
+{
+  "id": 379,
+  "name": "Duck Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 43,
+  "steps": 43,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/3ae6dddd-b473-436f-b076-8ac7d1fabc2f.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/3ae6dddd-b473-436f-b076-8ac7d1fabc2f.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a704fd29-facc-4667-bafa-88bd1d407446.webp",
+  "description": "A rubber duck minecraft statue in yellow blocks with an orange beak, sized to float on water. A compact build that takes a few stacks of yellow wool or concrete. Park it on a lake or pond for a landmark you can spot from far off.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:26:22.220098",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Red Sandstone",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:smooth_red_sandstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:smooth_red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Wall",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0c679150-2e1d-4a00-904e-d80c87c39779.webp",
+      "type": "item"
+    },
+    {
+      "name": "Yellow Wool",
+      "count": 53,
+      "quantity": 53,
+      "identifier": "minecraft:yellow_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Yellow Concrete",
+      "count": 107,
+      "quantity": 107,
+      "identifier": "minecraft:yellow_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21192,
+      "buildId": 379,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d67a2d28-087c-4e5a-a231-580271f4f483.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:23.248755",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21193,
+      "buildId": 379,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9ed4b9c-8bb4-4967-bb93-efe136eb75ee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:25.189819",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21194,
+      "buildId": 379,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48fdb80b-9959-4c4d-91bd-ac58d3e6d1c5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:26.280235",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21195,
+      "buildId": 379,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5e09888d-720e-4112-bfc2-fe928eef0467.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:27.349788",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 15,
+          "quantity": 15,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21196,
+      "buildId": 379,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/23e67710-44f8-4a5f-afa7-5ca09a039ac1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:28.327355",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21197,
+      "buildId": 379,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1697a87-cbe2-4799-9848-bdb9b80432f6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:29.356643",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21198,
+      "buildId": 379,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd7ffac5-e642-4ea7-962d-4446ad3ad9c2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:30.2135",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21199,
+      "buildId": 379,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/03e6dfbd-3d1d-4bff-825b-c84133f17442.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:31.256619",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21200,
+      "buildId": 379,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c902b5cb-1787-406c-b349-fc2cf225b864.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:32.211137",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21201,
+      "buildId": 379,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62830173-a91c-428b-9586-b08018ace396.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:33.493818",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21202,
+      "buildId": 379,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21908436-aa2c-41d2-9e14-c948868cb033.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:35.32501",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21203,
+      "buildId": 379,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/33141727-acad-4cd9-ad84-6735f1bc5e75.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:36.332966",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21204,
+      "buildId": 379,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9fe1685-4244-4a1e-bce0-303cb5bedf46.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:37.294195",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21205,
+      "buildId": 379,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81b3d97e-4448-46c1-80aa-40519f2d9631.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:38.383595",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21206,
+      "buildId": 379,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b0bf47d-ace6-4dcc-984c-807a9077851b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:40.375161",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21207,
+      "buildId": 379,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e34de84-98a7-497d-afa4-47a809be3d37.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:41.439735",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21208,
+      "buildId": 379,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da4661b9-9b41-4c6b-8c3a-3c803c936637.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:42.340616",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21209,
+      "buildId": 379,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75375501-808d-4a5f-96af-437a30c7405c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:43.197369",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21210,
+      "buildId": 379,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34ab623d-4594-42da-a8fb-cdccb6a81823.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:45.08366",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21211,
+      "buildId": 379,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b25b5a67-8062-432a-83b9-a938dcd35cbc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:46.583582",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21212,
+      "buildId": 379,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b9e07d4-3e5d-4688-b0d8-0ffe8fc72c5d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:47.827215",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21213,
+      "buildId": 379,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99e70b62-631c-490e-a8ca-5a7eb0708af2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:48.843488",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        },
+        {
+          "name": "Yellow Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21214,
+      "buildId": 379,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a6e66199-ed9b-4e0c-be65-069ef45cfd82.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:49.745864",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21215,
+      "buildId": 379,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dd5f523-44de-40bf-845b-bca6c1447cdc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:50.931289",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21216,
+      "buildId": 379,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/55e23181-e7b1-4fee-86c2-0b7e16f229c5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:52.028493",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21217,
+      "buildId": 379,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f60aaf2a-76ba-45cf-88aa-c80400a91272.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:53.208015",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        },
+        {
+          "name": "Yellow Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21218,
+      "buildId": 379,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02c989a1-b4ec-4457-9a34-9e0c3d29f5a0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:54.012664",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21219,
+      "buildId": 379,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ce5deeb-fc47-49f8-949e-4f1c8df61f9f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:54.776721",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21220,
+      "buildId": 379,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52aecd33-fd7d-4896-a77e-27b2236a227a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:55.858731",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21221,
+      "buildId": 379,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73c00762-4b2e-4e55-9e52-0aecb9d4f93e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:56.699212",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21222,
+      "buildId": 379,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca88896f-8898-4ddd-936d-629466727f8f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:57.866158",
+      "materials": [
+        {
+          "name": "Yellow Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21223,
+      "buildId": 379,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07ee7ba0-79dd-49fc-ab16-29c8a3096da0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:59.120969",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_red_sandstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/759682c9-47fb-455d-a622-07436d83a162.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21224,
+      "buildId": 379,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a3b52528-66f8-40f9-a0af-022999cac6ad.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:26:59.965643",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_red_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21225,
+      "buildId": 379,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3b80831d-9e67-4d42-9ed4-ea25521ca3dc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:01.171315",
+      "materials": [
+        {
+          "name": "Polished Blackstone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0c679150-2e1d-4a00-904e-d80c87c39779.webp",
+          "type": "item"
+        },
+        {
+          "name": "Yellow Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:yellow_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21226,
+      "buildId": 379,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27534868-65de-4a86-986c-cc495d3c48e5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:02.202604",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21227,
+      "buildId": 379,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec7d7f96-d443-4aac-a8af-11803f7bd378.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:03.088304",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21228,
+      "buildId": 379,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38d692bd-e90d-4518-abc4-6f3be019fdce.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:04.261919",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21229,
+      "buildId": 379,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee18ae45-69be-4568-b352-1ea4f66c1990.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:06.140775",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21230,
+      "buildId": 379,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44a9306f-14c6-4a10-bc07-aab169663f30.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:07.302597",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21231,
+      "buildId": 379,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c857d070-c57f-4437-8c4c-19265f0b47ed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:08.323056",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21232,
+      "buildId": 379,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c7875fa-6313-4ec5-8d0c-cbf136d4a9b4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:09.426078",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21233,
+      "buildId": 379,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba5ad7b5-a743-4402-aed4-390e2f744a60.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:11.39044",
+      "materials": [
+        {
+          "name": "Yellow Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:yellow_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6374c19-ecba-45b7-9de5-04083c604950.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21234,
+      "buildId": 379,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a704fd29-facc-4667-bafa-88bd1d407446.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:12.187897",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d67a2d28-087c-4e5a-a231-580271f4f483.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d9ed4b9c-8bb4-4967-bb93-efe136eb75ee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48fdb80b-9959-4c4d-91bd-ac58d3e6d1c5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5e09888d-720e-4112-bfc2-fe928eef0467.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/23e67710-44f8-4a5f-afa7-5ca09a039ac1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c1697a87-cbe2-4799-9848-bdb9b80432f6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd7ffac5-e642-4ea7-962d-4446ad3ad9c2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/03e6dfbd-3d1d-4bff-825b-c84133f17442.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c902b5cb-1787-406c-b349-fc2cf225b864.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62830173-a91c-428b-9586-b08018ace396.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21908436-aa2c-41d2-9e14-c948868cb033.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/33141727-acad-4cd9-ad84-6735f1bc5e75.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9fe1685-4244-4a1e-bce0-303cb5bedf46.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81b3d97e-4448-46c1-80aa-40519f2d9631.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b0bf47d-ace6-4dcc-984c-807a9077851b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e34de84-98a7-497d-afa4-47a809be3d37.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da4661b9-9b41-4c6b-8c3a-3c803c936637.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75375501-808d-4a5f-96af-437a30c7405c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34ab623d-4594-42da-a8fb-cdccb6a81823.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b25b5a67-8062-432a-83b9-a938dcd35cbc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b9e07d4-3e5d-4688-b0d8-0ffe8fc72c5d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99e70b62-631c-490e-a8ca-5a7eb0708af2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a6e66199-ed9b-4e0c-be65-069ef45cfd82.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dd5f523-44de-40bf-845b-bca6c1447cdc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/55e23181-e7b1-4fee-86c2-0b7e16f229c5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f60aaf2a-76ba-45cf-88aa-c80400a91272.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02c989a1-b4ec-4457-9a34-9e0c3d29f5a0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ce5deeb-fc47-49f8-949e-4f1c8df61f9f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52aecd33-fd7d-4896-a77e-27b2236a227a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73c00762-4b2e-4e55-9e52-0aecb9d4f93e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca88896f-8898-4ddd-936d-629466727f8f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07ee7ba0-79dd-49fc-ab16-29c8a3096da0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a3b52528-66f8-40f9-a0af-022999cac6ad.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3b80831d-9e67-4d42-9ed4-ea25521ca3dc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/27534868-65de-4a86-986c-cc495d3c48e5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec7d7f96-d443-4aac-a8af-11803f7bd378.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38d692bd-e90d-4518-abc4-6f3be019fdce.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee18ae45-69be-4568-b352-1ea4f66c1990.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/44a9306f-14c6-4a10-bc07-aab169663f30.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c857d070-c57f-4437-8c4c-19265f0b47ed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c7875fa-6313-4ec5-8d0c-cbf136d4a9b4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba5ad7b5-a743-4402-aed4-390e2f744a60.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a704fd29-facc-4667-bafa-88bd1d407446.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a704fd29-facc-4667-bafa-88bd1d407446.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a704fd29-facc-4667-bafa-88bd1d407446.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": 121,
+  "name": "Color Changing Beacon",
+  "categoryId": 6,
+  "categoryName": "Beacon",
+  "category": "Beacon",
+  "categories": [
+    {
+      "id": 6,
+      "name": "Beacon",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/3fc37cca-e56f-4f2b-a00e-e68d71710bec.webp"
+    }
+  ],
+  "labels": [
+    "Beacon"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 16,
+  "steps": 16,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/a97efb81-d6e6-4e8f-b253-e2bcb85d29cc.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/a97efb81-d6e6-4e8f-b253-e2bcb85d29cc.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4535297-6aa2-46c6-ad13-1165b19d84d1.webp",
+  "description": "A beacon setup that changes its beam color, with the beacon boxed in glass on a small base. Swap the stained glass above it to shift the beam to any color you want. Cheap once you have the beacon itself. Use it as a base marker you can recolor anytime.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-03T14:30:17.101129",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Iron",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:iron_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/064beedd-a895-4694-81ed-ee5f25ee24ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lime_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1c9341d4-5c6d-47f1-b0dc-04e5ed5cb997.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Stained Glass",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:red_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/983b05f7-1029-4886-8a10-82bebbfdf7f3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blue_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85f9f631-b75a-4a61-b719-c8e6257e0d70.webp",
+      "type": "item"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:purple_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c627a471-abb7-4140-8a34-67a1171e8e57.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Torch",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone_torch",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a54853ab-02af-449b-a5de-d52ea6ce341c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Beacon",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:beacon",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15febcd8-a2d4-4dad-99fd-e5df9d47a5d4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Repeater",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:repeater",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b72937d7-3c1e-45f6-916c-19551401267c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sticky Piston",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:sticky_piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f0f1273f-a20b-48cd-8e55-d50c4e6f0114.webp",
+      "type": "item"
+    },
+    {
+      "name": "Observer",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:observer",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4535297-6aa2-46c6-ad13-1165b19d84d1.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4535297-6aa2-46c6-ad13-1165b19d84d1.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

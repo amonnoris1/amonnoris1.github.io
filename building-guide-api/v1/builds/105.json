@@ -1,0 +1,129 @@
+{
+  "id": 105,
+  "name": "Dancing Iron Golem",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 11,
+  "steps": 11,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/db9b533e-9b30-4a8d-b229-69ae9e9511cd.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/db9b533e-9b30-4a8d-b229-69ae9e9511cd.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0da454f-8215-4a0f-94d6-85c3e07b8595.webp",
+  "description": "A minecraft statue of an iron golem with a carved pumpkin head, iron block body and arms out mid-dance. A quick build at a few blocks tall, using iron blocks and one pumpkin. Put it by your village or front gate as a small guard piece.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-21T20:23:06.214488",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Smooth Stone",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:smooth_stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Iron",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:iron_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/064beedd-a895-4694-81ed-ee5f25ee24ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Carved Pumpkin",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:carved_pumpkin",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dc38b8c0-cf57-43b1-963b-03f1f771424e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Torch",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:redstone_torch",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a54853ab-02af-449b-a5de-d52ea6ce341c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Repeater",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:repeater",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b72937d7-3c1e-45f6-916c-19551401267c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sticky Piston",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:sticky_piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f0f1273f-a20b-48cd-8e55-d50c4e6f0114.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0da454f-8215-4a0f-94d6-85c3e07b8595.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0da454f-8215-4a0f-94d6-85c3e07b8595.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

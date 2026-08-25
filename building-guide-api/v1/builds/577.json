@@ -1,0 +1,435 @@
+{
+  "id": 577,
+  "name": "Horsea",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 15,
+  "steps": 14,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c3629e2d-b65d-4d56-91a9-d0dc9c27b625.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c3629e2d-b65d-4d56-91a9-d0dc9c27b625.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d056532-23ba-4885-aa9a-3c5513093f90.webp",
+  "description": "A minecraft statue of Horsea, the seahorse Pokemon, in blue prismarine with a curled tail and framed eyes. Small footprint, only a couple of stacks of blocks. Place it by water, in an aquarium or a Pokemon-themed build.",
+  "dimensions": {
+    "width": 5,
+    "height": 6,
+    "length": 4
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:37:00.380612",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Warped Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:warped_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Prismarine Bricks",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:prismarine_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Prismarine Brick Stairs",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:prismarine_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:light_blue_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3e3d3ee5-d812-4b4a-8cda-aee176c3eba6.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Banner",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:white_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Sign",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:warped_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ffb62858-e22a-448b-ac32-3c0421775499.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Helmet",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:iron_helmet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0ae61fb9-4cfa-44af-be73-cd0e83034fbf.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31427,
+      "buildId": 577,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9535cc7-e7ed-49cc-94ab-d098ef3fc4dd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:01.310381",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31428,
+      "buildId": 577,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62bc0469-a2ba-46d8-ac70-cd1400fd1414.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:02.455589",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31429,
+      "buildId": 577,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec8f4eda-4388-48cd-a3aa-af23764d1908.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:04.130451",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31430,
+      "buildId": 577,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/043f6302-c88a-4579-98e7-7500d007ea56.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:05.306436",
+      "materials": [
+        {
+          "name": "Prismarine Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/be37a482-808b-47dd-9753-5026a5c0f5b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31431,
+      "buildId": 577,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0324c2c7-c787-42ff-87a0-509b21da8f22.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:06.158915",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31432,
+      "buildId": 577,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a1ca54f-94d3-44fb-9855-60d25e87b5bd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:07.445119",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31433,
+      "buildId": 577,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9eba8659-6c61-49c5-9284-f5e3e220a35f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:08.695364",
+      "materials": [
+        {
+          "name": "Prismarine Brick Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:prismarine_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dbcf2363-9990-4d3f-8a75-b021393ff016.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31434,
+      "buildId": 577,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d0b7267-c734-49b2-9412-df8b50cb4642.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:09.933449",
+      "materials": [
+        {
+          "name": "Warped Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31435,
+      "buildId": 577,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18eb3ac5-4de0-44c5-b9f0-4e656ba21ce8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:10.815335",
+      "materials": [
+        {
+          "name": "Light Blue Stained Glass Pane",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:light_blue_stained_glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3e3d3ee5-d812-4b4a-8cda-aee176c3eba6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31436,
+      "buildId": 577,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1677e80e-bee5-44dc-bf6f-48bbe36d2bd1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:12.246293",
+      "materials": [
+        {
+          "name": "Warped Sign",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ffb62858-e22a-448b-ac32-3c0421775499.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31437,
+      "buildId": 577,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11aa9f73-fd57-459b-993e-4f1f2d0d4de4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:13.077551",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        },
+        {
+          "name": "Iron Helmet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:iron_helmet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0ae61fb9-4cfa-44af-be73-cd0e83034fbf.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31438,
+      "buildId": 577,
+      "sequenceOrder": 12,
+      "image": null,
+      "description": "Place the iron helmet in the item frame",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:13.089864",
+      "materials": []
+    },
+    {
+      "id": 31439,
+      "buildId": 577,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f1b1ac0-7dec-498e-8791-3e98a21f8fcd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:14.020977",
+      "materials": [
+        {
+          "name": "White Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31440,
+      "buildId": 577,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b296bb0d-0681-4af8-8f17-cd4e6f8cab68.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:16.112601",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Sign",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ffb62858-e22a-448b-ac32-3c0421775499.webp",
+          "type": "item"
+        },
+        {
+          "name": "Iron Helmet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:iron_helmet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0ae61fb9-4cfa-44af-be73-cd0e83034fbf.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31441,
+      "buildId": 577,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d056532-23ba-4885-aa9a-3c5513093f90.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:37:16.944457",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e9535cc7-e7ed-49cc-94ab-d098ef3fc4dd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/62bc0469-a2ba-46d8-ac70-cd1400fd1414.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ec8f4eda-4388-48cd-a3aa-af23764d1908.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/043f6302-c88a-4579-98e7-7500d007ea56.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0324c2c7-c787-42ff-87a0-509b21da8f22.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a1ca54f-94d3-44fb-9855-60d25e87b5bd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9eba8659-6c61-49c5-9284-f5e3e220a35f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d0b7267-c734-49b2-9412-df8b50cb4642.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/18eb3ac5-4de0-44c5-b9f0-4e656ba21ce8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1677e80e-bee5-44dc-bf6f-48bbe36d2bd1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11aa9f73-fd57-459b-993e-4f1f2d0d4de4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f1b1ac0-7dec-498e-8791-3e98a21f8fcd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b296bb0d-0681-4af8-8f17-cd4e6f8cab68.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d056532-23ba-4885-aa9a-3c5513093f90.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d056532-23ba-4885-aa9a-3c5513093f90.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d056532-23ba-4885-aa9a-3c5513093f90.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

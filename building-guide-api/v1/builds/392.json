@@ -1,0 +1,910 @@
+{
+  "id": 392,
+  "name": "Nether Villager Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [
+    {
+      "id": 28,
+      "name": "Nether"
+    },
+    {
+      "id": 40,
+      "name": "Villager"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 36,
+  "steps": 36,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/7cd68bd9-845a-4caf-8cfe-166f10bae2e1.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/7cd68bd9-845a-4caf-8cfe-166f10bae2e1.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f655827-d1ff-4b99-8a64-7bac8ba9b8db.webp",
+  "description": "A minecraft statue of a villager rebuilt in nether blocks, with horns and glowing eyes. Nether bricks, netherrack and red brick make the crossed-arms villager pose. All nether materials, so mine there first. Guards a nether portal or marks a nether-themed base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:39:35.365817",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Nether Bricks",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:nether_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Netherrack",
+      "count": 70,
+      "quantity": 70,
+      "identifier": "minecraft:netherrack",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Brick Wall",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:nether_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/67b24803-a2ee-49dc-b4ff-ebdf672aad82.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Brick Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:nether_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3f4f0254-a4db-46dd-be1d-6c0df8f17e02.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Brick Slab",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:nether_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac8f9e29-f453-45cb-8327-8152975e3f9a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Nether Brick Stairs",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:red_nether_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Nether Brick Slab",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:red_nether_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Brick Fence",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:nether_brick_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f3ddfe78-4e77-42c5-a566-21ffbce59eac.webp",
+      "type": "item"
+    },
+    {
+      "name": "Soul Sand",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:soul_sand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8c36bff-cd41-47e8-b69b-9acfc254f571.webp",
+      "type": "item"
+    },
+    {
+      "name": "Nether Wart",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:nether_wart",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3940fbcd-ceb8-4be8-8e57-d37ca50f27bb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flint and Steel",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:flint_and_steel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fffd5ebf-ccd5-48c4-bb7d-64e5f45a1d0d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21780,
+      "buildId": 392,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90e0f9e1-d320-4a89-af6f-2badcb6fecac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:36.369542",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21781,
+      "buildId": 392,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/479902ad-0728-4bad-be98-0e1a8bc07e63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:37.207381",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21782,
+      "buildId": 392,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3b8592b-4851-4d9e-9907-9f27411bdb8b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:38.363583",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21783,
+      "buildId": 392,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d5476db-e772-4ec8-9cf8-03f2baf5d9fe.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:39.629008",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21784,
+      "buildId": 392,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a41eb429-ec93-4a75-bf82-33f0ceeb1514.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:40.799988",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21785,
+      "buildId": 392,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e6c4eab4-53a4-441b-a5e1-71f6de06dee3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:41.954482",
+      "materials": [
+        {
+          "name": "Nether Brick Wall",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:nether_brick_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/67b24803-a2ee-49dc-b4ff-ebdf672aad82.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21786,
+      "buildId": 392,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdb03b3e-1431-43c6-8331-556b8377d4e4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:43.038548",
+      "materials": [
+        {
+          "name": "Nether Brick Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac8f9e29-f453-45cb-8327-8152975e3f9a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21787,
+      "buildId": 392,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d334fc48-8354-44e8-a110-aefb9d197769.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:44.370933",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21788,
+      "buildId": 392,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4ed59980-bc09-4e8b-84d1-de1be048d362.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:45.177029",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21789,
+      "buildId": 392,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c391031e-4af5-487d-94b1-4d51c7d26ad0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:45.962391",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21790,
+      "buildId": 392,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db7b09c8-8a65-4d93-9a29-d20a8e8b9f46.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:46.951929",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21791,
+      "buildId": 392,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2da5308c-aff2-4960-8c74-bf9365509b49.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:47.73526",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21792,
+      "buildId": 392,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3779da0b-9229-4c5e-9b68-478b2fcd9a79.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:49.909131",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21793,
+      "buildId": 392,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7608e5c3-015a-4073-9365-b243bd12d500.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:50.745481",
+      "materials": [
+        {
+          "name": "Soul Sand",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:soul_sand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8c36bff-cd41-47e8-b69b-9acfc254f571.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21794,
+      "buildId": 392,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2e84846-e02e-4e99-afd6-1283986520f6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:51.692182",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21795,
+      "buildId": 392,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/42be7a9b-f79d-466f-8637-507b3f71abaf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:52.978603",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21796,
+      "buildId": 392,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48104b87-941c-4297-920f-463341e561c8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:55.090981",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21797,
+      "buildId": 392,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8de2dc9-7ae0-4764-8be8-ad59b942f5ef.gif",
+      "description": "Use Flint and steel to ignite the fire",
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:57.760226",
+      "materials": [
+        {
+          "name": "Flint and Steel",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:flint_and_steel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fffd5ebf-ccd5-48c4-bb7d-64e5f45a1d0d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21798,
+      "buildId": 392,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/510e07e9-ae99-461b-8fd3-2973496bafaf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:39:58.991193",
+      "materials": [
+        {
+          "name": "Nether Brick Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac8f9e29-f453-45cb-8327-8152975e3f9a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21799,
+      "buildId": 392,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c913dbb-7817-4c45-a0b9-341eeb281b6c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:00.155362",
+      "materials": [
+        {
+          "name": "Nether Brick Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac8f9e29-f453-45cb-8327-8152975e3f9a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21800,
+      "buildId": 392,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77b5a53f-5dc6-4390-a9a0-83b199a920ef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:01.016516",
+      "materials": [
+        {
+          "name": "Nether Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21801,
+      "buildId": 392,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6b794f58-aa87-465c-b8ec-b16e85487b18.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:02.091949",
+      "materials": [
+        {
+          "name": "Nether Bricks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21802,
+      "buildId": 392,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ede61151-bf41-40bd-bd5c-a9bf35212eaa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:03.22832",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21803,
+      "buildId": 392,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7034b29-db14-4f8b-8f3a-c6b25801b7ed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:05.403367",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21804,
+      "buildId": 392,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37aa4898-89d2-4628-a2ee-7433c23c0c3c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:06.263755",
+      "materials": [
+        {
+          "name": "Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3f4f0254-a4db-46dd-be1d-6c0df8f17e02.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21805,
+      "buildId": 392,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/58d8da32-cab0-4aad-be72-096778446256.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:07.101817",
+      "materials": [
+        {
+          "name": "Nether Brick Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3f4f0254-a4db-46dd-be1d-6c0df8f17e02.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21806,
+      "buildId": 392,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51cdff07-d643-467e-bb81-7ef2be00b252.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:08.511655",
+      "materials": [
+        {
+          "name": "Nether Brick Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/67b24803-a2ee-49dc-b4ff-ebdf672aad82.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21807,
+      "buildId": 392,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4dee9bbe-ccc5-463c-b0bd-7cee50b005a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:09.897737",
+      "materials": [
+        {
+          "name": "Nether Brick Fence",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:nether_brick_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f3ddfe78-4e77-42c5-a566-21ffbce59eac.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21808,
+      "buildId": 392,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/740bca5f-c8da-4939-a83e-317ba1eece43.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:10.922266",
+      "materials": [
+        {
+          "name": "Soul Sand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:soul_sand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8c36bff-cd41-47e8-b69b-9acfc254f571.webp",
+          "type": "item"
+        },
+        {
+          "name": "Nether Wart",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:nether_wart",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3940fbcd-ceb8-4be8-8e57-d37ca50f27bb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21809,
+      "buildId": 392,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/04d7f995-2654-4d96-bd98-42661d14fc23.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:12.281291",
+      "materials": [
+        {
+          "name": "Nether Bricks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:nether_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Netherrack",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21810,
+      "buildId": 392,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea78e5c2-00dc-40e5-badb-8df2337e36cf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:13.204473",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        },
+        {
+          "name": "Nether Bricks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:nether_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21811,
+      "buildId": 392,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f50b32a9-cd03-4753-8142-beed353229f3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:15.242546",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        },
+        {
+          "name": "Nether Bricks",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:nether_bricks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/14ed9f0f-1e80-4a13-83e9-d3fe044c462d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21812,
+      "buildId": 392,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11bc3a7c-8b0e-42b9-be68-f066f42f575d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:16.299059",
+      "materials": [
+        {
+          "name": "Netherrack",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:netherrack",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85a8851d-0ce2-414a-8573-fc9bdaedd8a5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21813,
+      "buildId": 392,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05f72027-7250-4d7b-8736-0e60aaf1aff4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:17.302021",
+      "materials": [
+        {
+          "name": "Soul Sand",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:soul_sand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8c36bff-cd41-47e8-b69b-9acfc254f571.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21814,
+      "buildId": 392,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dd89008-d286-4f58-b381-c9f2ffe90ac1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:19.457263",
+      "materials": [
+        {
+          "name": "Nether Wart",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:nether_wart",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3940fbcd-ceb8-4be8-8e57-d37ca50f27bb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21815,
+      "buildId": 392,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f655827-d1ff-4b99-8a64-7bac8ba9b8db.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:40:20.643995",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/90e0f9e1-d320-4a89-af6f-2badcb6fecac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/479902ad-0728-4bad-be98-0e1a8bc07e63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3b8592b-4851-4d9e-9907-9f27411bdb8b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d5476db-e772-4ec8-9cf8-03f2baf5d9fe.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a41eb429-ec93-4a75-bf82-33f0ceeb1514.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e6c4eab4-53a4-441b-a5e1-71f6de06dee3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fdb03b3e-1431-43c6-8331-556b8377d4e4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d334fc48-8354-44e8-a110-aefb9d197769.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4ed59980-bc09-4e8b-84d1-de1be048d362.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c391031e-4af5-487d-94b1-4d51c7d26ad0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db7b09c8-8a65-4d93-9a29-d20a8e8b9f46.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2da5308c-aff2-4960-8c74-bf9365509b49.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3779da0b-9229-4c5e-9b68-478b2fcd9a79.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7608e5c3-015a-4073-9365-b243bd12d500.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e2e84846-e02e-4e99-afd6-1283986520f6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/42be7a9b-f79d-466f-8637-507b3f71abaf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48104b87-941c-4297-920f-463341e561c8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b8de2dc9-7ae0-4764-8be8-ad59b942f5ef.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/510e07e9-ae99-461b-8fd3-2973496bafaf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c913dbb-7817-4c45-a0b9-341eeb281b6c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77b5a53f-5dc6-4390-a9a0-83b199a920ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6b794f58-aa87-465c-b8ec-b16e85487b18.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ede61151-bf41-40bd-bd5c-a9bf35212eaa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7034b29-db14-4f8b-8f3a-c6b25801b7ed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37aa4898-89d2-4628-a2ee-7433c23c0c3c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/58d8da32-cab0-4aad-be72-096778446256.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51cdff07-d643-467e-bb81-7ef2be00b252.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4dee9bbe-ccc5-463c-b0bd-7cee50b005a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/740bca5f-c8da-4939-a83e-317ba1eece43.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/04d7f995-2654-4d96-bd98-42661d14fc23.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea78e5c2-00dc-40e5-badb-8df2337e36cf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f50b32a9-cd03-4753-8142-beed353229f3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11bc3a7c-8b0e-42b9-be68-f066f42f575d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05f72027-7250-4d7b-8736-0e60aaf1aff4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9dd89008-d286-4f58-b381-c9f2ffe90ac1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f655827-d1ff-4b99-8a64-7bac8ba9b8db.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f655827-d1ff-4b99-8a64-7bac8ba9b8db.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f655827-d1ff-4b99-8a64-7bac8ba9b8db.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

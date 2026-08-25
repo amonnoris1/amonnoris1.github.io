@@ -1,0 +1,381 @@
+{
+  "id": 583,
+  "name": "Blue Dragon House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 127,
+  "steps": 127,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/afff4fe4-dd6e-4194-aa6e-a8bad8c00581.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/afff4fe4-dd6e-4194-aa6e-a8bad8c00581.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ac0718e-c2bd-4c0f-b8ef-1ed1966e5909.webp",
+  "description": "A minecraft house shaped like a blue monster head, with stone horns and an open mouth for the entrance. The glass-walled jaw holds the living space, with white teeth framing it. Blue concrete and glass do most of the work. Drop it anywhere you want a build people will walk over to.",
+  "dimensions": {
+    "width": 28,
+    "height": 20,
+    "length": 19
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:42:03.345848",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Wood",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:birch_wood",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f60ed3-8c42-48cf-9b79-bdde47ac5dc1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Stairs",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:warped_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a75d508-5529-43fa-bc8b-4abcabda1511.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sea Lantern",
+      "count": 28,
+      "quantity": 28,
+      "identifier": "minecraft:sea_lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a7bfc2b9-1f5c-446b-a9cf-95417d8099d9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chain",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:chain",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Lapis Lazuli",
+      "count": 202,
+      "quantity": 202,
+      "identifier": "minecraft:lapis_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12a59944-d5c3-4687-af6e-05aeb153f0cb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Quartz Block",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:chiseled_quartz_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/aae6b08e-faea-4643-b2e4-95b1deee023c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Wool",
+      "count": 282,
+      "quantity": 282,
+      "identifier": "minecraft:blue_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Carpet",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:white_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Carpet",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:blue_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a9170382-6965-4f7a-8599-b12511e6514a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Carpet",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:cyan_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05fcfc04-c7fd-440d-bd82-df900b93e4af.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Carpet",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:light_blue_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/259fb95a-dcad-4a71-9fc1-507638b1fd0d.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 98,
+      "quantity": 98,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Concrete",
+      "count": 836,
+      "quantity": 836,
+      "identifier": "minecraft:blue_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dc89f288-e6af-4e2e-a796-ac04c400f323.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Glazed Terracotta",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:blue_glazed_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cdc3224a-2088-4aef-b9bf-a972bf40361b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "count": 44,
+      "quantity": 44,
+      "identifier": "minecraft:blue_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85f9f631-b75a-4a61-b719-c8e6257e0d70.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "count": 31,
+      "quantity": 31,
+      "identifier": "minecraft:white_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/87e0bb41-714b-49e3-9018-e04fd0109944.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Stained Glass Pane",
+      "count": 145,
+      "quantity": 145,
+      "identifier": "minecraft:blue_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/da5336a9-e14e-4113-9967-8e3132c5b8b5.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Shulker Box",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:white_shulker_box",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/31387ee1-dd62-4010-8c33-c8e5107f7ea5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Banner",
+      "count": 19,
+      "quantity": 19,
+      "identifier": "minecraft:blue_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0f0dd94c-f24f-4efd-b749-28c9bd9d2b6a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Snow",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:snow",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/46d06697-a92f-4255-b258-ff5c9af520f2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bone Block",
+      "count": 76,
+      "quantity": 76,
+      "identifier": "minecraft:bone_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4d1b57d1-2e08-42e4-a806-9826390e047b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Orchid",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:blue_orchid",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f776f96e-6c52-4af6-8622-c318fe66d602.webp",
+      "type": "item"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oxeye_daisy",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0168c987-a084-4976-99c2-4b6e48a746bc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Twisting Vines",
+      "count": 16,
+      "quantity": 16,
+      "identifier": "minecraft:twisting_vines",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20fdcacd-37cb-4d00-a24e-8724fbeb1d8b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Turtle Egg",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:turtle_egg",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/43828087-ad6f-4330-831b-ca62e932ff3b.webp",
+      "type": "item"
+    },
+    {
+      "name": "End Rod",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:end_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+      "type": "item"
+    },
+    {
+      "name": "Beacon",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:beacon",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15febcd8-a2d4-4dad-99fd-e5df9d47a5d4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flower Pot",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:flower_pot",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Skeleton Skull",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fe958367-8c5d-45a3-aba9-7230cd0b8c83.webp",
+      "type": "item"
+    },
+    {
+      "name": "Hopper",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:hopper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Dye",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:light_blue_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d1c2b1c1-6abf-4b69-b924-3aa6b0aaf80f.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ac0718e-c2bd-4c0f-b8ef-1ed1966e5909.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ac0718e-c2bd-4c0f-b8ef-1ed1966e5909.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

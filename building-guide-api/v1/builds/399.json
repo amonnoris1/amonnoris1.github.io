@@ -1,0 +1,108 @@
+{
+  "id": 399,
+  "name": "Void Enderman Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 81,
+  "steps": 81,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/bdbb44da-b22e-4c98-82fd-d1a77afef126.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/bdbb44da-b22e-4c98-82fd-d1a77afef126.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/216095ed-b621-4da3-b5f6-0abc40ede712.webp",
+  "description": "A minecraft statue of an enderman face with glowing purple blocks and two black arms reaching out. The head floats free with scattered particle blocks around it. Cheap to build, mostly concrete and purpurs of glowing block. Set it in a dark area so the purple glow stands out.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T19:05:58.046015",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Purple Carpet",
+      "count": 176,
+      "quantity": 176,
+      "identifier": "minecraft:purple_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a5648692-3d8d-4c5b-b10e-da31efcd5a36.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 449,
+      "quantity": 449,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Magenta Concrete",
+      "count": 1091,
+      "quantity": 1091,
+      "identifier": "minecraft:magenta_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/80affae3-9901-486c-9ee9-a240ad36930b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "count": 1480,
+      "quantity": 1480,
+      "identifier": "minecraft:magenta_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a242c5db-134f-4e21-a276-2036b3537ca9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grass Block",
+      "count": 217,
+      "quantity": 217,
+      "identifier": "minecraft:grass_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33adfc66-2c5b-4818-9d5d-6bff4744042f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pearlescent Froglight",
+      "count": 220,
+      "quantity": 220,
+      "identifier": "minecraft:pearlescent_froglight",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/77b4fb6f-db65-4b8a-b3ac-fe1b633a02fc.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/216095ed-b621-4da3-b5f6-0abc40ede712.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/216095ed-b621-4da3-b5f6-0abc40ede712.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

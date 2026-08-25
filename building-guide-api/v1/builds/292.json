@@ -1,0 +1,1065 @@
+{
+  "id": 292,
+  "name": "Starter Bamboo Hut",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": 6,
+  "styleName": "Natural",
+  "style": "Natural",
+  "tags": [
+    {
+      "id": 33,
+      "name": "Starter"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 38,
+  "steps": 38,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f3921fe6-e2f9-437a-8136-4a2e10ae55fa.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f3921fe6-e2f9-437a-8136-4a2e10ae55fa.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9da53a73-a5ca-4bc0-bfd5-c941594c9ac3.webp",
+  "description": "Credit: Gorillo",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-07T15:57:57.510142",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Block of Bamboo",
+      "count": 31,
+      "quantity": 31,
+      "identifier": "minecraft:bamboo_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:bamboo_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/59d67a5b-2c4e-4340-b5e6-13987eb03557.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Planks",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:bamboo_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f36c127-409e-438b-89e8-bccc4ff841a2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Door",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:bamboo_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9fda5bd8-6467-4c23-8157-b1b9423b219b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Fence",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:bamboo_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f43b1c-99f8-4b86-8adc-bc2d171e25f6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Mosaic Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:bamboo_mosaic_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/07e39f54-c93b-4e5d-a9e3-d3f87b761f8f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Mosaic Slab",
+      "count": 37,
+      "quantity": 37,
+      "identifier": "minecraft:bamboo_mosaic_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:bamboo_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58290da7-5c1a-4238-a0e4-ea95a6498bba.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobblestone Wall",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:cobblestone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "Brown Bed",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:brown_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/471b938d-06f9-45bf-b72f-40fe9486d596.webp",
+      "type": "item"
+    },
+    {
+      "name": "Jungle Leaves",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:jungle_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a1e8c9-28be-4198-b06a-87bcd9888ba0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dandelion",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:dandelion",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/657f88d3-d9a0-456e-a38a-bdc9c1c3351f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Poppy",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:poppy",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/026bebd7-2629-4b5a-be0f-1251c2049b8a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:bamboo",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/90aeab5f-b6d9-4e5a-b021-e2b165f7d704.webp",
+      "type": "item"
+    },
+    {
+      "name": "Torch",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:torch",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/403525e3-8f13-45c7-aa43-6c6e350b8d91.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flower Pot",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:flower_pot",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bamboo Sign",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:bamboo_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/19b6bb0e-666d-4e7a-bb3f-168a32d781d3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 14182,
+      "buildId": 292,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6962825b-bdd0-4b2f-a81f-619f1353ab07.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:57:58.849656",
+      "materials": []
+    },
+    {
+      "id": 14183,
+      "buildId": 292,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9fb26e47-f533-4fd3-9bea-9692173056c8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:01.484515",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 11,
+          "quantity": 11,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14184,
+      "buildId": 292,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37738716-ac95-484d-a137-39610f1634d7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:03.241673",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14185,
+      "buildId": 292,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be99ef28-df68-43cc-88c4-9579dbd49a88.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:04.105251",
+      "materials": [
+        {
+          "name": "Bamboo Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:bamboo_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9fda5bd8-6467-4c23-8157-b1b9423b219b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14186,
+      "buildId": 292,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/87601575-6b88-4906-9690-c8f62f215b76.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:06.114528",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14187,
+      "buildId": 292,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65cf228f-6efd-4313-8f5b-53fdf63eddc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:07.226654",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:bamboo_mosaic_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/07e39f54-c93b-4e5d-a9e3-d3f87b761f8f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14188,
+      "buildId": 292,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/026a02ab-52a1-49a0-9050-f1b0d854510c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:08.36093",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Glass Pane",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14189,
+      "buildId": 292,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/87fb4060-a477-47e1-8e29-b0c6e07baaae.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:09.32132",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14190,
+      "buildId": 292,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79e5e37f-174d-48f6-b74b-2526a471d447.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:11.556976",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14191,
+      "buildId": 292,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f0489cf-6791-427d-80c8-eecd5c89cccf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:12.492348",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        },
+        {
+          "name": "Glass Pane",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14192,
+      "buildId": 292,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/146c8658-fa7d-4cb8-b00f-733d1b1cfb9d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:13.443854",
+      "materials": [
+        {
+          "name": "Block of Bamboo",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:bamboo_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a88201d6-ebce-44e3-b968-041ef96d9f4d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14193,
+      "buildId": 292,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82d050f8-139e-41d7-8b4d-19c583b99eb1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:14.407798",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14194,
+      "buildId": 292,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1576ea9-15e5-42b3-8732-29cae1ec2d04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:16.652921",
+      "materials": [
+        {
+          "name": "Bamboo Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58290da7-5c1a-4238-a0e4-ea95a6498bba.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14195,
+      "buildId": 292,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3bc8e379-b79c-4104-9138-b446f4fb5042.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:17.757584",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14196,
+      "buildId": 292,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ece9fa5-3547-4676-a5f6-d25a30e96aff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:19.226632",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14197,
+      "buildId": 292,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/955e34d8-2155-43c1-a895-baa8d871329d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:21.423229",
+      "materials": [
+        {
+          "name": "Bamboo Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58290da7-5c1a-4238-a0e4-ea95a6498bba.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14198,
+      "buildId": 292,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7127da83-6a44-4c0d-8561-a08a1e5b9714.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:22.596936",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14199,
+      "buildId": 292,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4aa74e3b-b386-4925-b204-f23cd28f2956.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:23.682199",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14200,
+      "buildId": 292,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc742771-f8cb-4cd1-a7cb-36b161181820.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:25.096007",
+      "materials": [
+        {
+          "name": "Bamboo Mosaic Slab",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:bamboo_mosaic_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8a3d1cde-0e25-46b0-925d-c82d0bf1092b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14201,
+      "buildId": 292,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5eb2e66b-b731-4dd1-8f02-bb5ed79729c5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:27.105821",
+      "materials": [
+        {
+          "name": "Cobblestone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cobblestone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14202,
+      "buildId": 292,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f2f2d03f-b63b-42c6-b534-1d8a15c346aa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:28.507953",
+      "materials": [
+        {
+          "name": "Bamboo Fence",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f43b1c-99f8-4b86-8adc-bc2d171e25f6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14203,
+      "buildId": 292,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4b141cd-663f-45fb-925a-a610b930d42a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:29.435472",
+      "materials": [
+        {
+          "name": "Torch",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:torch",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/403525e3-8f13-45c7-aa43-6c6e350b8d91.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14204,
+      "buildId": 292,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3adf5c6e-7d92-49c1-bbdb-6bf5dba7de18.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:30.40348",
+      "materials": [
+        {
+          "name": "Bamboo Fence",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f43b1c-99f8-4b86-8adc-bc2d171e25f6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Jungle Leaves",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:jungle_leaves",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a1e8c9-28be-4198-b06a-87bcd9888ba0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14205,
+      "buildId": 292,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d66a3aec-e92e-46c6-b038-5b403961eff2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:32.483183",
+      "materials": [
+        {
+          "name": "Cobblestone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cobblestone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14206,
+      "buildId": 292,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4224f253-00b8-477d-a62b-ab49606ed75d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:33.352664",
+      "materials": [
+        {
+          "name": "Bamboo Fence",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f43b1c-99f8-4b86-8adc-bc2d171e25f6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Torch",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:torch",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/403525e3-8f13-45c7-aa43-6c6e350b8d91.webp",
+          "type": "item"
+        },
+        {
+          "name": "Jungle Leaves",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:jungle_leaves",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a1e8c9-28be-4198-b06a-87bcd9888ba0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14207,
+      "buildId": 292,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bcae769a-0e27-4811-a79a-cf1fff7ab8d0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:34.261617",
+      "materials": [
+        {
+          "name": "Bamboo Fence",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/51f43b1c-99f8-4b86-8adc-bc2d171e25f6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Jungle Leaves",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:jungle_leaves",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a1e8c9-28be-4198-b06a-87bcd9888ba0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14208,
+      "buildId": 292,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64cd5056-cd42-47e5-b90e-3c638902d214.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:35.19747",
+      "materials": [
+        {
+          "name": "Poppy",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:poppy",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/026bebd7-2629-4b5a-be0f-1251c2049b8a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Dandelion",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dandelion",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/657f88d3-d9a0-456e-a38a-bdc9c1c3351f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14209,
+      "buildId": 292,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7a6756c7-8065-4d2f-9fb7-42de005dd2a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:38.547686",
+      "materials": [
+        {
+          "name": "Poppy",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:poppy",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/026bebd7-2629-4b5a-be0f-1251c2049b8a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Dandelion",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dandelion",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/657f88d3-d9a0-456e-a38a-bdc9c1c3351f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14210,
+      "buildId": 292,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6061239a-c50a-4d69-9459-19c35d10da55.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:39.846582",
+      "materials": [
+        {
+          "name": "Bamboo Planks",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:bamboo_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f36c127-409e-438b-89e8-bccc4ff841a2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14211,
+      "buildId": 292,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/431b3d52-f98c-41b1-884d-3e0ea51adca8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:41.037966",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14212,
+      "buildId": 292,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/074e3907-20a1-4a8a-8779-60940ed29333.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:42.016544",
+      "materials": [
+        {
+          "name": "Barrel",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14213,
+      "buildId": 292,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c73df97f-5c5e-447f-979d-702f8025aef9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:43.8797",
+      "materials": [
+        {
+          "name": "Brown Bed",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:brown_bed",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/471b938d-06f9-45bf-b72f-40fe9486d596.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14214,
+      "buildId": 292,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4696ca3f-a1b5-4d4d-9d7d-b25c0a68bc40.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:44.893781",
+      "materials": [
+        {
+          "name": "Bamboo Sign",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:bamboo_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/19b6bb0e-666d-4e7a-bb3f-168a32d781d3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14215,
+      "buildId": 292,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19f6169e-7500-4347-b6b0-f58065bca006.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:45.875076",
+      "materials": [
+        {
+          "name": "Bamboo Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:bamboo_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/59d67a5b-2c4e-4340-b5e6-13987eb03557.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14216,
+      "buildId": 292,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/744e1792-5c48-441f-82af-ee0c514e56a1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:46.824362",
+      "materials": [
+        {
+          "name": "Chest",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:chest",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+          "type": "item"
+        },
+        {
+          "name": "Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14217,
+      "buildId": 292,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/431e52f4-8c45-4b26-878e-e4702d6e31a0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:47.711595",
+      "materials": [
+        {
+          "name": "Flower Pot",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:flower_pot",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14218,
+      "buildId": 292,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5e5cf395-8865-4fe5-8e8e-9bd5971b0397.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:48.620824",
+      "materials": [
+        {
+          "name": "Crafting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crafting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 14219,
+      "buildId": 292,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9da53a73-a5ca-4bc0-bfd5-c941594c9ac3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-07T15:58:49.55558",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6962825b-bdd0-4b2f-a81f-619f1353ab07.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9fb26e47-f533-4fd3-9bea-9692173056c8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37738716-ac95-484d-a137-39610f1634d7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be99ef28-df68-43cc-88c4-9579dbd49a88.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/87601575-6b88-4906-9690-c8f62f215b76.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65cf228f-6efd-4313-8f5b-53fdf63eddc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/026a02ab-52a1-49a0-9050-f1b0d854510c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/87fb4060-a477-47e1-8e29-b0c6e07baaae.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/79e5e37f-174d-48f6-b74b-2526a471d447.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f0489cf-6791-427d-80c8-eecd5c89cccf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/146c8658-fa7d-4cb8-b00f-733d1b1cfb9d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/82d050f8-139e-41d7-8b4d-19c583b99eb1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1576ea9-15e5-42b3-8732-29cae1ec2d04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3bc8e379-b79c-4104-9138-b446f4fb5042.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ece9fa5-3547-4676-a5f6-d25a30e96aff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/955e34d8-2155-43c1-a895-baa8d871329d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7127da83-6a44-4c0d-8561-a08a1e5b9714.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4aa74e3b-b386-4925-b204-f23cd28f2956.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc742771-f8cb-4cd1-a7cb-36b161181820.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5eb2e66b-b731-4dd1-8f02-bb5ed79729c5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f2f2d03f-b63b-42c6-b534-1d8a15c346aa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4b141cd-663f-45fb-925a-a610b930d42a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3adf5c6e-7d92-49c1-bbdb-6bf5dba7de18.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d66a3aec-e92e-46c6-b038-5b403961eff2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4224f253-00b8-477d-a62b-ab49606ed75d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bcae769a-0e27-4811-a79a-cf1fff7ab8d0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64cd5056-cd42-47e5-b90e-3c638902d214.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7a6756c7-8065-4d2f-9fb7-42de005dd2a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6061239a-c50a-4d69-9459-19c35d10da55.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/431b3d52-f98c-41b1-884d-3e0ea51adca8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/074e3907-20a1-4a8a-8779-60940ed29333.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c73df97f-5c5e-447f-979d-702f8025aef9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4696ca3f-a1b5-4d4d-9d7d-b25c0a68bc40.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19f6169e-7500-4347-b6b0-f58065bca006.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/744e1792-5c48-441f-82af-ee0c514e56a1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/431e52f4-8c45-4b26-878e-e4702d6e31a0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5e5cf395-8865-4fe5-8e8e-9bd5971b0397.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9da53a73-a5ca-4bc0-bfd5-c941594c9ac3.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9da53a73-a5ca-4bc0-bfd5-c941594c9ac3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9da53a73-a5ca-4bc0-bfd5-c941594c9ac3.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,3744 @@
+{
+  "id": 652,
+  "name": "Cherry Blossom Starter House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    }
+  ],
+  "labels": [
+    "House"
+  ],
+  "styleId": 10,
+  "styleName": "Japanese",
+  "style": "Japanese",
+  "tags": [
+    {
+      "id": 9,
+      "name": "Cherry Blossom"
+    },
+    {
+      "id": 33,
+      "name": "Starter"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 164,
+  "steps": 169,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f5f7a951-1982-4d47-9439-768b451883bf.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/f5f7a951-1982-4d47-9439-768b451883bf.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/2f9a7f48-0f73-44f4-9267-05673078f5a0.webp",
+  "description": "A starter house in pink planks and dark trim with a red brick roof and a front balcony. Two joined sections give you a main room plus an upper floor. Simple blocks, simple shape, quick to copy. A solid first base for a new survival world.",
+  "dimensions": {
+    "width": 22,
+    "height": 11,
+    "length": 16
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-19T17:54:12.954072",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Trapdoor",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Log",
+      "count": 140,
+      "quantity": 140,
+      "identifier": "minecraft:cherry_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Cherry Log",
+      "count": 86,
+      "quantity": 86,
+      "identifier": "minecraft:stripped_cherry_log",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Stairs",
+      "count": 64,
+      "quantity": 64,
+      "identifier": "minecraft:cherry_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Wood",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:cherry_wood",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d399d9cf-0989-481d-8ccf-30b2aea7c706.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Fence",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:cherry_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0fde792-f0ac-423e-8bb3-8d1f87170bca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Door",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:cherry_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff87f5ed-d2d6-4929-9f52-7ae4fad58a11.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Planks",
+      "count": 171,
+      "quantity": 171,
+      "identifier": "minecraft:cherry_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Slab",
+      "count": 42,
+      "quantity": 42,
+      "identifier": "minecraft:cherry_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Trapdoor",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:cherry_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Nether Brick Stairs",
+      "count": 60,
+      "quantity": 60,
+      "identifier": "minecraft:red_nether_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Nether Brick Slab",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:red_nether_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Carpet",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:red_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Carpet",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:white_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Magenta Bed",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:magenta_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fc296dd6-f779-46f2-a890-295803a7819c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cherry Leaves",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:cherry_leaves",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12609e07-c063-47e3-b088-d367eb8fef8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grindstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Campfire",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:campfire",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e32a72-27bb-4255-844b-6ff127345fd7.webp",
+      "type": "item"
+    },
+    {
+      "name": "Anvil",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:anvil",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+      "type": "item"
+    },
+    {
+      "name": "Enchanting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:enchanting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d782fc10-8294-488c-bed8-b424b1fda101.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flower Pot",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:flower_pot",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Bookshelf",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:bookshelf",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f7fe3153-bac3-4576-81df-f497de1b7dca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Bookshelf",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:chiseled_bookshelf",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e78ba5f-3dcd-4f51-84e9-c2c2a253a65a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chest",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:chest",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Barrel",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:barrel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 34440,
+      "buildId": 652,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/107046a5-5264-4017-9e30-582bdc34245f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:14.309849",
+      "materials": []
+    },
+    {
+      "id": 34441,
+      "buildId": 652,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5802c0ae-edb2-48f3-b1a1-8041d3369709.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:15.095612",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34442,
+      "buildId": 652,
+      "sequenceOrder": 3,
+      "image": null,
+      "description": "Replace red wool with cherry logs.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:15.111972",
+      "materials": []
+    },
+    {
+      "id": 34443,
+      "buildId": 652,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aba76159-8dd2-4bee-ad86-0eeb1043fa96.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:16.040301",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 49,
+          "quantity": 49,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34444,
+      "buildId": 652,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e359ebab-9504-40c4-9fe9-1220196b165f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:16.845926",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34445,
+      "buildId": 652,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d094ca9b-f8d4-4288-83d0-6fabe2d7ccfa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:17.626768",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34446,
+      "buildId": 652,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca88a878-14e0-4546-bd2c-8910d967ee98.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:18.840458",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34447,
+      "buildId": 652,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c0b6192-319c-4e1e-a75c-630d215af9f1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:19.684389",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34448,
+      "buildId": 652,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be719d8e-d5ec-4494-afbc-8dea404cda08.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:20.46412",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34449,
+      "buildId": 652,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3be8de1f-3e52-437b-8a20-a8b03cdb2e30.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:21.279744",
+      "materials": [
+        {
+          "name": "Cherry Door",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff87f5ed-d2d6-4929-9f52-7ae4fad58a11.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34450,
+      "buildId": 652,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a16a8e40-1748-4d18-9daa-19d134c8bbd5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:22.223548",
+      "materials": []
+    },
+    {
+      "id": 34451,
+      "buildId": 652,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0d5c45e1-8caa-42f6-93f5-5e8f7c50156c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:23.523654",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34452,
+      "buildId": 652,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d4feefd4-7b31-4686-8199-f1e21cf625af.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:24.358187",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34453,
+      "buildId": 652,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d63b4f6-9c59-4fa6-821b-8b88fefd564a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:25.329968",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34454,
+      "buildId": 652,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac3cf41e-da98-48a1-af70-b7dd31d0a1e8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:26.149143",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34455,
+      "buildId": 652,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8b1507a-c91e-479c-adde-951d076cbeb7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:27.044459",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34456,
+      "buildId": 652,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9719fcde-80db-4190-b821-2242911845b8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:27.892046",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34457,
+      "buildId": 652,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c525ca4-8184-4461-9784-9dfc657014bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:28.719467",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34458,
+      "buildId": 652,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3f256fa-c1aa-41a1-b586-b8d1b40122bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:29.546144",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34459,
+      "buildId": 652,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/17b26037-ab1c-461a-9583-22170c2f158e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:30.329563",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34460,
+      "buildId": 652,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/950e4a6c-bbfb-4e51-a79f-0c04492dc396.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:31.179299",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34461,
+      "buildId": 652,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4424280-d372-4170-9857-61d75f3c46cf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:31.961208",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34462,
+      "buildId": 652,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12c2ebed-9477-4737-b7d0-b0e6ab078ac2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:32.809283",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34463,
+      "buildId": 652,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee01aebd-e113-4b3f-b386-23f93cbf3937.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:33.566661",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34464,
+      "buildId": 652,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f2eaf3e-7a3d-4f2a-92f4-55d3e90e2058.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:34.369051",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34465,
+      "buildId": 652,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08879b72-5899-4dba-b01a-207bf104135c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:35.191571",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34466,
+      "buildId": 652,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d256aa8-c802-4eb2-ba08-762d6c5fe600.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:35.977924",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34467,
+      "buildId": 652,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05a3cf07-195f-4a43-803c-6dddbf1a6b0a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:38.051127",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34468,
+      "buildId": 652,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7fc9468-a3ce-4214-a1c7-e9264f8d40ba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:39.032717",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34469,
+      "buildId": 652,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e95ebff7-21a1-496b-bf10-d1bfd29d8997.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:40.345489",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34470,
+      "buildId": 652,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c47e4f57-0c5e-4d56-8c69-f6d558deaa57.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:41.320058",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34471,
+      "buildId": 652,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d03e308c-4257-41dc-a949-7a4e2235e528.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:42.100797",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34472,
+      "buildId": 652,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b9bd85d-9cef-456c-915c-72d3c4cf16a9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:42.860456",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34473,
+      "buildId": 652,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e5010a3-2d1a-4d62-8f9d-914cd7b33a2a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:43.664902",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34474,
+      "buildId": 652,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5849f22-e056-4c91-badc-80c9ee1da55a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:44.427095",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34475,
+      "buildId": 652,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da295ac2-4904-4901-98fa-d808b257c4bb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:45.578793",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34476,
+      "buildId": 652,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ecbdf9c6-31bb-4ac6-9ffd-b6768b67dc64.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:46.408742",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Cherry Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34477,
+      "buildId": 652,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c847a50e-4cf5-40ff-8596-6d7502116489.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:47.246444",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34478,
+      "buildId": 652,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/659128c1-bef9-454e-bf0e-30c1d6c545a7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:47.983387",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Cherry Wood",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_wood",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d399d9cf-0989-481d-8ccf-30b2aea7c706.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34479,
+      "buildId": 652,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b941db81-43f1-4537-b467-d068b6aa43ed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:49.18715",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 32,
+          "quantity": 32,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34480,
+      "buildId": 652,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56147fbc-0237-4288-8573-520ad7bea8b5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:49.969251",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34481,
+      "buildId": 652,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1b3e6a1-68e2-4d42-b1f1-01d5e9d5fbe4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:50.844328",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 49,
+          "quantity": 49,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34482,
+      "buildId": 652,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19da5410-94a9-416f-a15d-a48bac167302.webp",
+      "description": "Come to the front side.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:54:51.763123",
+      "materials": []
+    },
+    {
+      "id": 34483,
+      "buildId": 652,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d565f112-b0ad-400e-8c7b-79932c30ca4c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:52.582785",
+      "materials": [
+        {
+          "name": "Cherry Wood",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_wood",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d399d9cf-0989-481d-8ccf-30b2aea7c706.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34484,
+      "buildId": 652,
+      "sequenceOrder": 45,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4728f044-abd9-4edb-bb86-89b38b0d066c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:53.444836",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34485,
+      "buildId": 652,
+      "sequenceOrder": 46,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b14e7d7-e5c7-4230-a4b0-1c4463a74e66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:54.267085",
+      "materials": []
+    },
+    {
+      "id": 34486,
+      "buildId": 652,
+      "sequenceOrder": 47,
+      "image": null,
+      "description": "Break 2 blocks of red wool.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:54.271989",
+      "materials": []
+    },
+    {
+      "id": 34487,
+      "buildId": 652,
+      "sequenceOrder": 48,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/767a9b20-7595-43dc-8b82-aa874e7a6127.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:55.102982",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34488,
+      "buildId": 652,
+      "sequenceOrder": 49,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26e03957-6326-436a-b649-8ee0ab6ea6a8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:55.865706",
+      "materials": [
+        {
+          "name": "Ladder",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:ladder",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34489,
+      "buildId": 652,
+      "sequenceOrder": 50,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11f770d9-6390-4586-aa53-a8e2cb8adc0e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:56.706137",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34490,
+      "buildId": 652,
+      "sequenceOrder": 51,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3a333865-24ce-4cfc-9eb1-b32b696655e6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:57.716919",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34491,
+      "buildId": 652,
+      "sequenceOrder": 52,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8d022f1-0b8e-4ee7-86d0-ca4cd08790d2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:58.51446",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34492,
+      "buildId": 652,
+      "sequenceOrder": 53,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b61f3be8-652c-4466-8eb3-76afbedbb987.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:54:59.267307",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34493,
+      "buildId": 652,
+      "sequenceOrder": 54,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e5852e1-b338-4221-9be3-71856e4318c3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:00.085023",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34494,
+      "buildId": 652,
+      "sequenceOrder": 55,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b695898d-6478-49cb-a74d-777c57a8b589.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:01.162203",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34495,
+      "buildId": 652,
+      "sequenceOrder": 56,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c354232f-2e40-4c08-8d90-6f944a4846a6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:01.996048",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34496,
+      "buildId": 652,
+      "sequenceOrder": 57,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4ce1eaf-52a6-452e-847d-54a8bdda0d29.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:02.782911",
+      "materials": [
+        {
+          "name": "Cherry Door",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff87f5ed-d2d6-4929-9f52-7ae4fad58a11.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34497,
+      "buildId": 652,
+      "sequenceOrder": 58,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3baa4ec4-9b06-4a71-9b50-65729fb6cc27.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:03.616448",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34498,
+      "buildId": 652,
+      "sequenceOrder": 59,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/edffccf8-104c-401e-bd29-2bccc49d5c3a.webp",
+      "description": "Come to the back side.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:04.434731",
+      "materials": []
+    },
+    {
+      "id": 34499,
+      "buildId": 652,
+      "sequenceOrder": 60,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5ad6c427-37ee-49f6-b8de-bcbabe7d37b2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:05.369301",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 21,
+          "quantity": 21,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34500,
+      "buildId": 652,
+      "sequenceOrder": 61,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cb64e7a0-e1bd-4601-8d16-d2ff9fe979f8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:06.397253",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34501,
+      "buildId": 652,
+      "sequenceOrder": 62,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ade6e326-756f-412a-8fe9-8414d53588c4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:07.176169",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34502,
+      "buildId": 652,
+      "sequenceOrder": 63,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/748c9c33-6652-4379-af3f-b792212f9c9b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:07.94149",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34503,
+      "buildId": 652,
+      "sequenceOrder": 64,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65707e8c-046a-49ea-9e20-899c49ea57a1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:08.791529",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34504,
+      "buildId": 652,
+      "sequenceOrder": 65,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0e6a628-b87d-4f8e-99b1-14f18f42a306.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:09.573002",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34505,
+      "buildId": 652,
+      "sequenceOrder": 66,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3cc912d-8af5-4b98-849a-77694e9cc100.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:10.360956",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34506,
+      "buildId": 652,
+      "sequenceOrder": 67,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b735149-afc1-4856-9924-4a4ae72c5fe0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:11.165844",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34507,
+      "buildId": 652,
+      "sequenceOrder": 68,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ac91cc1-a853-4fcb-9337-626de9a557d4.webp",
+      "description": "Come this way.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:11.992272",
+      "materials": []
+    },
+    {
+      "id": 34508,
+      "buildId": 652,
+      "sequenceOrder": 69,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c21ba92c-83ad-4446-85df-7169d068413d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:12.88857",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34509,
+      "buildId": 652,
+      "sequenceOrder": 70,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/caae98a5-2f9f-475e-9d0b-637dc621d245.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:13.67736",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 17,
+          "quantity": 17,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34510,
+      "buildId": 652,
+      "sequenceOrder": 71,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e359e4b0-132a-4b74-a417-09ea3bcdec1f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:14.474594",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34511,
+      "buildId": 652,
+      "sequenceOrder": 72,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/25581111-de53-46a7-b2dc-68862f4fa995.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:15.249078",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34512,
+      "buildId": 652,
+      "sequenceOrder": 73,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2ecb858-d1dd-46b4-9df5-cb02e310a4ef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:16.140445",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34513,
+      "buildId": 652,
+      "sequenceOrder": 74,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cd5c017-9c2a-4258-9250-9d9945ba4a78.webp",
+      "description": "Come this way.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:16.909472",
+      "materials": []
+    },
+    {
+      "id": 34514,
+      "buildId": 652,
+      "sequenceOrder": 75,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37ec1dd7-cea6-4dd2-ac08-f1a1ef18cb7d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:17.852442",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34515,
+      "buildId": 652,
+      "sequenceOrder": 76,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e56e03dd-c6f1-4f10-9c21-cfb133f1f66f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:18.622544",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34516,
+      "buildId": 652,
+      "sequenceOrder": 77,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37a9e15d-9270-440b-817b-142d64ec711d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:19.588388",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34517,
+      "buildId": 652,
+      "sequenceOrder": 78,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48716e34-5d4b-4e2c-bf97-be3be25bcb04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:20.377064",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34518,
+      "buildId": 652,
+      "sequenceOrder": 79,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d6aea1b-35c3-43d3-899b-5c7a30556b30.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:21.181435",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34519,
+      "buildId": 652,
+      "sequenceOrder": 80,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a277b5ae-3c5c-40dc-95d7-4d6e395132a6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:23.49377",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34520,
+      "buildId": 652,
+      "sequenceOrder": 81,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c4ff89c-2870-4e0f-bcb5-9103fbc8b7db.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:24.310488",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34521,
+      "buildId": 652,
+      "sequenceOrder": 82,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15e2af6d-ff02-46e8-8e66-3a353065d31b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:25.094766",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34522,
+      "buildId": 652,
+      "sequenceOrder": 83,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84f34cc1-6393-4945-9b7c-10458d9d0c02.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:27.277727",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34523,
+      "buildId": 652,
+      "sequenceOrder": 84,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3cf4df3-1e6c-41df-bef8-e5f08f276556.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:28.022168",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34524,
+      "buildId": 652,
+      "sequenceOrder": 85,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26cc6b40-7f1b-44af-ac71-c930698d16c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:28.781891",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34525,
+      "buildId": 652,
+      "sequenceOrder": 86,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf07fcd2-f6cb-43c5-81b2-0f48a5ac0232.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:29.565005",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 13,
+          "quantity": 13,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34526,
+      "buildId": 652,
+      "sequenceOrder": 87,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1682d90f-d921-4aff-bace-37bb9ca0605f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:30.429415",
+      "materials": [
+        {
+          "name": "Cherry Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ff87f5ed-d2d6-4929-9f52-7ae4fad58a11.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34527,
+      "buildId": 652,
+      "sequenceOrder": 88,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8f21c4c1-686b-4e7f-8c34-7cb8ab0812d8.webp",
+      "description": "Come this way.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:31.26855",
+      "materials": []
+    },
+    {
+      "id": 34528,
+      "buildId": 652,
+      "sequenceOrder": 89,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b465f5de-1058-4c84-a40e-bc17f2dad820.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:32.080306",
+      "materials": [
+        {
+          "name": "Stripped Cherry Log",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:stripped_cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26f59c52-ec8a-486c-add8-e742fc5baa0c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34529,
+      "buildId": 652,
+      "sequenceOrder": 90,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2828b882-aeb5-4497-992e-4f5e66d3b358.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:32.916768",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34530,
+      "buildId": 652,
+      "sequenceOrder": 91,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6bda038-dc41-4521-8335-14cc016e0acd.webp",
+      "description": "Come to the back side.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:33.701471",
+      "materials": []
+    },
+    {
+      "id": 34531,
+      "buildId": 652,
+      "sequenceOrder": 92,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e565d940-b932-454b-b365-ee1a3cbc5581.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:34.560873",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34532,
+      "buildId": 652,
+      "sequenceOrder": 93,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4f2accce-7960-419a-91d8-c0c4b2c0a5b5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:35.346402",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34533,
+      "buildId": 652,
+      "sequenceOrder": 94,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c8c2d329-efa3-433e-b5a8-cbfa140c366d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:36.132968",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34534,
+      "buildId": 652,
+      "sequenceOrder": 95,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c31c59cd-1cc4-47a7-8493-be2647fd51bb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:36.92369",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34535,
+      "buildId": 652,
+      "sequenceOrder": 96,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32c039bf-3a58-4d17-b4df-2c4b597b8824.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:37.671169",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34536,
+      "buildId": 652,
+      "sequenceOrder": 97,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b51d3d60-edab-4d2f-a6c0-008f57c7f034.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:38.46132",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34537,
+      "buildId": 652,
+      "sequenceOrder": 98,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52de3263-e2af-4778-9475-e7892fa4a83e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:39.282058",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34538,
+      "buildId": 652,
+      "sequenceOrder": 99,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a089c68-fe2b-4e22-8c99-47759231c251.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:40.024299",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34539,
+      "buildId": 652,
+      "sequenceOrder": 100,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/927fd07d-de64-4251-9cab-e27c8314ce0e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:40.958234",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34540,
+      "buildId": 652,
+      "sequenceOrder": 101,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6cce34e4-3d38-4c2d-a539-79069fe3d9b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:42.216747",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34541,
+      "buildId": 652,
+      "sequenceOrder": 102,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7838fe46-7d94-4d1c-8b0b-bb8ef76ebf04.webp",
+      "description": "Come to the front and create the same design.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:42.9882",
+      "materials": []
+    },
+    {
+      "id": 34542,
+      "buildId": 652,
+      "sequenceOrder": 103,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09aaea9a-0e62-4f98-9233-da12973bd37e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:43.84191",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34543,
+      "buildId": 652,
+      "sequenceOrder": 104,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0d8fe8a-d8e7-4f83-a367-f6f6b4997c04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:44.804786",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34544,
+      "buildId": 652,
+      "sequenceOrder": 105,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5f56c17-bfde-46b2-9277-5908bea51cb4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:45.559589",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34545,
+      "buildId": 652,
+      "sequenceOrder": 106,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea8df7f1-0236-4443-a1da-aeb436de1371.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:46.323818",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34546,
+      "buildId": 652,
+      "sequenceOrder": 107,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd5cdfed-24a2-4275-9763-787dbe1f0ce9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:47.09263",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34547,
+      "buildId": 652,
+      "sequenceOrder": 108,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/58a76ce7-c83b-46c9-a3c9-78ba77a64a6e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:48.938906",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34548,
+      "buildId": 652,
+      "sequenceOrder": 109,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4f43a916-dcf5-488d-83ba-1ad79e121f80.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:49.776856",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34549,
+      "buildId": 652,
+      "sequenceOrder": 110,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4715c7c3-4166-463c-859f-a3350098040d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:50.606149",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34550,
+      "buildId": 652,
+      "sequenceOrder": 111,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4140e33e-d566-4f03-8038-19534dcbb010.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:51.422684",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34551,
+      "buildId": 652,
+      "sequenceOrder": 112,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d661c1ed-ea4c-431f-8d4b-28735abbf1ff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:52.21349",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34552,
+      "buildId": 652,
+      "sequenceOrder": 113,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/710b6fc7-5a31-4578-84df-05b2f7761bc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:53.222897",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34553,
+      "buildId": 652,
+      "sequenceOrder": 114,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e99a5191-d88f-4316-9914-3837ef0667b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:54.193232",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34554,
+      "buildId": 652,
+      "sequenceOrder": 115,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9c1ef044-ca8b-4dfd-9eb3-d2dbb539d2ff.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:54.995327",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34555,
+      "buildId": 652,
+      "sequenceOrder": 116,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c632aead-97ce-4412-8c64-e761656d3d2e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:55.745308",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34556,
+      "buildId": 652,
+      "sequenceOrder": 117,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/182e8468-f428-4a8b-8786-9de92e1a9771.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:56.760063",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34557,
+      "buildId": 652,
+      "sequenceOrder": 118,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6f4fc9c2-c127-41aa-b4e0-319b33814904.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:57.688279",
+      "materials": [
+        {
+          "name": "Red Nether Brick Stairs",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:red_nether_brick_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/846e5467-0ca5-42af-a8a6-38850f0b37c6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34558,
+      "buildId": 652,
+      "sequenceOrder": 119,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f206001-c39b-4fb8-9b06-6a762a9a8a3e.webp",
+      "description": "Come to the back side.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:55:58.48323",
+      "materials": []
+    },
+    {
+      "id": 34559,
+      "buildId": 652,
+      "sequenceOrder": 120,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/29ea0683-7c2c-4be7-89e4-179fcb6fcfc1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:55:59.384707",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34560,
+      "buildId": 652,
+      "sequenceOrder": 121,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a9743758-ac22-44c1-a3b6-f976e721d828.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:00.21116",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34561,
+      "buildId": 652,
+      "sequenceOrder": 122,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c6c3aa3-bae1-471b-bc55-dba3b04a048d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:01.078473",
+      "materials": [
+        {
+          "name": "Campfire",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:campfire",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/38e32a72-27bb-4255-844b-6ff127345fd7.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34562,
+      "buildId": 652,
+      "sequenceOrder": 123,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c486e824-973f-4430-8f68-6fa27eff97cb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:01.952335",
+      "materials": [
+        {
+          "name": "Spruce Trapdoor",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:spruce_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34563,
+      "buildId": 652,
+      "sequenceOrder": 124,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/738b5f63-8f9d-4974-97f0-258e3d7141b5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:02.705099",
+      "materials": [
+        {
+          "name": "Cherry Wood",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_wood",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d399d9cf-0989-481d-8ccf-30b2aea7c706.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34564,
+      "buildId": 652,
+      "sequenceOrder": 125,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e077995-9a78-4159-93ad-df6c0465de12.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:03.559859",
+      "materials": [
+        {
+          "name": "Spruce Trapdoor",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:spruce_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34565,
+      "buildId": 652,
+      "sequenceOrder": 126,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4cb9254a-c720-4069-8f38-098ad968a4c4.webp",
+      "description": "Come to the front.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:56:04.289563",
+      "materials": []
+    },
+    {
+      "id": 34566,
+      "buildId": 652,
+      "sequenceOrder": 127,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6af181d-22e3-4117-b132-364dd75d0c5d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:05.214462",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34567,
+      "buildId": 652,
+      "sequenceOrder": 128,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/839882fe-17b0-414a-ac70-06049414c39b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:06.054072",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34568,
+      "buildId": 652,
+      "sequenceOrder": 129,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac728357-3a9e-42be-91c2-28241ee6da79.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:06.868972",
+      "materials": [
+        {
+          "name": "Cherry Fence",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cherry_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0fde792-f0ac-423e-8bb3-8d1f87170bca.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34569,
+      "buildId": 652,
+      "sequenceOrder": 130,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46d75680-b996-42b1-b21a-4dc8a249247c.webp",
+      "description": "Come to the right side.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:56:07.717599",
+      "materials": []
+    },
+    {
+      "id": 34570,
+      "buildId": 652,
+      "sequenceOrder": 131,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f36926c5-53ab-4552-bdd9-87f40e70119a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:08.579352",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34571,
+      "buildId": 652,
+      "sequenceOrder": 132,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/de46701c-b6ca-457b-adf1-4db905ade8b5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:09.666368",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34572,
+      "buildId": 652,
+      "sequenceOrder": 133,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6796c921-fbeb-47d3-aa0b-1eec6e909706.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:10.42965",
+      "materials": [
+        {
+          "name": "Cherry Fence",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cherry_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0fde792-f0ac-423e-8bb3-8d1f87170bca.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34573,
+      "buildId": 652,
+      "sequenceOrder": 134,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2101f558-3800-4f32-9212-252660db06e0.webp",
+      "description": "Come back to the front.",
+      "moveToArea": true,
+      "createdAt": "2026-06-19T17:56:11.220281",
+      "materials": []
+    },
+    {
+      "id": 34574,
+      "buildId": 652,
+      "sequenceOrder": 135,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65ea8e05-b4b9-4bbd-8a30-c121763ec1b1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:12.108814",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34575,
+      "buildId": 652,
+      "sequenceOrder": 136,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc0c81ff-9f5a-460e-a448-c04235852bdb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:12.852765",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34576,
+      "buildId": 652,
+      "sequenceOrder": 137,
+      "image": null,
+      "description": "Back side.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:12.864468",
+      "materials": []
+    },
+    {
+      "id": 34577,
+      "buildId": 652,
+      "sequenceOrder": 138,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14dd44a7-1e83-48f9-8035-baaf519476c0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:13.774814",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34578,
+      "buildId": 652,
+      "sequenceOrder": 139,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e6068d2a-f720-46d3-a89d-75cf5d02829c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:14.519055",
+      "materials": [
+        {
+          "name": "Barrel",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        },
+        {
+          "name": "Crafting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crafting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+          "type": "item"
+        },
+        {
+          "name": "Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34579,
+      "buildId": 652,
+      "sequenceOrder": 140,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/589d8ad6-ba01-4f2f-b1a4-b7ef5936878c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:15.279415",
+      "materials": [
+        {
+          "name": "Cherry Trapdoor",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f1d5df81-f773-486f-9344-e46c9f420bcc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34580,
+      "buildId": 652,
+      "sequenceOrder": 141,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dbdbb4cf-bdc9-401a-b0df-ec3ff8b90523.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:16.081621",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34581,
+      "buildId": 652,
+      "sequenceOrder": 142,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5b7b8e1-5d2e-4197-9e5f-079e785f2123.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:16.820565",
+      "materials": [
+        {
+          "name": "Chest",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:chest",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34582,
+      "buildId": 652,
+      "sequenceOrder": 143,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4caa729-d9fd-4aa7-b46e-f9f1395068ac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:17.577967",
+      "materials": [
+        {
+          "name": "Cherry Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:cherry_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b31ef8-b74f-4a1e-b39c-c1277c7a9049.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34583,
+      "buildId": 652,
+      "sequenceOrder": 144,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/68f70e9f-d4b5-4119-ac00-c31b02d3f4d2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:18.348187",
+      "materials": [
+        {
+          "name": "Armor Stand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:armor_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34584,
+      "buildId": 652,
+      "sequenceOrder": 145,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4541c6db-cdd7-435e-aa26-6392dcc0afea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:19.999289",
+      "materials": [
+        {
+          "name": "White Carpet",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:white_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Carpet",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34585,
+      "buildId": 652,
+      "sequenceOrder": 146,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/606de547-6fb7-4619-b290-89e527cb091d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:20.820712",
+      "materials": [
+        {
+          "name": "Cherry Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/452a0426-0825-4495-8a23-97911bca9ac3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34586,
+      "buildId": 652,
+      "sequenceOrder": 147,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9adb525f-4880-4d58-9189-cbc60b686e67.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:21.627098",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 14,
+          "quantity": 14,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34587,
+      "buildId": 652,
+      "sequenceOrder": 148,
+      "image": null,
+      "description": "Come to the first floor and build it.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:21.641636",
+      "materials": []
+    },
+    {
+      "id": 34588,
+      "buildId": 652,
+      "sequenceOrder": 149,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/547486fb-d404-412d-89dc-773e621b11c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:22.512802",
+      "materials": [
+        {
+          "name": "Cherry Log",
+          "count": 14,
+          "quantity": 14,
+          "identifier": "minecraft:cherry_log",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d6218277-a160-4c2e-a005-eac0a39ac5c3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34589,
+      "buildId": 652,
+      "sequenceOrder": 150,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/707a907f-d0ec-4531-a5b7-e1d4904a4c01.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:23.277569",
+      "materials": [
+        {
+          "name": "Barrel",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        },
+        {
+          "name": "Chiseled Bookshelf",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:chiseled_bookshelf",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e78ba5f-3dcd-4f51-84e9-c2c2a253a65a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34590,
+      "buildId": 652,
+      "sequenceOrder": 151,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e282276c-d612-498f-b66a-9401a86cf83b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:24.705517",
+      "materials": [
+        {
+          "name": "Magenta Bed",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:magenta_bed",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fc296dd6-f779-46f2-a890-295803a7819c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34591,
+      "buildId": 652,
+      "sequenceOrder": 152,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a63848b3-22c0-41d2-918d-4c14cc37e034.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:25.479921",
+      "materials": [
+        {
+          "name": "White Carpet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Carpet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34592,
+      "buildId": 652,
+      "sequenceOrder": 153,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/069d4928-a9d9-4ce7-94fe-8a20abc696cd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:26.250105",
+      "materials": [
+        {
+          "name": "Cherry Leaves",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_leaves",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12609e07-c063-47e3-b088-d367eb8fef8e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34593,
+      "buildId": 652,
+      "sequenceOrder": 154,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e285c6fa-e182-432a-8aef-7e07986048ba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:27.006108",
+      "materials": [
+        {
+          "name": "Cherry Leaves",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:cherry_leaves",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12609e07-c063-47e3-b088-d367eb8fef8e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34594,
+      "buildId": 652,
+      "sequenceOrder": 155,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/398cb367-273d-4d19-8b64-1da1f813e7e5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:27.796713",
+      "materials": [
+        {
+          "name": "Barrel",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34595,
+      "buildId": 652,
+      "sequenceOrder": 156,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4ff15df-8fbd-49b4-8a9b-eebb7cded912.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:28.610505",
+      "materials": [
+        {
+          "name": "Chest",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:chest",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34596,
+      "buildId": 652,
+      "sequenceOrder": 157,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/83826d60-c9d9-4027-8eec-fc419a8e64e6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:29.378825",
+      "materials": [
+        {
+          "name": "Cherry Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cherry_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4c4bb55-9080-4097-8d04-4d40eaba1e9b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34597,
+      "buildId": 652,
+      "sequenceOrder": 158,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2917db1f-c1b4-4ba2-9715-881e5df1670e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:30.11612",
+      "materials": [
+        {
+          "name": "Flower Pot",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:flower_pot",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34598,
+      "buildId": 652,
+      "sequenceOrder": 159,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9127f225-7359-4b85-bc81-ff8c8aac3f7e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:30.935163",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34599,
+      "buildId": 652,
+      "sequenceOrder": 160,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ac741f1-17d3-4d2d-9da7-177920f457bd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:31.834545",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34600,
+      "buildId": 652,
+      "sequenceOrder": 161,
+      "image": null,
+      "description": "Place a pickaxe and a sword in the item frame.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:31.862649",
+      "materials": []
+    },
+    {
+      "id": 34601,
+      "buildId": 652,
+      "sequenceOrder": 162,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5bcd282b-2f8c-473f-8373-70a45933c6c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:32.71725",
+      "materials": [
+        {
+          "name": "Chest",
+          "count": 14,
+          "quantity": 14,
+          "identifier": "minecraft:chest",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/18f3b99b-cb79-46bd-8213-7c830e54acf2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34602,
+      "buildId": 652,
+      "sequenceOrder": 163,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fe97349d-c200-4147-968e-49d857e22ccd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:33.452987",
+      "materials": [
+        {
+          "name": "Red Carpet",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Carpet",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:white_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34603,
+      "buildId": 652,
+      "sequenceOrder": 164,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/604feac8-cd62-48d9-9be2-051ddd984bee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:34.175942",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34604,
+      "buildId": 652,
+      "sequenceOrder": 165,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b16ab9d1-47d4-4b57-82c0-f56eae613c3f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:34.926172",
+      "materials": [
+        {
+          "name": "Bookshelf",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:bookshelf",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f7fe3153-bac3-4576-81df-f497de1b7dca.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34605,
+      "buildId": 652,
+      "sequenceOrder": 166,
+      "image": null,
+      "description": "Come to the ground floor and build this room.",
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:34.945713",
+      "materials": []
+    },
+    {
+      "id": 34606,
+      "buildId": 652,
+      "sequenceOrder": 167,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/980aeb13-0f44-4434-80f9-169070ae77de.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:35.757854",
+      "materials": [
+        {
+          "name": "Barrel",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:barrel",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d848b5e5-5341-4d81-91ce-10f065c0a749.webp",
+          "type": "item"
+        },
+        {
+          "name": "Chiseled Bookshelf",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:chiseled_bookshelf",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e78ba5f-3dcd-4f51-84e9-c2c2a253a65a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34607,
+      "buildId": 652,
+      "sequenceOrder": 168,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/583a2aa9-db6d-4e43-9ce0-bf8973627d44.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:36.735202",
+      "materials": [
+        {
+          "name": "Bookshelf",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:bookshelf",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f7fe3153-bac3-4576-81df-f497de1b7dca.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34608,
+      "buildId": 652,
+      "sequenceOrder": 169,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aa2bd43-a58e-49c6-9b33-db6206dc4877.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:37.516793",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34609,
+      "buildId": 652,
+      "sequenceOrder": 170,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/85120eb4-331a-432a-9a85-f53d34dea15d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:38.444572",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34610,
+      "buildId": 652,
+      "sequenceOrder": 171,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8a4716e-72c9-4b0f-8395-014a7c7cb672.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:39.318151",
+      "materials": [
+        {
+          "name": "Anvil",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:anvil",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34611,
+      "buildId": 652,
+      "sequenceOrder": 172,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08a1850a-a596-4a0c-be31-702394c1585f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:40.631482",
+      "materials": [
+        {
+          "name": "Enchanting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:enchanting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d782fc10-8294-488c-bed8-b424b1fda101.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34612,
+      "buildId": 652,
+      "sequenceOrder": 173,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16b12282-d42a-4d3e-a25d-b54d92036cc8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:41.736909",
+      "materials": [
+        {
+          "name": "White Carpet",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:white_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+          "type": "item"
+        },
+        {
+          "name": "Red Carpet",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34613,
+      "buildId": 652,
+      "sequenceOrder": 174,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a30b24e1-889c-4bd8-89c3-99e048636e82.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:42.590697",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 34614,
+      "buildId": 652,
+      "sequenceOrder": 175,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/198ddda7-97a9-4334-b0c3-2a4e480ae919.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-19T17:56:43.381162",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/107046a5-5264-4017-9e30-582bdc34245f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5802c0ae-edb2-48f3-b1a1-8041d3369709.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aba76159-8dd2-4bee-ad86-0eeb1043fa96.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e359ebab-9504-40c4-9fe9-1220196b165f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d094ca9b-f8d4-4288-83d0-6fabe2d7ccfa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca88a878-14e0-4546-bd2c-8910d967ee98.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7c0b6192-319c-4e1e-a75c-630d215af9f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be719d8e-d5ec-4494-afbc-8dea404cda08.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3be8de1f-3e52-437b-8a20-a8b03cdb2e30.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a16a8e40-1748-4d18-9daa-19d134c8bbd5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0d5c45e1-8caa-42f6-93f5-5e8f7c50156c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d4feefd4-7b31-4686-8199-f1e21cf625af.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1d63b4f6-9c59-4fa6-821b-8b88fefd564a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac3cf41e-da98-48a1-af70-b7dd31d0a1e8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8b1507a-c91e-479c-adde-951d076cbeb7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9719fcde-80db-4190-b821-2242911845b8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c525ca4-8184-4461-9784-9dfc657014bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3f256fa-c1aa-41a1-b586-b8d1b40122bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/17b26037-ab1c-461a-9583-22170c2f158e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/950e4a6c-bbfb-4e51-a79f-0c04492dc396.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4424280-d372-4170-9857-61d75f3c46cf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12c2ebed-9477-4737-b7d0-b0e6ab078ac2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee01aebd-e113-4b3f-b386-23f93cbf3937.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f2eaf3e-7a3d-4f2a-92f4-55d3e90e2058.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08879b72-5899-4dba-b01a-207bf104135c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d256aa8-c802-4eb2-ba08-762d6c5fe600.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05a3cf07-195f-4a43-803c-6dddbf1a6b0a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7fc9468-a3ce-4214-a1c7-e9264f8d40ba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e95ebff7-21a1-496b-bf10-d1bfd29d8997.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c47e4f57-0c5e-4d56-8c69-f6d558deaa57.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d03e308c-4257-41dc-a949-7a4e2235e528.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b9bd85d-9cef-456c-915c-72d3c4cf16a9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e5010a3-2d1a-4d62-8f9d-914cd7b33a2a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5849f22-e056-4c91-badc-80c9ee1da55a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da295ac2-4904-4901-98fa-d808b257c4bb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ecbdf9c6-31bb-4ac6-9ffd-b6768b67dc64.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c847a50e-4cf5-40ff-8596-6d7502116489.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/659128c1-bef9-454e-bf0e-30c1d6c545a7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b941db81-43f1-4537-b467-d068b6aa43ed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/56147fbc-0237-4288-8573-520ad7bea8b5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1b3e6a1-68e2-4d42-b1f1-01d5e9d5fbe4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/19da5410-94a9-416f-a15d-a48bac167302.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d565f112-b0ad-400e-8c7b-79932c30ca4c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4728f044-abd9-4edb-bb86-89b38b0d066c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9b14e7d7-e5c7-4230-a4b0-1c4463a74e66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/767a9b20-7595-43dc-8b82-aa874e7a6127.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26e03957-6326-436a-b649-8ee0ab6ea6a8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/11f770d9-6390-4586-aa53-a8e2cb8adc0e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3a333865-24ce-4cfc-9eb1-b32b696655e6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8d022f1-0b8e-4ee7-86d0-ca4cd08790d2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b61f3be8-652c-4466-8eb3-76afbedbb987.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e5852e1-b338-4221-9be3-71856e4318c3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b695898d-6478-49cb-a74d-777c57a8b589.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c354232f-2e40-4c08-8d90-6f944a4846a6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4ce1eaf-52a6-452e-847d-54a8bdda0d29.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3baa4ec4-9b06-4a71-9b50-65729fb6cc27.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/edffccf8-104c-401e-bd29-2bccc49d5c3a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5ad6c427-37ee-49f6-b8de-bcbabe7d37b2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cb64e7a0-e1bd-4601-8d16-d2ff9fe979f8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ade6e326-756f-412a-8fe9-8414d53588c4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/748c9c33-6652-4379-af3f-b792212f9c9b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65707e8c-046a-49ea-9e20-899c49ea57a1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e0e6a628-b87d-4f8e-99b1-14f18f42a306.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3cc912d-8af5-4b98-849a-77694e9cc100.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b735149-afc1-4856-9924-4a4ae72c5fe0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ac91cc1-a853-4fcb-9337-626de9a557d4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c21ba92c-83ad-4446-85df-7169d068413d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/caae98a5-2f9f-475e-9d0b-637dc621d245.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e359e4b0-132a-4b74-a417-09ea3bcdec1f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/25581111-de53-46a7-b2dc-68862f4fa995.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2ecb858-d1dd-46b4-9df5-cb02e310a4ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cd5c017-9c2a-4258-9250-9d9945ba4a78.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37ec1dd7-cea6-4dd2-ac08-f1a1ef18cb7d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e56e03dd-c6f1-4f10-9c21-cfb133f1f66f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/37a9e15d-9270-440b-817b-142d64ec711d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48716e34-5d4b-4e2c-bf97-be3be25bcb04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d6aea1b-35c3-43d3-899b-5c7a30556b30.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a277b5ae-3c5c-40dc-95d7-4d6e395132a6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c4ff89c-2870-4e0f-bcb5-9103fbc8b7db.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/15e2af6d-ff02-46e8-8e66-3a353065d31b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/84f34cc1-6393-4945-9b7c-10458d9d0c02.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d3cf4df3-1e6c-41df-bef8-e5f08f276556.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26cc6b40-7f1b-44af-ac71-c930698d16c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bf07fcd2-f6cb-43c5-81b2-0f48a5ac0232.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1682d90f-d921-4aff-bace-37bb9ca0605f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8f21c4c1-686b-4e7f-8c34-7cb8ab0812d8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b465f5de-1058-4c84-a40e-bc17f2dad820.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2828b882-aeb5-4497-992e-4f5e66d3b358.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6bda038-dc41-4521-8335-14cc016e0acd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e565d940-b932-454b-b365-ee1a3cbc5581.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4f2accce-7960-419a-91d8-c0c4b2c0a5b5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c8c2d329-efa3-433e-b5a8-cbfa140c366d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c31c59cd-1cc4-47a7-8493-be2647fd51bb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32c039bf-3a58-4d17-b4df-2c4b597b8824.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b51d3d60-edab-4d2f-a6c0-008f57c7f034.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/52de3263-e2af-4778-9475-e7892fa4a83e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a089c68-fe2b-4e22-8c99-47759231c251.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/927fd07d-de64-4251-9cab-e27c8314ce0e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6cce34e4-3d38-4c2d-a539-79069fe3d9b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7838fe46-7d94-4d1c-8b0b-bb8ef76ebf04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09aaea9a-0e62-4f98-9233-da12973bd37e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0d8fe8a-d8e7-4f83-a367-f6f6b4997c04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5f56c17-bfde-46b2-9277-5908bea51cb4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea8df7f1-0236-4443-a1da-aeb436de1371.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd5cdfed-24a2-4275-9763-787dbe1f0ce9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/58a76ce7-c83b-46c9-a3c9-78ba77a64a6e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4f43a916-dcf5-488d-83ba-1ad79e121f80.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4715c7c3-4166-463c-859f-a3350098040d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4140e33e-d566-4f03-8038-19534dcbb010.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d661c1ed-ea4c-431f-8d4b-28735abbf1ff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/710b6fc7-5a31-4578-84df-05b2f7761bc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e99a5191-d88f-4316-9914-3837ef0667b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9c1ef044-ca8b-4dfd-9eb3-d2dbb539d2ff.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c632aead-97ce-4412-8c64-e761656d3d2e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/182e8468-f428-4a8b-8786-9de92e1a9771.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6f4fc9c2-c127-41aa-b4e0-319b33814904.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0f206001-c39b-4fb8-9b06-6a762a9a8a3e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/29ea0683-7c2c-4be7-89e4-179fcb6fcfc1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a9743758-ac22-44c1-a3b6-f976e721d828.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5c6c3aa3-bae1-471b-bc55-dba3b04a048d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c486e824-973f-4430-8f68-6fa27eff97cb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/738b5f63-8f9d-4974-97f0-258e3d7141b5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e077995-9a78-4159-93ad-df6c0465de12.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4cb9254a-c720-4069-8f38-098ad968a4c4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f6af181d-22e3-4117-b132-364dd75d0c5d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/839882fe-17b0-414a-ac70-06049414c39b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ac728357-3a9e-42be-91c2-28241ee6da79.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/46d75680-b996-42b1-b21a-4dc8a249247c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f36926c5-53ab-4552-bdd9-87f40e70119a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/de46701c-b6ca-457b-adf1-4db905ade8b5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6796c921-fbeb-47d3-aa0b-1eec6e909706.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2101f558-3800-4f32-9212-252660db06e0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65ea8e05-b4b9-4bbd-8a30-c121763ec1b1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc0c81ff-9f5a-460e-a448-c04235852bdb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14dd44a7-1e83-48f9-8035-baaf519476c0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e6068d2a-f720-46d3-a89d-75cf5d02829c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/589d8ad6-ba01-4f2f-b1a4-b7ef5936878c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dbdbb4cf-bdc9-401a-b0df-ec3ff8b90523.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5b7b8e1-5d2e-4197-9e5f-079e785f2123.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a4caa729-d9fd-4aa7-b46e-f9f1395068ac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/68f70e9f-d4b5-4119-ac00-c31b02d3f4d2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4541c6db-cdd7-435e-aa26-6392dcc0afea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/606de547-6fb7-4619-b290-89e527cb091d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9adb525f-4880-4d58-9189-cbc60b686e67.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/547486fb-d404-412d-89dc-773e621b11c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/707a907f-d0ec-4531-a5b7-e1d4904a4c01.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e282276c-d612-498f-b66a-9401a86cf83b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a63848b3-22c0-41d2-918d-4c14cc37e034.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/069d4928-a9d9-4ce7-94fe-8a20abc696cd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e285c6fa-e182-432a-8aef-7e07986048ba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/398cb367-273d-4d19-8b64-1da1f813e7e5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f4ff15df-8fbd-49b4-8a9b-eebb7cded912.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/83826d60-c9d9-4027-8eec-fc419a8e64e6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2917db1f-c1b4-4ba2-9715-881e5df1670e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9127f225-7359-4b85-bc81-ff8c8aac3f7e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ac741f1-17d3-4d2d-9da7-177920f457bd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5bcd282b-2f8c-473f-8373-70a45933c6c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fe97349d-c200-4147-968e-49d857e22ccd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/604feac8-cd62-48d9-9be2-051ddd984bee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b16ab9d1-47d4-4b57-82c0-f56eae613c3f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/980aeb13-0f44-4434-80f9-169070ae77de.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/583a2aa9-db6d-4e43-9ce0-bf8973627d44.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8aa2bd43-a58e-49c6-9b33-db6206dc4877.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/85120eb4-331a-432a-9a85-f53d34dea15d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8a4716e-72c9-4b0f-8395-014a7c7cb672.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08a1850a-a596-4a0c-be31-702394c1585f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16b12282-d42a-4d3e-a25d-b54d92036cc8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a30b24e1-889c-4bd8-89c3-99e048636e82.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/198ddda7-97a9-4334-b0c3-2a4e480ae919.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/2f9a7f48-0f73-44f4-9267-05673078f5a0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/8acc8d52-f3d9-48cb-a3e3-19d129f740aa.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/7dbc60f0-d98e-421c-8002-e1b749f08b80.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/f00ed4a8-773b-469b-93de-e97e737a51dd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 4
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/2f9a7f48-0f73-44f4-9267-05673078f5a0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/8acc8d52-f3d9-48cb-a3e3-19d129f740aa.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/7dbc60f0-d98e-421c-8002-e1b749f08b80.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/f00ed4a8-773b-469b-93de-e97e737a51dd.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": 141,
+  "name": "Techno Blade",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 6,
+      "name": "Big"
+    }
+  ],
+  "difficulty": 2,
+  "buildSteps": 70,
+  "steps": 70,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/8e687cbe-045f-40bb-bfb0-84af7f3a1907.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/8e687cbe-045f-40bb-bfb0-84af7f3a1907.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a517742a-3c90-402a-a14b-2eb48857ac3d.webp",
+  "description": "A big minecraft statue of Technoblade, the pig king, with a gold crown and a red royal coat. Stands several blocks tall and reads clearly from a distance. Mostly wool and concrete, so it takes plenty of colored blocks. A tribute piece for a spawn area or server plot.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-06T16:19:14.639993",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "White Wool",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:white_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Wool",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:red_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 31,
+      "quantity": 31,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Terracotta",
+      "count": 56,
+      "quantity": 56,
+      "identifier": "minecraft:cyan_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Gray Concrete",
+      "count": 91,
+      "quantity": 91,
+      "identifier": "minecraft:light_gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d9096e6d-8bed-4091-911e-a83e91b34c74.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 76,
+      "quantity": 76,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Concrete",
+      "count": 52,
+      "quantity": 52,
+      "identifier": "minecraft:gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+      "type": "item"
+    },
+    {
+      "name": "Yellow Concrete",
+      "count": 83,
+      "quantity": 83,
+      "identifier": "minecraft:yellow_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21b8477d-17bc-46f2-a010-415f73bc4bda.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Concrete",
+      "count": 270,
+      "quantity": 270,
+      "identifier": "minecraft:red_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f21bebd8-f570-449f-9949-eaab09db8ea8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Concrete",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:light_blue_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1c1a663b-daad-4e5d-9e4d-0dde5dfff161.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Concrete",
+      "count": 41,
+      "quantity": 41,
+      "identifier": "minecraft:blue_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/dc89f288-e6af-4e2e-a796-ac04c400f323.webp",
+      "type": "item"
+    },
+    {
+      "name": "Purple Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:purple_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5cc32529-71f3-4644-a934-32de193425f9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Concrete",
+      "count": 374,
+      "quantity": 374,
+      "identifier": "minecraft:pink_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c8b726c-c3b8-4bf6-be47-fe055fb91e05.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:lime_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fe80ec17-d948-4d3a-9755-0aca708106b6.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a517742a-3c90-402a-a14b-2eb48857ac3d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a517742a-3c90-402a-a14b-2eb48857ac3d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 114,
+  "name": "Dance Floor",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 18,
+  "steps": 18,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b9e3de40-36df-45ee-b589-706d6e432f2a.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b9e3de40-36df-45ee-b589-706d6e432f2a.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9f7d5a0-ce50-47c1-b9b2-b3a89c8354bf.webp",
+  "description": "A redstone dance floor made of glowing lamps framed in stone bricks, with a lantern post on each corner. The lit floor makes a bright spot for parties or a plaza centerpiece. Small footprint and cheap blocks, so it drops into any base or village square.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-03T14:21:03.463406",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Chiseled Polished Blackstone",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:chiseled_polished_blackstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/91c5dac2-4a4c-41b0-860a-a4342941373c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Bricks",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:polished_blackstone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/756a256a-4d9f-45a8-84b9-a6ff82b5dfdb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Brick Wall",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:polished_blackstone_brick_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/12046f70-25b0-4617-9b52-c205ec0a4690.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Lamp",
+      "count": 64,
+      "quantity": 64,
+      "identifier": "minecraft:redstone_lamp",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1e08a6b0-8893-4219-94f7-dc7ec6997f6f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Observer",
+      "count": 116,
+      "quantity": 116,
+      "identifier": "minecraft:observer",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9f7d5a0-ce50-47c1-b9b2-b3a89c8354bf.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c9f7d5a0-ce50-47c1-b9b2-b3a89c8354bf.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

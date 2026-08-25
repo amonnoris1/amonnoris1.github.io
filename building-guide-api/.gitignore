@@ -1,0 +1,4 @@
+.DS_Store
+*.part
+failed-details.json
+failed-images.json

@@ -1,0 +1,152 @@
+{
+  "id": 607,
+  "name": "Fully Automatic Door",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 16,
+  "steps": 16,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b78fe084-e4f2-4820-bbcd-d6ed4ec09246.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b78fe084-e4f2-4820-bbcd-d6ed4ec09246.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/ad775d61-d004-41f4-bc80-a65240f3a199.gif",
+  "description": "A redstone door hidden in a stone brick wall that opens on its own as you walk up and closes behind you. No buttons and no levers, the wall just parts for you. Stone bricks hide the wiring completely. Use it as a seamless entrance to a base or vault.",
+  "dimensions": {
+    "width": 3,
+    "height": 5,
+    "length": 8
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-06T15:31:34.53364",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Stone",
+      "count": 27,
+      "quantity": 27,
+      "identifier": "minecraft:stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/85fe243a-25bf-4d35-a3df-c9fbeb0e7862.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:chiseled_stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/eaa728d9-d3ab-4860-b582-d9e15ece1cee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mossy Stone Bricks",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:mossy_stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/433384ec-78c5-4301-b323-f6ba4c667e8a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Gold",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:gold_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5f0794dc-4f73-4f90-9922-0755e7a7c184.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/494682b2-6dc6-46c0-9a26-cf39e199ab7d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sculk Sensor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:sculk_sensor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165611cb-aaf1-43c1-b1a5-2f13420f66c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Note Block",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:note_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a17d8bff-73b1-491d-9600-50a6d6ab65ca.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sticky Piston",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:sticky_piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f0f1273f-a20b-48cd-8e55-d50c4e6f0114.webp",
+      "type": "item"
+    },
+    {
+      "name": "Observer",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:observer",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/ad775d61-d004-41f4-bc80-a65240f3a199.gif",
+      "type": "gif",
+      "format": "gif",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/ad775d61-d004-41f4-bc80-a65240f3a199.gif",
+      "type": "gif",
+      "format": "gif",
+      "sequenceOrder": 1
+    }
+  ]
+}

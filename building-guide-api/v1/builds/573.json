@@ -1,0 +1,136 @@
+{
+  "id": 573,
+  "name": "Rainbow Beacon",
+  "categoryId": 6,
+  "categoryName": "Beacon",
+  "category": "Beacon",
+  "categories": [
+    {
+      "id": 6,
+      "name": "Beacon",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/3fc37cca-e56f-4f2b-a00e-e68d71710bec.webp"
+    }
+  ],
+  "labels": [
+    "Beacon"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 14,
+  "steps": 14,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b0d1e155-1725-43cd-9345-aae2320d7edb.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b0d1e155-1725-43cd-9345-aae2320d7edb.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ad893213-35a2-4d94-a0c8-6970687d349b.webp",
+  "description": "A beacon tower with a rainbow beam rising from an iron block base. The beacon sits under glass on a small platform, with stained glass coloring the beam every few blocks. Marks your base from far away once you have a beacon to power it.",
+  "dimensions": {
+    "width": 7,
+    "height": 33,
+    "length": 7
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:35:23.223547",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Block of Iron",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:iron_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/064beedd-a895-4694-81ed-ee5f25ee24ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Yellow Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:yellow_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4bfb1093-ae1d-4dbb-a013-31b959977c30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:red_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72902e11-7cc5-48ba-974e-d119a7cc9296.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lime Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:lime_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bfdeb4df-574b-4fbf-bb09-3b9f32ffb458.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:light_blue_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3e3d3ee5-d812-4b4a-8cda-aee176c3eba6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Orange Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:orange_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/35458d47-28e0-410a-9fa0-3307feaf16ba.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pink Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:pink_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/eba1f9e3-b3d6-4ef5-9f50-eb4c29f9028f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Magenta Stained Glass Pane",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:magenta_stained_glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1615f039-1975-46d7-9fd8-2ab1a7f90767.webp",
+      "type": "item"
+    },
+    {
+      "name": "Beacon",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:beacon",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/15febcd8-a2d4-4dad-99fd-e5df9d47a5d4.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ad893213-35a2-4d94-a0c8-6970687d349b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ad893213-35a2-4d94-a0c8-6970687d349b.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

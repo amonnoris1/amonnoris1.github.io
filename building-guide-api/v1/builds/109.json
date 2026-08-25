@@ -1,0 +1,177 @@
+{
+  "id": 109,
+  "name": "Working Castle Gate",
+  "categoryId": 11,
+  "categoryName": "Redstone",
+  "category": "Redstone",
+  "categories": [
+    {
+      "id": 11,
+      "name": "Redstone",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/ce4dd8a2-d128-40a6-8fb0-1ebe5a37a886.webp"
+    }
+  ],
+  "labels": [
+    "Redstone"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [
+    {
+      "id": 23,
+      "name": "Medieval"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 56,
+  "steps": 56,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c9bbeb85-3fb5-40fd-be85-027198015df3.gif",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c9bbeb85-3fb5-40fd-be85-027198015df3.gif",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/decfa6e2-8e28-4c2c-83b0-83d76b62e2ff.webp",
+  "description": "A working castle gate in a stone gatehouse with battlements and a wooden portcullis. Flip the redstone and the gate slides open or shut, so your entrance actually locks. Mostly stone bricks and cobblestone. Drop it into a castle wall or use it as a stand-alone keep entrance.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2025-12-21T20:24:03.879038",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Slab",
+      "count": 18,
+      "quantity": 18,
+      "identifier": "minecraft:oak_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f7be016-3c48-4c90-a975-7175d3e11c69.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Fence",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Button",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:stone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Stone",
+      "count": 28,
+      "quantity": 28,
+      "identifier": "minecraft:smooth_stone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/153e0ac5-187d-4cce-84ea-a12cffed1e6d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobblestone",
+      "count": 83,
+      "quantity": 83,
+      "identifier": "minecraft:cobblestone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b0896735-052e-4799-94c9-2a9e14c8b7bb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Bricks",
+      "count": 88,
+      "quantity": 88,
+      "identifier": "minecraft:stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/791fe7fc-f920-41fb-96de-ad493c7fc087.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:stone_brick_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b4cff65a-14fc-4db7-9bf6-0d7350e18ae4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Brick Slab",
+      "count": 21,
+      "quantity": 21,
+      "identifier": "minecraft:stone_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/94339034-d02d-4d09-b2c1-d785a4a420dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gravel",
+      "count": 17,
+      "quantity": 17,
+      "identifier": "minecraft:gravel",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d5ee0f58-2d9a-4f24-9e43-f1caae4944ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Torch",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:redstone_torch",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a54853ab-02af-449b-a5de-d52ea6ce341c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Repeater",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:repeater",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b72937d7-3c1e-45f6-916c-19551401267c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Redstone Dust",
+      "count": 25,
+      "quantity": 25,
+      "identifier": "minecraft:redstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ed3b6df9-713f-4cb0-98e8-bea641e040bd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sticky Piston",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:sticky_piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f0f1273f-a20b-48cd-8e55-d50c4e6f0114.webp",
+      "type": "item"
+    },
+    {
+      "name": "Piston",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/decfa6e2-8e28-4c2c-83b0-83d76b62e2ff.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/decfa6e2-8e28-4c2c-83b0-83d76b62e2ff.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

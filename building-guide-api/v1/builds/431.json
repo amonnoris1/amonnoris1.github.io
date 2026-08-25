@@ -1,0 +1,212 @@
+{
+  "id": 431,
+  "name": "Honda Jet Aircraft",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 23,
+  "steps": 23,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/85056ac3-118b-44ef-ab84-bea1574e5aec.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/85056ac3-118b-44ef-ab84-bea1574e5aec.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/35e282bf-6c5b-44a2-a66d-f2e569e62c5d.webp",
+  "description": "A small jet aircraft in white and orange, with twin engines mounted over the wings and a low nose. Landing gear, tail fin and cockpit are all shaped from a handful of blocks. A quick build using common materials. Sits well beside a runway or modern base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-13T15:14:08.803715",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Fence Gate",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:birch_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d87205a-3e20-4cb2-bb3f-2e4845a8c76f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Trapdoor",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:acacia_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Trapdoor",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:mangrove_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e0ef5be-14bc-49ae-906f-11dccbd109c9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite Stairs",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_andesite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/084b5880-a7a2-4810-a07f-0c00e13d0b10.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Deepslate Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:polished_deepslate_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/24e19057-d258-44aa-aebf-80cd07719974.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Trapdoor",
+      "count": 23,
+      "quantity": 23,
+      "identifier": "minecraft:iron_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a00fca3-acb9-4089-8bea-b57fae4a5081.webp",
+      "type": "item"
+    },
+    {
+      "name": "Quartz Pillar",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:quartz_pillar",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a6d108d3-4e0d-474a-8634-671fab55aeb2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 15,
+      "quantity": 15,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Orange Carpet",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:orange_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c7466848-4846-4744-8743-5627bff83fc1.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Carpet",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:white_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/549785c1-f281-4d2c-b2e3-afba8edd441f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Orange Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:orange_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/84f1f591-2e92-4569-b51f-7ceec64e3261.webp",
+      "type": "item"
+    },
+    {
+      "name": "Wither Skeleton Skull",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:wither_skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+      "type": "item"
+    },
+    {
+      "name": "String",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:string",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6b4648f2-55ba-4a56-8a15-7212d95640a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Trapdoor",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:pale_oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/35e282bf-6c5b-44a2-a66d-f2e569e62c5d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/35e282bf-6c5b-44a2-a66d-f2e569e62c5d.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

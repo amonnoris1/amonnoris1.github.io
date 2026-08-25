@@ -1,0 +1,654 @@
+{
+  "id": 513,
+  "name": "Mech Robot",
+  "categoryId": 4,
+  "categoryName": "Decoration",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    },
+    {
+      "id": 4,
+      "name": "Decoration",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/41847565-063d-4136-9ff9-b3821c62c76c.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 9,
+  "styleName": "Industrial",
+  "style": "Industrial",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 24,
+  "steps": 24,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0351c7da-bf34-4c6b-b210-525daba63374.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0351c7da-bf34-4c6b-b210-525daba63374.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8674e3a-7e7a-497b-9b07-699183ee0a75.webp",
+  "description": "A minecraft statue of a mech robot in gray stone with orange armor plates. It stands on two legs with vents on the chest and blade arms at the sides. Mostly stone, iron and copper blocks. Guards a base entrance or a modern city plot.",
+  "dimensions": {
+    "width": 7,
+    "height": 7,
+    "length": 8
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T21:03:43.239817",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Acacia Fence",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:acacia_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a29b0153-61b3-4b3c-8d34-8e342ba79ddc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Trapdoor",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:acacia_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cobblestone Wall",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:cobblestone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_red_sandstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5e61dcb8-cc41-4b41-9811-5c557460e751.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Slab",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:smooth_red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Bars",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:iron_bars",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grindstone",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Anvil",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:anvil",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+      "type": "item"
+    },
+    {
+      "name": "Hopper",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:hopper",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Observer",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:observer",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 27382,
+      "buildId": 513,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8c9e2e0-ed98-4910-9ae5-8e92daf05188.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:44.729791",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27383,
+      "buildId": 513,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05a1e20d-1a4b-4b67-b1f4-a22380a76241.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:46.986445",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        },
+        {
+          "name": "Anvil",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:anvil",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27384,
+      "buildId": 513,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e19b1db-4513-4588-89de-f4749e606007.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:48.30256",
+      "materials": [
+        {
+          "name": "Acacia Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27385,
+      "buildId": 513,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5131feac-a42b-4c36-b1b5-376439f19ab5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:49.351139",
+      "materials": [
+        {
+          "name": "Cobblestone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cobblestone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27386,
+      "buildId": 513,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d8838e0-fe4d-4107-b4ea-fc0b02a7253a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:50.237113",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27387,
+      "buildId": 513,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e371d141-3131-4292-a8c6-32f0fa3551ef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:51.53228",
+      "materials": [
+        {
+          "name": "Anvil",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:anvil",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27388,
+      "buildId": 513,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e578497f-eeeb-404c-ad7c-ad0eb1cd5306.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:52.83362",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27389,
+      "buildId": 513,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/443ba016-8f9b-4f95-8e9c-08ba4165b47a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:53.715212",
+      "materials": [
+        {
+          "name": "Blast Furnace",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27390,
+      "buildId": 513,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e9fbef8-5ac4-4e04-94d9-d05954e694ee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:54.474949",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27391,
+      "buildId": 513,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b6289c43-79a8-4952-80e7-22cd5c509cbf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:55.504364",
+      "materials": [
+        {
+          "name": "Acacia Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:acacia_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27392,
+      "buildId": 513,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/766c60f1-9521-4ee9-89c3-5bfacbee30fc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:57.748749",
+      "materials": [
+        {
+          "name": "Observer",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:observer",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27393,
+      "buildId": 513,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0be85fce-9055-42b3-a7bd-677813fd5804.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:58.782478",
+      "materials": [
+        {
+          "name": "Observer",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:observer",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8db75f79-ed01-49ca-8060-10cbc79db067.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27394,
+      "buildId": 513,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/895af4dc-19cf-48a1-ab04-e918f39420f1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:03:59.614376",
+      "materials": [
+        {
+          "name": "Hopper",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:hopper",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c5936508-5678-42bf-86a5-5923ff61d8c1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27395,
+      "buildId": 513,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a895bde-6ebb-4bdb-a873-184ab0464a09.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:00.556263",
+      "materials": [
+        {
+          "name": "Cobblestone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cobblestone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27396,
+      "buildId": 513,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f87e3e7-ea44-40ea-a0ac-22d1e159c64d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:01.373598",
+      "materials": [
+        {
+          "name": "Cobblestone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cobblestone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b09a62a-65ac-4493-aa66-7f10e1f8a1e3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27397,
+      "buildId": 513,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76b350cb-0b48-4cba-8c57-2d55c6ed5e88.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:03.672894",
+      "materials": [
+        {
+          "name": "Iron Bars",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:iron_bars",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27398,
+      "buildId": 513,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/53c193fe-6a9d-4e96-a49f-8749f6a95806.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:04.965422",
+      "materials": [
+        {
+          "name": "Acacia Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7a644558-569d-4cdf-b673-eec9f3af8b60.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27399,
+      "buildId": 513,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1083d785-d072-4745-8eb2-8895e84ebb4f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:05.732836",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_red_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27400,
+      "buildId": 513,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a500b872-2a46-41c8-b4ad-faec02886655.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:06.788877",
+      "materials": [
+        {
+          "name": "Blast Furnace",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27401,
+      "buildId": 513,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/544b07c4-2779-45b2-8596-6f0e1475ee26.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:08.281811",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5e61dcb8-cc41-4b41-9811-5c557460e751.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27402,
+      "buildId": 513,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f586cfe5-c148-42c9-a5a3-bd9cd4d7a258.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:09.217404",
+      "materials": [
+        {
+          "name": "Acacia Fence",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:acacia_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a29b0153-61b3-4b3c-8d34-8e342ba79ddc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27403,
+      "buildId": 513,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eb2b434d-6130-49bb-afc1-b3f266da0809.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:11.02442",
+      "materials": [
+        {
+          "name": "Acacia Fence",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:acacia_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a29b0153-61b3-4b3c-8d34-8e342ba79ddc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27404,
+      "buildId": 513,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10ac4425-c8ec-464e-987f-e2ad359f5dbb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:12.495766",
+      "materials": [
+        {
+          "name": "Acacia Fence",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:acacia_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a29b0153-61b3-4b3c-8d34-8e342ba79ddc.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27405,
+      "buildId": 513,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8674e3a-7e7a-497b-9b07-699183ee0a75.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T21:04:13.96179",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8c9e2e0-ed98-4910-9ae5-8e92daf05188.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/05a1e20d-1a4b-4b67-b1f4-a22380a76241.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e19b1db-4513-4588-89de-f4749e606007.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5131feac-a42b-4c36-b1b5-376439f19ab5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8d8838e0-fe4d-4107-b4ea-fc0b02a7253a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e371d141-3131-4292-a8c6-32f0fa3551ef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e578497f-eeeb-404c-ad7c-ad0eb1cd5306.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/443ba016-8f9b-4f95-8e9c-08ba4165b47a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9e9fbef8-5ac4-4e04-94d9-d05954e694ee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b6289c43-79a8-4952-80e7-22cd5c509cbf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/766c60f1-9521-4ee9-89c3-5bfacbee30fc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0be85fce-9055-42b3-a7bd-677813fd5804.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/895af4dc-19cf-48a1-ab04-e918f39420f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5a895bde-6ebb-4bdb-a873-184ab0464a09.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f87e3e7-ea44-40ea-a0ac-22d1e159c64d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76b350cb-0b48-4cba-8c57-2d55c6ed5e88.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/53c193fe-6a9d-4e96-a49f-8749f6a95806.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1083d785-d072-4745-8eb2-8895e84ebb4f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a500b872-2a46-41c8-b4ad-faec02886655.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/544b07c4-2779-45b2-8596-6f0e1475ee26.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f586cfe5-c148-42c9-a5a3-bd9cd4d7a258.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eb2b434d-6130-49bb-afc1-b3f266da0809.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10ac4425-c8ec-464e-987f-e2ad359f5dbb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8674e3a-7e7a-497b-9b07-699183ee0a75.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8674e3a-7e7a-497b-9b07-699183ee0a75.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8674e3a-7e7a-497b-9b07-699183ee0a75.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

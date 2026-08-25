@@ -1,0 +1,532 @@
+{
+  "id": 224,
+  "name": "Spear Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 7,
+  "styleName": "Medieval",
+  "style": "Medieval",
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 34,
+  "steps": 34,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b75294c9-d137-4e32-b9d9-6c3ba7176d57.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b75294c9-d137-4e32-b9d9-6c3ba7176d57.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d494e72a-ddb6-4e2c-aca4-1b11bc4b2187.webp",
+  "description": "A minecraft statue of a giant spear with a diamond tip, planted at an angle in a stone base. The wooden shaft leans like it was thrown and stuck. Wood, stone and a few blue blocks cover the cost. Set it at a spawn, arena or base entrance as a landmark.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-01-26T18:15:10.553531",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Planks",
+      "count": 13,
+      "quantity": 13,
+      "identifier": "minecraft:spruce_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/259cb642-15b9-479d-a6fb-e1be3b4e75a3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Spruce Wood",
+      "count": 24,
+      "quantity": 24,
+      "identifier": "minecraft:spruce_wood",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b3ad25ba-accf-447f-88bf-1f2393ad2c03.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:chiseled_stone_bricks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/eaa728d9-d3ab-4860-b582-d9e15ece1cee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite",
+      "count": 29,
+      "quantity": 29,
+      "identifier": "minecraft:polished_andesite",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/06a969ee-00be-49b5-97fc-77d4769c6d59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite Slab",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:polished_andesite_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5f4c66aa-26d4-4dd7-aa53-b81abaff7718.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Andesite Stairs",
+      "count": 36,
+      "quantity": 36,
+      "identifier": "minecraft:polished_andesite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/084b5880-a7a2-4810-a07f-0c00e13d0b10.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:light_blue_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d4159b83-4497-4629-92d3-a12510d153a7.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:light_blue_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1c1a663b-daad-4e5d-9e4d-0dde5dfff161.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Concrete",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:cyan_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5a3450ef-a222-455c-a906-0df5d291fd07.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Blue Concrete Powder",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:light_blue_concrete_powder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/92c7583d-01ef-48f6-8253-f144d54784fd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Wart Block",
+      "count": 17,
+      "quantity": 17,
+      "identifier": "minecraft:warped_wart_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ac3510d8-fd80-4371-98f9-0ed8298dcdc7.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 10995,
+      "buildId": 224,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed7bae49-37b5-4e36-bbac-e6d2285d54b7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:12.299229",
+      "materials": []
+    },
+    {
+      "id": 11001,
+      "buildId": 224,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1376acd1-cfba-4291-8bc0-ae066cb8d492.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:14.698134",
+      "materials": []
+    },
+    {
+      "id": 11010,
+      "buildId": 224,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ecb1a74-8313-47c7-87e9-ab5f538e7c3a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:17.67255",
+      "materials": []
+    },
+    {
+      "id": 11015,
+      "buildId": 224,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7e597aa-f364-4814-9d35-2d1353baddd2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:19.799843",
+      "materials": []
+    },
+    {
+      "id": 11025,
+      "buildId": 224,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00265bed-8c78-4a41-946c-1a157ad01536.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:23.149465",
+      "materials": []
+    },
+    {
+      "id": 11031,
+      "buildId": 224,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76c4932a-1cbb-46b7-bd26-919f4d7e5638.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:25.960039",
+      "materials": []
+    },
+    {
+      "id": 11034,
+      "buildId": 224,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7cc3c619-66fc-4147-ba60-c401509377e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:27.419311",
+      "materials": []
+    },
+    {
+      "id": 11039,
+      "buildId": 224,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21556820-e4c0-4aa3-afbc-3408b9736a02.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:28.806368",
+      "materials": []
+    },
+    {
+      "id": 11045,
+      "buildId": 224,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c8194e22-336c-46cf-acdc-ca7e5873d07b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:30.987872",
+      "materials": []
+    },
+    {
+      "id": 11051,
+      "buildId": 224,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc884bdb-7832-40e9-9781-aa86b9327568.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:33.216409",
+      "materials": []
+    },
+    {
+      "id": 11057,
+      "buildId": 224,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/391b8c74-4f80-4f14-adf0-1313a6e00d15.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:34.894971",
+      "materials": []
+    },
+    {
+      "id": 11064,
+      "buildId": 224,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e5205f89-6789-41fd-a970-c77e0efa0250.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:37.891501",
+      "materials": []
+    },
+    {
+      "id": 11071,
+      "buildId": 224,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/98c7f94f-3ea9-45db-870f-9192caf23317.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:39.881288",
+      "materials": []
+    },
+    {
+      "id": 11076,
+      "buildId": 224,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7448deae-ab6f-49ca-a388-21e9dc844508.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:41.502908",
+      "materials": []
+    },
+    {
+      "id": 11083,
+      "buildId": 224,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/374307ee-f49a-4a4e-92ee-e389392314ed.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:44.296739",
+      "materials": []
+    },
+    {
+      "id": 11086,
+      "buildId": 224,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcbcecd2-fd88-4e4e-92e3-69edc73a4e2c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:46.009088",
+      "materials": []
+    },
+    {
+      "id": 11095,
+      "buildId": 224,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26cf548f-3dc9-46be-af56-71c2c1f81c1a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:48.738587",
+      "materials": []
+    },
+    {
+      "id": 11100,
+      "buildId": 224,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc781559-2bcd-43f7-8acb-9fbc1b5fa3c3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:50.162939",
+      "materials": []
+    },
+    {
+      "id": 11106,
+      "buildId": 224,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7417a08-95b2-4dd4-b73b-dca73656dd31.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:52.975109",
+      "materials": []
+    },
+    {
+      "id": 11109,
+      "buildId": 224,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14cefd37-c69a-4ffe-b535-368c2e426915.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:54.3524",
+      "materials": []
+    },
+    {
+      "id": 11113,
+      "buildId": 224,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c320e26-3b9a-4d4a-a952-7ef4818a81df.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:56.118916",
+      "materials": []
+    },
+    {
+      "id": 11119,
+      "buildId": 224,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/794cdd35-7afe-42b9-8831-5b829645c879.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:15:58.266051",
+      "materials": []
+    },
+    {
+      "id": 11124,
+      "buildId": 224,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0798dd61-babf-4e9d-917a-ad1bae9c2538.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:00.120275",
+      "materials": []
+    },
+    {
+      "id": 11127,
+      "buildId": 224,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2c0436c6-aa8f-4378-a783-ad0d917aab8f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:02.177958",
+      "materials": []
+    },
+    {
+      "id": 11130,
+      "buildId": 224,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ad27692-562a-4d5a-b963-4ce3552e5199.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:03.911212",
+      "materials": []
+    },
+    {
+      "id": 11133,
+      "buildId": 224,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c0658a3-29a4-471d-8c08-be22118a46ac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:06.322404",
+      "materials": []
+    },
+    {
+      "id": 11134,
+      "buildId": 224,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc9340c8-4613-46d9-a51f-9e49ac249f63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:07.773192",
+      "materials": []
+    },
+    {
+      "id": 11137,
+      "buildId": 224,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3562e96a-f066-4026-b8f5-b80c0e1e77ab.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:10.009523",
+      "materials": []
+    },
+    {
+      "id": 11139,
+      "buildId": 224,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc3dc2ea-c821-4129-8935-d6349d39cd66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:12.101498",
+      "materials": []
+    },
+    {
+      "id": 11141,
+      "buildId": 224,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd3d91cd-effd-46d2-aa02-b588f29000bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:14.930614",
+      "materials": []
+    },
+    {
+      "id": 11143,
+      "buildId": 224,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af4926df-eb08-43bd-ace5-6bd38259f6e3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:16.333434",
+      "materials": []
+    },
+    {
+      "id": 11145,
+      "buildId": 224,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08de4251-cbc8-4def-8bc4-ded59ab046c9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:18.083944",
+      "materials": []
+    },
+    {
+      "id": 11146,
+      "buildId": 224,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9bc35bb8-1add-4aaf-a3d2-e609614966bf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:19.764534",
+      "materials": []
+    },
+    {
+      "id": 11148,
+      "buildId": 224,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d494e72a-ddb6-4e2c-aca4-1b11bc4b2187.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-01-26T18:16:21.194636",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ed7bae49-37b5-4e36-bbac-e6d2285d54b7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1376acd1-cfba-4291-8bc0-ae066cb8d492.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ecb1a74-8313-47c7-87e9-ab5f538e7c3a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f7e597aa-f364-4814-9d35-2d1353baddd2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00265bed-8c78-4a41-946c-1a157ad01536.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/76c4932a-1cbb-46b7-bd26-919f4d7e5638.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7cc3c619-66fc-4147-ba60-c401509377e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/21556820-e4c0-4aa3-afbc-3408b9736a02.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c8194e22-336c-46cf-acdc-ca7e5873d07b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc884bdb-7832-40e9-9781-aa86b9327568.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/391b8c74-4f80-4f14-adf0-1313a6e00d15.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e5205f89-6789-41fd-a970-c77e0efa0250.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/98c7f94f-3ea9-45db-870f-9192caf23317.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7448deae-ab6f-49ca-a388-21e9dc844508.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/374307ee-f49a-4a4e-92ee-e389392314ed.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fcbcecd2-fd88-4e4e-92e3-69edc73a4e2c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/26cf548f-3dc9-46be-af56-71c2c1f81c1a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc781559-2bcd-43f7-8acb-9fbc1b5fa3c3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7417a08-95b2-4dd4-b73b-dca73656dd31.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/14cefd37-c69a-4ffe-b535-368c2e426915.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c320e26-3b9a-4d4a-a952-7ef4818a81df.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/794cdd35-7afe-42b9-8831-5b829645c879.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0798dd61-babf-4e9d-917a-ad1bae9c2538.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2c0436c6-aa8f-4378-a783-ad0d917aab8f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ad27692-562a-4d5a-b963-4ce3552e5199.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4c0658a3-29a4-471d-8c08-be22118a46ac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc9340c8-4613-46d9-a51f-9e49ac249f63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3562e96a-f066-4026-b8f5-b80c0e1e77ab.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/dc3dc2ea-c821-4129-8935-d6349d39cd66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd3d91cd-effd-46d2-aa02-b588f29000bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/af4926df-eb08-43bd-ace5-6bd38259f6e3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/08de4251-cbc8-4def-8bc4-ded59ab046c9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9bc35bb8-1add-4aaf-a3d2-e609614966bf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d494e72a-ddb6-4e2c-aca4-1b11bc4b2187.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d494e72a-ddb6-4e2c-aca4-1b11bc4b2187.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d494e72a-ddb6-4e2c-aca4-1b11bc4b2187.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

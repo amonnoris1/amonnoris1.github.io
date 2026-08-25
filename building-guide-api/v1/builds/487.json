@@ -1,0 +1,279 @@
+{
+  "id": 487,
+  "name": "Grim Reaper",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 8,
+  "steps": 7,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/72e86bb1-d4d4-4ad3-81ac-d0419d4e68f6.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/72e86bb1-d4d4-4ad3-81ac-d0419d4e68f6.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c82715eb-9cae-4feb-b651-374c9e64c3a2.webp",
+  "description": "A small grim reaper minecraft statue in black concrete with a white skull face, holding a wooden scythe and a soul lantern. A trailing blackstone cloak spreads along the ground. Only a handful of blocks, built in minutes. Set it in a graveyard or Halloween build.",
+  "dimensions": {
+    "width": 8,
+    "height": 8,
+    "length": 9
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T20:52:23.428116",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Fence",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:spruce_fence",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Diorite Wall",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:diorite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone Slab",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:blackstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4723d795-5936-4514-935e-730f354efb95.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blackstone Wall",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:blackstone_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5f32d5c7-76cf-4065-8523-ad6696485966.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Banner",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:white_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Soul Lantern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:soul_lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/52cc41b9-31c8-44c2-896c-81e3b76fb9da.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 27007,
+      "buildId": 487,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0a11e996-4adc-4478-85b4-80e7222c4530.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:24.702047",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27008,
+      "buildId": 487,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd38b5eb-4a6e-4a24-b662-a448952e0840.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:25.737196",
+      "materials": [
+        {
+          "name": "Blackstone Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:blackstone_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5f32d5c7-76cf-4065-8523-ad6696485966.webp",
+          "type": "item"
+        },
+        {
+          "name": "Diorite Wall",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27009,
+      "buildId": 487,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81792cef-f2ae-49d2-a545-d7d50955aea2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:26.928407",
+      "materials": [
+        {
+          "name": "Spruce Fence",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:spruce_fence",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/d0969357-981b-44a6-b1ad-d6920a56660b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Soul Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:soul_lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/52cc41b9-31c8-44c2-896c-81e3b76fb9da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27010,
+      "buildId": 487,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/967a0fd9-ee31-44a2-8705-ab53c02168c7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:27.942973",
+      "materials": [
+        {
+          "name": "Diorite Wall",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:diorite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98fe42c1-6f0a-47ab-9718-e9813f442207.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27011,
+      "buildId": 487,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ee643b0-23ae-4772-8920-e79b3481e3b2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:30.168401",
+      "materials": [
+        {
+          "name": "Blackstone Slab",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:blackstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/4723d795-5936-4514-935e-730f354efb95.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27012,
+      "buildId": 487,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b77a9bd-dfa5-4a04-a488-08549aa4611f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:31.385989",
+      "materials": [
+        {
+          "name": "White Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27013,
+      "buildId": 487,
+      "sequenceOrder": 7,
+      "image": null,
+      "description": "Make a devil face design on a banner of your choice",
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:31.397421",
+      "materials": []
+    },
+    {
+      "id": 27014,
+      "buildId": 487,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c82715eb-9cae-4feb-b651-374c9e64c3a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:52:32.716067",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0a11e996-4adc-4478-85b4-80e7222c4530.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bd38b5eb-4a6e-4a24-b662-a448952e0840.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81792cef-f2ae-49d2-a545-d7d50955aea2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/967a0fd9-ee31-44a2-8705-ab53c02168c7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1ee643b0-23ae-4772-8920-e79b3481e3b2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4b77a9bd-dfa5-4a04-a488-08549aa4611f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c82715eb-9cae-4feb-b651-374c9e64c3a2.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c82715eb-9cae-4feb-b651-374c9e64c3a2.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c82715eb-9cae-4feb-b651-374c9e64c3a2.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

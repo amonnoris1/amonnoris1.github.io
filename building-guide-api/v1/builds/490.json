@@ -1,0 +1,277 @@
+{
+  "id": 490,
+  "name": "Warden Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 7,
+  "steps": 7,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1b853485-4d88-42b6-89f2-c0053f0d0e67.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/1b853485-4d88-42b6-89f2-c0053f0d0e67.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/859fbf86-9f65-40e0-9ccf-8653f21817d0.webp",
+  "description": "A small warden minecraft statue in sculk blocks with a glowing blue chest, white teeth, crimson wings and dangling roots below. Needs sculk and nether blocks, so a trip to the deep dark helps. Stand it at your base entrance or in a deep dark scene.",
+  "dimensions": {
+    "width": 5,
+    "height": 9,
+    "length": 7
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-04-07T20:53:02.484657",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Mangrove Trapdoor",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:mangrove_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e0ef5be-14bc-49ae-906f-11dccbd109c9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Weeping Vines",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:weeping_vines",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/90ef18c5-f3d7-4878-a0d3-10d1a1bf5795.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sculk Vein",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:sculk_vein",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b036a583-4003-415c-8444-4f8d729cb5bc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sculk Catalyst",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:sculk_catalyst",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ead3862f-282e-4aa1-b4bb-df596f4485e6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sculk",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:sculk",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/567c942b-d57a-4821-924b-8578c910367c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sculk Sensor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:sculk_sensor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165611cb-aaf1-43c1-b1a5-2f13420f66c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Wither Skeleton Skull",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:wither_skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lever",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:lever",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 27027,
+      "buildId": 490,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5819dd24-9be3-4d11-8cf6-336de131c509.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:03.707968",
+      "materials": [
+        {
+          "name": "Sculk",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:sculk",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/567c942b-d57a-4821-924b-8578c910367c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27028,
+      "buildId": 490,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d46b74d-03c6-4be7-823a-7a7da1d52665.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:04.643683",
+      "materials": [
+        {
+          "name": "Sculk Catalyst",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:sculk_catalyst",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/ead3862f-282e-4aa1-b4bb-df596f4485e6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Sculk Sensor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:sculk_sensor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/165611cb-aaf1-43c1-b1a5-2f13420f66c4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27029,
+      "buildId": 490,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7b4a2da-aecd-4ab3-959d-e2ea201ab737.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:06.301979",
+      "materials": [
+        {
+          "name": "Sculk Vein",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:sculk_vein",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b036a583-4003-415c-8444-4f8d729cb5bc.webp",
+          "type": "item"
+        },
+        {
+          "name": "Wither Skeleton Skull",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:wither_skeleton_skull",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b595c621-ed6e-41f7-9559-18a158b1982e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27030,
+      "buildId": 490,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65e296b6-f99c-4b39-9a1a-2e75bd73a5a6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:07.530822",
+      "materials": [
+        {
+          "name": "Lever",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:lever",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/902119bd-0058-45da-b845-91f0a9c37e2d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27031,
+      "buildId": 490,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6754aa1f-e06d-4c28-858e-e6e89b8e2314.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:08.679933",
+      "materials": [
+        {
+          "name": "Weeping Vines",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:weeping_vines",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/90ef18c5-f3d7-4878-a0d3-10d1a1bf5795.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27032,
+      "buildId": 490,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7fd5bcdc-9374-4696-a9f3-afab2ef886d6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:10.767518",
+      "materials": [
+        {
+          "name": "Mangrove Trapdoor",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:mangrove_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e0ef5be-14bc-49ae-906f-11dccbd109c9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 27033,
+      "buildId": 490,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/859fbf86-9f65-40e0-9ccf-8653f21817d0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-04-07T20:53:11.949996",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5819dd24-9be3-4d11-8cf6-336de131c509.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2d46b74d-03c6-4be7-823a-7a7da1d52665.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b7b4a2da-aecd-4ab3-959d-e2ea201ab737.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/65e296b6-f99c-4b39-9a1a-2e75bd73a5a6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6754aa1f-e06d-4c28-858e-e6e89b8e2314.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7fd5bcdc-9374-4696-a9f3-afab2ef886d6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/859fbf86-9f65-40e0-9ccf-8653f21817d0.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/859fbf86-9f65-40e0-9ccf-8653f21817d0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/859fbf86-9f65-40e0-9ccf-8653f21817d0.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

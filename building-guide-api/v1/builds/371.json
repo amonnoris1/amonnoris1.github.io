@@ -1,0 +1,92 @@
+{
+  "id": 371,
+  "name": "TNT Yeeter",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": null,
+  "styleName": null,
+  "style": null,
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 6,
+  "steps": 6,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/15668952-b931-4f70-acd5-13582e134bd4.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/15668952-b931-4f70-acd5-13582e134bd4.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78c5b8e8-e67d-4930-b0ff-a8c7532ae82a.webp",
+  "description": "A minecraft statue of a skeleton flying on a TNT block, arms spread wide along wooden planks. Small footprint, just a few blocks tall. TNT, bone-white blocks and wood are all it takes. A joke piece for your base entrance or spawn area.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:47:28.613909",
+  "updatedAt": "2026-08-17T21:50:13.959271",
+  "contentUpdatedAtEpochMs": 1787003413959,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Spruce Trapdoor",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:spruce_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/177a4173-89a3-4c1b-9692-db297277dec9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grindstone",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "Skeleton Skull",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:skeleton_skull",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fe958367-8c5d-45a3-aba9-7230cd0b8c83.webp",
+      "type": "item"
+    },
+    {
+      "name": "TNT",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:tnt",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/df69141a-f9bc-4126-aa9c-aaa5040af49c.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [],
+  "stepImages": [],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78c5b8e8-e67d-4930-b0ff-a8c7532ae82a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78c5b8e8-e67d-4930-b0ff-a8c7532ae82a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

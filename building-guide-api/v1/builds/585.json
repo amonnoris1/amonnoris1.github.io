@@ -1,0 +1,343 @@
+{
+  "id": 585,
+  "name": "Poke-ball",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 15,
+  "steps": 9,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c9826f76-f7a1-4795-a555-86f1acd9388a.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/c9826f76-f7a1-4795-a555-86f1acd9388a.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bed83ba2-a37a-4eec-961f-b178ef2be8f0.gif",
+  "description": "A small Poke-ball statue made from white and red blocks with a quartz button on the front. Just a handful of blocks, so it takes minutes to place. Use it as a garden prop or scatter a few around a Pokemon themed world.",
+  "dimensions": {
+    "width": 3,
+    "height": 3,
+    "length": 3
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:46:14.656485",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Red Nether Brick Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:red_nether_brick_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Block of Quartz",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:quartz_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/03b629cd-78b1-44f4-bb1d-7b3662e72b64.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stonecutter",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:stonecutter",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/830f2ff7-9926-425c-8f0b-d12be61e83dd.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Dispenser",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:dispenser",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6e9751f7-66d0-402e-b9ce-b19bb96cf9b3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Piston",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:piston",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Chestplate",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:iron_chestplate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a5053d5-cc00-49d5-acf0-08c590a32db5.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31845,
+      "buildId": 585,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/01337516-88b2-4c73-ad1b-21d4f5134139.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:16.237147",
+      "materials": [
+        {
+          "name": "Stonecutter",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stonecutter",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/830f2ff7-9926-425c-8f0b-d12be61e83dd.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31846,
+      "buildId": 585,
+      "sequenceOrder": 2,
+      "image": null,
+      "description": "Dig down one block and place the stonecutter.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:16.246098",
+      "materials": []
+    },
+    {
+      "id": 31847,
+      "buildId": 585,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2305d610-bdb1-41b2-9304-23a4d71db56c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:17.437921",
+      "materials": [
+        {
+          "name": "Dispenser",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dispenser",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6e9751f7-66d0-402e-b9ce-b19bb96cf9b3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31848,
+      "buildId": 585,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc37ccec-3025-4419-a434-0edf84ddcd64.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:18.971852",
+      "materials": [
+        {
+          "name": "Armor Stand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:armor_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31849,
+      "buildId": 585,
+      "sequenceOrder": 5,
+      "image": null,
+      "description": "Place the armor stand inside the dispenser.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:18.977534",
+      "materials": []
+    },
+    {
+      "id": 31850,
+      "buildId": 585,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ada82d5-e160-479c-b364-b96b18060e1b.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:20.3622",
+      "materials": []
+    },
+    {
+      "id": 31851,
+      "buildId": 585,
+      "sequenceOrder": 7,
+      "image": null,
+      "description": "Place a redstone block next to the dispenser, and when the armor stand is over the stonecutter, break the dispenser and redstone block.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:20.365673",
+      "materials": []
+    },
+    {
+      "id": 31852,
+      "buildId": 585,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c204f6bc-3c72-4f96-bfb1-88ae7f07f2d7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:21.526294",
+      "materials": [
+        {
+          "name": "Iron Chestplate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:iron_chestplate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9a5053d5-cc00-49d5-acf0-08c590a32db5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31853,
+      "buildId": 585,
+      "sequenceOrder": 9,
+      "image": null,
+      "description": "Place the iron chestplate on the armor stand.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:21.534405",
+      "materials": []
+    },
+    {
+      "id": 31854,
+      "buildId": 585,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71634608-ce66-4528-9ed1-6d6f2e6ad357.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:23.749237",
+      "materials": [
+        {
+          "name": "Piston",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:piston",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/26a9e67f-92ca-4f3a-9241-746749c1e343.webp",
+          "type": "item"
+        },
+        {
+          "name": "Block of Quartz",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:quartz_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/03b629cd-78b1-44f4-bb1d-7b3662e72b64.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31855,
+      "buildId": 585,
+      "sequenceOrder": 11,
+      "image": null,
+      "description": "Place the block of quartz on the upper part of the armor stand and attach the upper piston to it.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:23.759851",
+      "materials": []
+    },
+    {
+      "id": 31856,
+      "buildId": 585,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1424cc25-e30b-494c-b38b-01aec37c1a84.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:26.309482",
+      "materials": []
+    },
+    {
+      "id": 31857,
+      "buildId": 585,
+      "sequenceOrder": 13,
+      "image": null,
+      "description": "Follow the same steps.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:26.317005",
+      "materials": []
+    },
+    {
+      "id": 31858,
+      "buildId": 585,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/856f5785-58b4-4372-8fdb-db362e447fac.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:27.802461",
+      "materials": [
+        {
+          "name": "Red Nether Brick Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:red_nether_brick_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/857d8e35-748e-4cdf-bb90-ad4ba5c1408d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31859,
+      "buildId": 585,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bed83ba2-a37a-4eec-961f-b178ef2be8f0.gif",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:46:29.039376",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/01337516-88b2-4c73-ad1b-21d4f5134139.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2305d610-bdb1-41b2-9304-23a4d71db56c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bc37ccec-3025-4419-a434-0edf84ddcd64.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0ada82d5-e160-479c-b364-b96b18060e1b.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c204f6bc-3c72-4f96-bfb1-88ae7f07f2d7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71634608-ce66-4528-9ed1-6d6f2e6ad357.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1424cc25-e30b-494c-b38b-01aec37c1a84.gif",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/856f5785-58b4-4372-8fdb-db362e447fac.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bed83ba2-a37a-4eec-961f-b178ef2be8f0.gif"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bed83ba2-a37a-4eec-961f-b178ef2be8f0.gif",
+      "type": "gif",
+      "format": "gif",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bed83ba2-a37a-4eec-961f-b178ef2be8f0.gif",
+      "type": "gif",
+      "format": "gif",
+      "sequenceOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,4494 @@
+{
+  "id": 649,
+  "name": "Giant Wither Statue House",
+  "categoryId": 8,
+  "categoryName": "House",
+  "category": "House",
+  "categories": [
+    {
+      "id": 8,
+      "name": "House",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/98e38fb3-8c51-43d9-896e-24ded15ae93e.webp"
+    },
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "House",
+    "Statue"
+  ],
+  "styleId": 4,
+  "styleName": "Fantasy",
+  "style": "Fantasy",
+  "tags": [
+    {
+      "id": 6,
+      "name": "Big"
+    }
+  ],
+  "difficulty": 3,
+  "buildSteps": 201,
+  "steps": 199,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/93cc7293-e37c-43ad-9fef-823e87cf699d.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/93cc7293-e37c-43ad-9fef-823e87cf699d.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/6e553f36-df74-4f45-99d8-d5a66709168e.webp",
+  "description": "A minecraft statue of the Wither, built big in blackstone with three white-eyed heads and a ribbed spine you can enter. A ladder runs up inside the body. Dark blocks make up most of the cost. A landmark piece for a base entrance or boss-themed area.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-06T15:28:30.526123",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Dark Oak Door",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:dark_oak_door",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Trapdoor",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:warped_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Wall",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:andesite_wall",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Stairs",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:andesite_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+      "type": "item"
+    },
+    {
+      "name": "Andesite Slab",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:andesite_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Stairs",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b8f556a-0f87-4a6a-a979-88500fbc8d92.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chain",
+      "count": 5,
+      "quantity": 5,
+      "identifier": "minecraft:chain",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Slab",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:smooth_quartz_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Wool",
+      "count": 117,
+      "quantity": 117,
+      "identifier": "minecraft:gray_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Carpet",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:red_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+      "type": "item"
+    },
+    {
+      "name": "Light Gray Carpet",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:light_gray_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a7242f-af4b-4827-bd5e-249d95adefe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Carpet",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_carpet",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f46c201a-f7ab-49cc-a7da-fef64a8a8c8e.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Concrete",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:white_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Terracotta",
+      "count": 40,
+      "quantity": 40,
+      "identifier": "minecraft:cyan_terracotta",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Concrete",
+      "count": 626,
+      "quantity": 626,
+      "identifier": "minecraft:black_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Concrete",
+      "count": 92,
+      "quantity": 92,
+      "identifier": "minecraft:gray_concrete",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Stained Glass",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:white_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/36d65899-fa59-432b-868f-5e0e09aeb420.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Stained Glass",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:gray_stained_glass",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/872e175a-387a-4fb5-adb1-61978edd87fb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glass Pane",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:glass_pane",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Shulker Box",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:white_shulker_box",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/31387ee1-dd62-4010-8c33-c8e5107f7ea5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Bed",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_bed",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f67e8cdf-e312-470d-add6-f6eefc7f9480.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Candle",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:gray_candle",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2f715864-eed0-4ced-bbd7-891f759901f0.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Banner",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:white_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mud",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:mud",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2025257b-0a39-472d-94b7-c5cf24afe86f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Moss Block",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:moss_block",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/93264363-1cb0-4309-8a71-1945f712187d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glowstone",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:glowstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Roots",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:mangrove_roots",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e28f073d-c6c3-45bb-9699-113a7593794d.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flowering Azalea",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:flowering_azalea",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/86125c0b-c676-4b14-a773-8adf962fb76a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Twisting Vines",
+      "count": 7,
+      "quantity": 7,
+      "identifier": "minecraft:twisting_vines",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20fdcacd-37cb-4d00-a24e-8724fbeb1d8b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Vines",
+      "count": 14,
+      "quantity": 14,
+      "identifier": "minecraft:vine",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b70461aa-44d7-4c1b-95c0-bef3e72d946c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Sweet Berries",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:sweet_berries",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0d6a214b-f4d7-4c07-98e9-c7afbd013b97.webp",
+      "type": "item"
+    },
+    {
+      "name": "Lantern",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:lantern",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+      "type": "item"
+    },
+    {
+      "name": "Crafting Table",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:crafting_table",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+      "type": "item"
+    },
+    {
+      "name": "Grindstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:grindstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+      "type": "item"
+    },
+    {
+      "name": "End Rod",
+      "count": 12,
+      "quantity": 12,
+      "identifier": "minecraft:end_rod",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+      "type": "item"
+    },
+    {
+      "name": "Furnace",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blast Furnace",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:blast_furnace",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+      "type": "item"
+    },
+    {
+      "name": "Anvil",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:anvil",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+      "type": "item"
+    },
+    {
+      "name": "Brewing Stand",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:brewing_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a476200c-b2d2-4747-a4c3-468b3d40c4f1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Ladder",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:ladder",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Flower Pot",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:flower_pot",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+      "type": "item"
+    },
+    {
+      "name": "Armor Stand",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:armor_stand",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Painting",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:painting",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e1c2943-de40-411b-8cdb-56eeb54f84c9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Chiseled Bookshelf",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:chiseled_bookshelf",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e78ba5f-3dcd-4f51-84e9-c2c2a253a65a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Pale Oak Trapdoor",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:pale_oak_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 33067,
+      "buildId": 649,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/869afeff-33a0-49f2-acd2-9b17c7008678.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:31.401207",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33068,
+      "buildId": 649,
+      "sequenceOrder": 2,
+      "image": null,
+      "description": "Randomly place blocks at a height of 15 to 20 blocks",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:31.415088",
+      "materials": []
+    },
+    {
+      "id": 33069,
+      "buildId": 649,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d55f5471-3c06-4d9f-ae78-8ef267a365e7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:32.275195",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33070,
+      "buildId": 649,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4e7b32c-4a40-4e7f-8c1e-33ce87011642.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:33.069187",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33071,
+      "buildId": 649,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b95e83c-05a4-455a-8c80-f2aea663a0a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:33.885297",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33072,
+      "buildId": 649,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/766d19c5-f456-4431-ad2e-cdb4266e1c63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:34.797006",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33073,
+      "buildId": 649,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2ab615c-6d4b-45b2-95b0-9a4df256dcf7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:35.563964",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33074,
+      "buildId": 649,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d6517da3-6286-4251-b3a0-6580a1b0ce8b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:36.387401",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33075,
+      "buildId": 649,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e29e8ab8-9d8b-4870-9276-e3276aeb1430.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:37.225507",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33076,
+      "buildId": 649,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cef0ec6d-e731-42dc-8f9a-3f451f86bffc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:38.056954",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33077,
+      "buildId": 649,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0c0ad440-761a-4543-ae15-e86cca7ad4de.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:38.844772",
+      "materials": [
+        {
+          "name": "Gray Stained Glass",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_stained_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/872e175a-387a-4fb5-adb1-61978edd87fb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33078,
+      "buildId": 649,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1b8a601-d236-46c9-a7eb-e2181d92c8c4.webp",
+      "description": "Come to the back side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:28:39.71412",
+      "materials": []
+    },
+    {
+      "id": 33079,
+      "buildId": 649,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea5b2693-2a34-48ad-94f3-6cae5e57f8a8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:40.898517",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 18,
+          "quantity": 18,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33080,
+      "buildId": 649,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67fd7c91-1d6b-4095-a450-5e9c44ca19cf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:41.681403",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33081,
+      "buildId": 649,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d9c3c2f-2f2b-4afc-96f7-06da1666cf9a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:43.989166",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33082,
+      "buildId": 649,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81644ca3-eea0-4a80-a3a9-a80640b1cc1e.webp",
+      "description": "Come to the bottom side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:28:44.756679",
+      "materials": []
+    },
+    {
+      "id": 33083,
+      "buildId": 649,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/463e24c1-bdc8-443b-a249-ed2410587ad6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:45.567517",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33084,
+      "buildId": 649,
+      "sequenceOrder": 18,
+      "image": null,
+      "description": "Skip one block and place the block like this",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:45.574168",
+      "materials": []
+    },
+    {
+      "id": 33085,
+      "buildId": 649,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/97c00335-90c5-43e0-9749-8805758a96c9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:46.408512",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33086,
+      "buildId": 649,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7099c673-2744-4aeb-b693-42447a8ded02.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:47.211127",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33087,
+      "buildId": 649,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/977a2bc9-273e-4bb8-b689-9822d69f13e5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:47.996225",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33088,
+      "buildId": 649,
+      "sequenceOrder": 22,
+      "image": null,
+      "description": "Do the same on the other side as well",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:48.002935",
+      "materials": []
+    },
+    {
+      "id": 33089,
+      "buildId": 649,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4421594c-e635-4d04-a90f-3d405462708f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:48.787903",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33090,
+      "buildId": 649,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee0948db-4bbb-4aa6-9b72-ef88750deb2f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:49.605124",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33091,
+      "buildId": 649,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5b49d17d-3ed5-445f-a531-bf513b32b033.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:50.412481",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33092,
+      "buildId": 649,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c29eafcb-b603-453b-a61b-c03c0bbc9857.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:52.223628",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33093,
+      "buildId": 649,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2b9b85-14b9-4e83-a414-3ddf315aea12.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:53.013015",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33094,
+      "buildId": 649,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d2ed20a4-0f59-4dda-be34-db0815ff1822.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:53.846086",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33095,
+      "buildId": 649,
+      "sequenceOrder": 29,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0345b4b6-2b8b-4673-8c4f-3266581955e6.webp",
+      "description": "Come to the front side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:28:54.639513",
+      "materials": []
+    },
+    {
+      "id": 33096,
+      "buildId": 649,
+      "sequenceOrder": 30,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/037b544d-80d4-4f41-bdb8-bd98b568f975.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:55.405183",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33097,
+      "buildId": 649,
+      "sequenceOrder": 31,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12b89292-0b1c-4a14-b067-cdfc9cf78e08.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:56.143919",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33098,
+      "buildId": 649,
+      "sequenceOrder": 32,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/795ac4c6-7d9a-4c40-b468-527518041dd4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:56.976958",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33099,
+      "buildId": 649,
+      "sequenceOrder": 33,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5f7e8462-698f-4b43-9d85-b46572241f6c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:57.720246",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33100,
+      "buildId": 649,
+      "sequenceOrder": 34,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d644cd17-ede7-4023-b506-b607aab62235.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:58.481175",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33101,
+      "buildId": 649,
+      "sequenceOrder": 35,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02078218-2070-4315-a361-ec967ffa2e45.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:28:59.232218",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33102,
+      "buildId": 649,
+      "sequenceOrder": 36,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ae890492-c5e3-48e9-ad74-bae504b5db09.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:00.005469",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33103,
+      "buildId": 649,
+      "sequenceOrder": 37,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e86de770-d4a8-48aa-bbd4-240e1795fb27.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:00.765057",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33104,
+      "buildId": 649,
+      "sequenceOrder": 38,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ff748fc-350d-4f26-9427-3a07692209e7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:01.513466",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33105,
+      "buildId": 649,
+      "sequenceOrder": 39,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71635b5f-873f-4435-876e-6cacc9181767.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:02.386264",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33106,
+      "buildId": 649,
+      "sequenceOrder": 40,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/465f2f4c-9d40-4e57-bafa-0559b77f2817.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:03.161057",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33107,
+      "buildId": 649,
+      "sequenceOrder": 41,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b31cb361-8d82-437f-83b2-d20769c82089.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:03.936981",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33108,
+      "buildId": 649,
+      "sequenceOrder": 42,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/60786ab4-5a21-4db7-b600-d8f3b69fb278.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:04.787213",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33109,
+      "buildId": 649,
+      "sequenceOrder": 43,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/869dffa9-57e1-40e4-bb47-e6df66ea663e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:05.768146",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33110,
+      "buildId": 649,
+      "sequenceOrder": 44,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c310eb41-a8b0-41bf-a716-b9f143db32a0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:06.616743",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33111,
+      "buildId": 649,
+      "sequenceOrder": 45,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/97faa5dc-0a8d-4119-9e45-f30c9d8429c3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:07.415501",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33112,
+      "buildId": 649,
+      "sequenceOrder": 46,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1deb42bc-2977-4998-ae8a-39b51c36af6b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:08.226315",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33113,
+      "buildId": 649,
+      "sequenceOrder": 47,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f5cc8121-3d0a-4c5c-ba5e-202ff33243c8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:09.009238",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33114,
+      "buildId": 649,
+      "sequenceOrder": 48,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ffc4ff8d-1a95-43b4-866c-99959a664389.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:09.755189",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33115,
+      "buildId": 649,
+      "sequenceOrder": 49,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09397cea-8eb0-430e-9df7-dbed340ccfdd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:10.543586",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33116,
+      "buildId": 649,
+      "sequenceOrder": 50,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b12ea95-6bf1-4222-b284-2a3bd588b1fe.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:11.332649",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33117,
+      "buildId": 649,
+      "sequenceOrder": 51,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b2d9e1e-388b-4ea9-b039-e64f9ce7ea6a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:12.328349",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33118,
+      "buildId": 649,
+      "sequenceOrder": 52,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43b96ee3-88a3-479c-be20-b00f40edd5c0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:13.15249",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33119,
+      "buildId": 649,
+      "sequenceOrder": 53,
+      "image": null,
+      "description": "Repeat the same process on the other side too.",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:13.158445",
+      "materials": []
+    },
+    {
+      "id": 33120,
+      "buildId": 649,
+      "sequenceOrder": 54,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cebe005-b9e3-448d-a018-ab5882cbac33.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:13.994249",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33121,
+      "buildId": 649,
+      "sequenceOrder": 55,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34bfb669-e870-4dd4-8ffd-223cd329d034.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:14.765239",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33122,
+      "buildId": 649,
+      "sequenceOrder": 56,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6dcd6832-fe62-4f32-9896-c5b12f226501.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:15.563177",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33123,
+      "buildId": 649,
+      "sequenceOrder": 57,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d30d6bf5-8284-46a4-ab2d-1ab8269996c4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:16.815066",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33124,
+      "buildId": 649,
+      "sequenceOrder": 58,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8de3a50-070b-4197-9446-6d0016285db8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:17.634623",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33125,
+      "buildId": 649,
+      "sequenceOrder": 59,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fa7de031-8a50-426e-bd7c-6ec4fc6714eb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:18.433773",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33126,
+      "buildId": 649,
+      "sequenceOrder": 60,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc77d73d-f39b-49b9-9324-2f4af5a27c96.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:19.281498",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33127,
+      "buildId": 649,
+      "sequenceOrder": 61,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c71ad568-f5c5-46a5-a8e7-c087a1bf1401.webp",
+      "description": "Come to the front side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:29:20.09048",
+      "materials": []
+    },
+    {
+      "id": 33128,
+      "buildId": 649,
+      "sequenceOrder": 62,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f428972a-c228-4904-b711-3d0d93e8a584.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:21.661212",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33129,
+      "buildId": 649,
+      "sequenceOrder": 63,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/491dc0e4-6311-4ed8-93ab-e86bd5694955.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:22.540639",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33130,
+      "buildId": 649,
+      "sequenceOrder": 64,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48677698-b817-4b71-adc8-7b8620c3dcae.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:23.302779",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33131,
+      "buildId": 649,
+      "sequenceOrder": 65,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ebf91c23-a732-4259-8f0f-24ec773efb6b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:24.078094",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33132,
+      "buildId": 649,
+      "sequenceOrder": 66,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13ed85d0-4809-4107-b736-52df7be813e2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:24.831134",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33133,
+      "buildId": 649,
+      "sequenceOrder": 67,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0408954-2868-4a5e-8d98-dec10261da8f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:25.646141",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33134,
+      "buildId": 649,
+      "sequenceOrder": 68,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c2dc809a-6e94-49fb-bae3-d102062e7179.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:26.729197",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33135,
+      "buildId": 649,
+      "sequenceOrder": 69,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0aa68f58-af8e-4b02-9e89-2343db8cab15.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:27.528696",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33136,
+      "buildId": 649,
+      "sequenceOrder": 70,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e2173ea-b6dc-4c61-9474-cdfec73668a3.webp",
+      "description": "Come to the back side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:29:28.306013",
+      "materials": []
+    },
+    {
+      "id": 33137,
+      "buildId": 649,
+      "sequenceOrder": 71,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3519c68-6d62-47ec-b1b6-c35583a1d0e3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:29.212416",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 30,
+          "quantity": 30,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33138,
+      "buildId": 649,
+      "sequenceOrder": 72,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0cc571e9-670a-4c85-b3b7-cd2f459cd356.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:30.660305",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 30,
+          "quantity": 30,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33139,
+      "buildId": 649,
+      "sequenceOrder": 73,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00c74fa1-eb23-4e51-97f6-f8e569c7f603.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:31.647646",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33140,
+      "buildId": 649,
+      "sequenceOrder": 74,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ebbe59e-d7c3-4665-b824-da5606fd5024.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:32.423445",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33141,
+      "buildId": 649,
+      "sequenceOrder": 75,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67172445-b10f-40c2-b8e1-49c2a08ec744.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:33.202779",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33142,
+      "buildId": 649,
+      "sequenceOrder": 76,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/429cb8c9-846e-40c2-bba4-7a5b7918c1f1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:33.987263",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33143,
+      "buildId": 649,
+      "sequenceOrder": 77,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70d48fad-8f70-493b-9ebb-1aa1d8ddce70.webp",
+      "description": "Come to the top",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:29:34.767973",
+      "materials": []
+    },
+    {
+      "id": 33144,
+      "buildId": 649,
+      "sequenceOrder": 78,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0d35396b-5718-411e-af8c-5dee65045f6f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:35.562646",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33145,
+      "buildId": 649,
+      "sequenceOrder": 79,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c901a53-3553-4632-84b7-fad162469c02.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:36.4557",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33146,
+      "buildId": 649,
+      "sequenceOrder": 80,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1c6274b-341a-44d1-ab9e-cb9174b161da.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:37.237889",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33147,
+      "buildId": 649,
+      "sequenceOrder": 81,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be09edc7-a772-4de1-bdb5-4dcdc4138073.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:37.999917",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33148,
+      "buildId": 649,
+      "sequenceOrder": 82,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1f375666-170c-42fe-867f-e6e0be400619.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:38.789596",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33149,
+      "buildId": 649,
+      "sequenceOrder": 83,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0da49121-38b5-402f-8f2a-6d7e65b89216.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:39.595971",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 18,
+          "quantity": 18,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33150,
+      "buildId": 649,
+      "sequenceOrder": 84,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9507aa74-1916-47b1-8799-d5d0c394f864.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:40.393688",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33151,
+      "buildId": 649,
+      "sequenceOrder": 85,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b33180ee-af53-44f6-a670-16029e177e5f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:41.200612",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33152,
+      "buildId": 649,
+      "sequenceOrder": 86,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/716092f7-46df-4d4c-8927-ffde08f7bd8a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:42.17219",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33153,
+      "buildId": 649,
+      "sequenceOrder": 87,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3aac103-bdce-465f-8990-1191f01e0f80.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:42.969955",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33154,
+      "buildId": 649,
+      "sequenceOrder": 88,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d31ba5f-7d68-4013-ad58-1f1b0a1c2a2d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:43.869963",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33155,
+      "buildId": 649,
+      "sequenceOrder": 89,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b06237dd-9984-43e1-9170-5a3a1b938427.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:44.861437",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33156,
+      "buildId": 649,
+      "sequenceOrder": 90,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/468c4247-79ac-44d7-b934-232231cec2a7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:46.151363",
+      "materials": [
+        {
+          "name": "White Stained Glass",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_stained_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/36d65899-fa59-432b-868f-5e0e09aeb420.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33157,
+      "buildId": 649,
+      "sequenceOrder": 91,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b46d6814-0f34-4adb-93ce-daf57fb3d343.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:46.989053",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33158,
+      "buildId": 649,
+      "sequenceOrder": 92,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a380c25-85f5-4a7f-a7e7-df8ae8e97fa5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:47.760948",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33159,
+      "buildId": 649,
+      "sequenceOrder": 93,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22713e7d-f09d-4424-9e9f-8ceca8a720f6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:48.76469",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33160,
+      "buildId": 649,
+      "sequenceOrder": 94,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e5b253b7-2df4-419d-8f15-a9305f5a7cfd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:49.51401",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33161,
+      "buildId": 649,
+      "sequenceOrder": 95,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7139ab23-da4f-4b43-82fe-4cbdba1cb129.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:51.482766",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33162,
+      "buildId": 649,
+      "sequenceOrder": 96,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a7229d74-469c-4a0c-a5a9-a629efa2fa04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:52.257081",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 14,
+          "quantity": 14,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33163,
+      "buildId": 649,
+      "sequenceOrder": 97,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8cc33543-24c4-46a6-b13f-c7f87c565ef3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:53.062018",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33164,
+      "buildId": 649,
+      "sequenceOrder": 98,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/724c1c2d-e264-4f09-9e39-88e4bd16197b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:53.865052",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 42,
+          "quantity": 42,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33165,
+      "buildId": 649,
+      "sequenceOrder": 99,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9214adeb-e053-496e-a83f-4cdd41da57ee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:54.660947",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33166,
+      "buildId": 649,
+      "sequenceOrder": 100,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/927d92f3-992e-4053-a8f5-075d47d00ecb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:55.454842",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 42,
+          "quantity": 42,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33167,
+      "buildId": 649,
+      "sequenceOrder": 101,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da30dae6-1741-4a1f-8434-d76cf210f8a7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:56.540877",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33168,
+      "buildId": 649,
+      "sequenceOrder": 102,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8862640d-a217-432c-9a63-50d84619dac7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:57.309845",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 36,
+          "quantity": 36,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33169,
+      "buildId": 649,
+      "sequenceOrder": 103,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef5e7e41-bbac-4d23-ac7c-1d7013482dbd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:58.064299",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33170,
+      "buildId": 649,
+      "sequenceOrder": 104,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce5cecbd-c857-4c3e-9d3a-64c275e5e80f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:58.954727",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 20,
+          "quantity": 20,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33171,
+      "buildId": 649,
+      "sequenceOrder": 105,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/543bb026-abd6-4877-8a76-2b4111fd694d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:29:59.727007",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33172,
+      "buildId": 649,
+      "sequenceOrder": 106,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9334ca32-f0fc-446b-8d9f-9eef9bb63e33.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:00.532217",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33173,
+      "buildId": 649,
+      "sequenceOrder": 107,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba169ebe-747a-4424-9b45-bf3a5b624be9.webp",
+      "description": "Come this way",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:30:01.586164",
+      "materials": []
+    },
+    {
+      "id": 33174,
+      "buildId": 649,
+      "sequenceOrder": 108,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ea9bc9a-74e2-4606-bc20-791f780c33be.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:02.418013",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33175,
+      "buildId": 649,
+      "sequenceOrder": 109,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df7e2706-ad3c-4b8b-a7e5-298368f63c5c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:03.394046",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33176,
+      "buildId": 649,
+      "sequenceOrder": 110,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5774a561-c4a8-4973-8831-09ac61839053.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:04.402205",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33177,
+      "buildId": 649,
+      "sequenceOrder": 111,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f213ef47-9adb-4c01-b839-001124d22b35.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:05.195274",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33178,
+      "buildId": 649,
+      "sequenceOrder": 112,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e7e5bbe-f78c-4ca5-9aa4-244f858f49bb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:06.006587",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33179,
+      "buildId": 649,
+      "sequenceOrder": 113,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f5843c6-0437-40dc-86ef-eaba0f0a3126.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:06.944593",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33180,
+      "buildId": 649,
+      "sequenceOrder": 114,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1f46477b-5400-45f1-acd4-75f08b93ff2a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:07.700393",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33181,
+      "buildId": 649,
+      "sequenceOrder": 115,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0df27126-b689-41f7-b509-7104fb594c3e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:08.487045",
+      "materials": [
+        {
+          "name": "White Stained Glass",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_stained_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/36d65899-fa59-432b-868f-5e0e09aeb420.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33182,
+      "buildId": 649,
+      "sequenceOrder": 116,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/073426cd-a965-4d26-b03b-f89188604878.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:09.244437",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33183,
+      "buildId": 649,
+      "sequenceOrder": 117,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee4b10cd-277c-44c1-966a-254f05cc4983.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:10.104642",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33184,
+      "buildId": 649,
+      "sequenceOrder": 118,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a225c7e9-1ce2-46a9-8703-2c0583db6720.webp",
+      "description": "Come to this side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:30:10.929586",
+      "materials": []
+    },
+    {
+      "id": 33185,
+      "buildId": 649,
+      "sequenceOrder": 119,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a8015871-7a09-40cb-9d43-c4672adfca8e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:11.799654",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Gray Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33186,
+      "buildId": 649,
+      "sequenceOrder": 120,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ccf1646e-5666-463f-a460-5118291fc43d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:12.685474",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33187,
+      "buildId": 649,
+      "sequenceOrder": 121,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3a52da5d-bcd1-4446-827e-70d122d26be8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:13.527736",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 20,
+          "quantity": 20,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33188,
+      "buildId": 649,
+      "sequenceOrder": 122,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3e1d2d91-cd26-4651-8e0f-f30149ee661a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:14.766506",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 20,
+          "quantity": 20,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33189,
+      "buildId": 649,
+      "sequenceOrder": 123,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/952a6246-7d0c-46c5-8d73-b11a7b990080.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:15.534947",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33190,
+      "buildId": 649,
+      "sequenceOrder": 124,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b76a2dd3-cfd8-4968-b732-2771d6b47fae.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:16.517577",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33191,
+      "buildId": 649,
+      "sequenceOrder": 125,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a2218655-8fc8-43f8-b7ef-21239ea1f97e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:17.304598",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33192,
+      "buildId": 649,
+      "sequenceOrder": 126,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b11fc4ee-e13c-4af6-9d72-59b93685ffc2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:18.149583",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33193,
+      "buildId": 649,
+      "sequenceOrder": 127,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/555c47d9-ac18-4ba2-bcee-8ba506d65cbc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:18.926848",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33194,
+      "buildId": 649,
+      "sequenceOrder": 128,
+      "image": null,
+      "description": "Make the same Wither head on the other side",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:18.937222",
+      "materials": []
+    },
+    {
+      "id": 33195,
+      "buildId": 649,
+      "sequenceOrder": 129,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8e3b1e98-37ab-46fb-9bdc-f2d98374b249.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:19.795251",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33196,
+      "buildId": 649,
+      "sequenceOrder": 130,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/720fce7d-7d55-41cd-9710-d6466465b3bd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:20.769575",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33197,
+      "buildId": 649,
+      "sequenceOrder": 131,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/202cc7d8-0825-4d3d-8851-56960aefe178.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:22.227691",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33198,
+      "buildId": 649,
+      "sequenceOrder": 132,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5cf5a33-aeb9-4ddb-9d01-814c3906c8a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:23.062537",
+      "materials": [
+        {
+          "name": "Cyan Terracotta",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:cyan_terracotta",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/72028c67-9cc4-4a57-90ca-64017424201a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Gray Concrete",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33199,
+      "buildId": 649,
+      "sequenceOrder": 133,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c241b1f7-d9a5-498e-b956-d1e2f3af8399.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:23.864904",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33200,
+      "buildId": 649,
+      "sequenceOrder": 134,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b01aaab9-6258-4c3e-a395-301af1bfc2ab.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:24.70325",
+      "materials": [
+        {
+          "name": "White Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fb0902d6-bcd3-41e0-932f-503e34298bf9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33201,
+      "buildId": 649,
+      "sequenceOrder": 135,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07eb1bc5-bbe3-4a9f-9f3c-6a02264b8a72.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:25.485453",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33202,
+      "buildId": 649,
+      "sequenceOrder": 136,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da44b3d3-ec08-4866-aba7-a734699cfbba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:26.300613",
+      "materials": [
+        {
+          "name": "White Stained Glass",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_stained_glass",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/36d65899-fa59-432b-868f-5e0e09aeb420.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33203,
+      "buildId": 649,
+      "sequenceOrder": 137,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/799002e6-45d1-4552-adf2-2f35dbd58daa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:27.713812",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33204,
+      "buildId": 649,
+      "sequenceOrder": 138,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd3cfc4f-da07-4d6e-924c-e3b52b6d6aa7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:28.523597",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33205,
+      "buildId": 649,
+      "sequenceOrder": 139,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6923ddd-04d6-4af9-a75f-a110e748845e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:29.835715",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33206,
+      "buildId": 649,
+      "sequenceOrder": 140,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4187908c-8a76-496a-818b-436fd0aee354.webp",
+      "description": "Come to the back side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:30:30.818409",
+      "materials": []
+    },
+    {
+      "id": 33207,
+      "buildId": 649,
+      "sequenceOrder": 141,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5391aed9-9eb7-4ca6-97f7-d75a098e4976.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:31.64676",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33208,
+      "buildId": 649,
+      "sequenceOrder": 142,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10c58677-92cb-44a1-88b6-d2570e48ca5b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:32.445387",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 20,
+          "quantity": 20,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33209,
+      "buildId": 649,
+      "sequenceOrder": 143,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7816239b-e77b-4b2d-9936-41b03efcf355.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:33.198978",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 20,
+          "quantity": 20,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33210,
+      "buildId": 649,
+      "sequenceOrder": 144,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75b37ca2-6a9b-4670-ad5b-968ca355dc9b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:33.955765",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33211,
+      "buildId": 649,
+      "sequenceOrder": 145,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3422f4e1-6b81-4085-b9a7-51ea1d96fba1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:34.770325",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33212,
+      "buildId": 649,
+      "sequenceOrder": 146,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a8c4e2f0-c9aa-430c-b95f-df1c12b5f756.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:35.844811",
+      "materials": [
+        {
+          "name": "Gray Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:gray_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f41f9de-7115-4132-8d02-8edfa94a0545.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33213,
+      "buildId": 649,
+      "sequenceOrder": 147,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64ba7709-2eba-4559-8956-cf4947971711.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:36.587529",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33214,
+      "buildId": 649,
+      "sequenceOrder": 148,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f59d0238-3bc0-46a2-ac81-f3835946e88c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:37.398586",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33215,
+      "buildId": 649,
+      "sequenceOrder": 149,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40013f59-2220-4864-9ad3-6bb6273cf1ad.webp",
+      "description": "Come to the back side",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:30:38.195193",
+      "materials": []
+    },
+    {
+      "id": 33216,
+      "buildId": 649,
+      "sequenceOrder": 150,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d729edd-5eca-41db-9961-97a3030c4ca2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:39.006172",
+      "materials": [
+        {
+          "name": "Vines",
+          "count": 14,
+          "quantity": 14,
+          "identifier": "minecraft:vine",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b70461aa-44d7-4c1b-95c0-bef3e72d946c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33217,
+      "buildId": 649,
+      "sequenceOrder": 151,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce7a671c-027d-48e5-97cb-ed613c538774.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:39.848405",
+      "materials": [
+        {
+          "name": "Gray Candle",
+          "count": 12,
+          "quantity": 12,
+          "identifier": "minecraft:gray_candle",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2f715864-eed0-4ced-bbd7-891f759901f0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33218,
+      "buildId": 649,
+      "sequenceOrder": 152,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3d4c807-6964-4f85-ade2-a04c4c32e275.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:40.696415",
+      "materials": [
+        {
+          "name": "End Rod",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:end_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33219,
+      "buildId": 649,
+      "sequenceOrder": 153,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1827d559-43da-4e55-9e38-0413e3d23d4e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:41.496984",
+      "materials": [
+        {
+          "name": "Ladder",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:ladder",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33220,
+      "buildId": 649,
+      "sequenceOrder": 154,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43cd308d-c995-4295-a658-43813dcb3f23.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:42.517123",
+      "materials": [
+        {
+          "name": "Ladder",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:ladder",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33221,
+      "buildId": 649,
+      "sequenceOrder": 155,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/398f7a9a-d570-4d56-ae8b-52c7c1d3db53.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:43.301239",
+      "materials": [
+        {
+          "name": "Black Concrete",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_concrete",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1a37bef-e36c-43c3-9651-91313ba60129.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33222,
+      "buildId": 649,
+      "sequenceOrder": 156,
+      "image": null,
+      "description": "Break some blocks and place blocks like this",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:43.307114",
+      "materials": []
+    },
+    {
+      "id": 33223,
+      "buildId": 649,
+      "sequenceOrder": 157,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/491d9eea-d362-4b4e-a27c-758a164d4fad.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:44.068608",
+      "materials": [
+        {
+          "name": "Ladder",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:ladder",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/bd01c793-8ce9-4551-998e-f1ae1bec50ce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33224,
+      "buildId": 649,
+      "sequenceOrder": 158,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ef885c6-4e83-4721-b98b-abbad2a4dd65.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:44.943179",
+      "materials": [
+        {
+          "name": "Pale Oak Trapdoor",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:pale_oak_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5af57cab-a58f-464c-9a95-ee8812c00012.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33225,
+      "buildId": 649,
+      "sequenceOrder": 159,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f0d7154-b14d-4f2c-917d-43cb18f00dc6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:46.226979",
+      "materials": []
+    },
+    {
+      "id": 33226,
+      "buildId": 649,
+      "sequenceOrder": 160,
+      "image": null,
+      "description": "Break blocks and build windows",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:46.229474",
+      "materials": []
+    },
+    {
+      "id": 33227,
+      "buildId": 649,
+      "sequenceOrder": 161,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db215008-1580-4422-9b83-c7d86f604dc4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:47.069809",
+      "materials": [
+        {
+          "name": "Glass Pane",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:glass_pane",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/321e5ac4-4fb9-409b-a98c-4231a89ff463.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33228,
+      "buildId": 649,
+      "sequenceOrder": 162,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50e96a41-850d-42e8-9c50-8428ac9f0837.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:47.98989",
+      "materials": [
+        {
+          "name": "White Shulker Box",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:white_shulker_box",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/31387ee1-dd62-4010-8c33-c8e5107f7ea5.webp",
+          "type": "item"
+        },
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Crafting Table",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:crafting_table",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7f279f0a-e275-4c5d-9b6c-e3d705623a59.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33229,
+      "buildId": 649,
+      "sequenceOrder": 163,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f52a680-10f8-4a73-bafd-e56190ca0929.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:48.752431",
+      "materials": [
+        {
+          "name": "Lantern",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:lantern",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/73f9110d-f00d-4afb-a469-a130e5b0d695.webp",
+          "type": "item"
+        },
+        {
+          "name": "Flower Pot",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:flower_pot",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+          "type": "item"
+        },
+        {
+          "name": "Anvil",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:anvil",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0a0e800f-ab53-4d6c-b1b1-031942448821.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33230,
+      "buildId": 649,
+      "sequenceOrder": 164,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/febd2456-0499-42fd-a641-3b30d9b78753.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:49.525216",
+      "materials": [
+        {
+          "name": "Smooth Quartz Slab",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_quartz_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/cded79d1-da82-46ea-b22a-ba996cd1a23b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33231,
+      "buildId": 649,
+      "sequenceOrder": 165,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb273355-65c5-44cc-8c99-96bc6ecee8e8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:50.306826",
+      "materials": [
+        {
+          "name": "Armor Stand",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:armor_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0be69a75-aba0-4ff1-8e3b-d4347d54fea9.webp",
+          "type": "item"
+        },
+        {
+          "name": "Painting",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:painting",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e1c2943-de40-411b-8cdb-56eeb54f84c9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33232,
+      "buildId": 649,
+      "sequenceOrder": 166,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3882ef3a-134a-4eaf-bef8-78cc254f4e25.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:51.144196",
+      "materials": [
+        {
+          "name": "Flower Pot",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:flower_pot",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a8b8a92f-cbb2-4c3c-b4cc-8217b53e6701.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33233,
+      "buildId": 649,
+      "sequenceOrder": 167,
+      "image": null,
+      "description": "Place any armor on the armor stand",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:51.149243",
+      "materials": []
+    },
+    {
+      "id": 33234,
+      "buildId": 649,
+      "sequenceOrder": 168,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51ee050f-6cb1-4a4d-bd07-236ab2b7dc77.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:51.958648",
+      "materials": [
+        {
+          "name": "Chain",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:chain",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33235,
+      "buildId": 649,
+      "sequenceOrder": 169,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6086a6af-c0c6-4a70-a7e8-ae7d1d1c1f66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:52.732854",
+      "materials": [
+        {
+          "name": "End Rod",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:end_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33236,
+      "buildId": 649,
+      "sequenceOrder": 170,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cc0733e-2125-41cb-b021-a1ff713616e1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:53.509875",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33237,
+      "buildId": 649,
+      "sequenceOrder": 171,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f45d60cd-0f60-4f68-b690-48906e66ebba.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:54.571695",
+      "materials": [
+        {
+          "name": "Red Bed",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_bed",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f67e8cdf-e312-470d-add6-f6eefc7f9480.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33238,
+      "buildId": 649,
+      "sequenceOrder": 172,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4238c37-b299-476c-a239-5c69bcc4fa5b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:55.331177",
+      "materials": [
+        {
+          "name": "Red Carpet",
+          "count": 9,
+          "quantity": 9,
+          "identifier": "minecraft:red_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/8106860f-e6a0-48b5-b4a7-22d68aba5b31.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33239,
+      "buildId": 649,
+      "sequenceOrder": 173,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c70efef-0045-4d2c-ba47-ac4b0e11c2c6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:56.171392",
+      "materials": [
+        {
+          "name": "Mangrove Roots",
+          "count": 10,
+          "quantity": 10,
+          "identifier": "minecraft:mangrove_roots",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e28f073d-c6c3-45bb-9699-113a7593794d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33240,
+      "buildId": 649,
+      "sequenceOrder": 174,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/efc74c39-1ea3-41ef-a8c8-48af6f40bcb5.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:56.917847",
+      "materials": [
+        {
+          "name": "End Rod",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:end_rod",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1dd98ced-58e9-4b67-aca5-b7dfeeeb3790.webp",
+          "type": "item"
+        },
+        {
+          "name": "Chain",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:chain",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33241,
+      "buildId": 649,
+      "sequenceOrder": 175,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eafe36c2-3e4c-4de3-9c73-82b409938d50.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:57.697613",
+      "materials": [
+        {
+          "name": "Mud",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:mud",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/2025257b-0a39-472d-94b7-c5cf24afe86f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33242,
+      "buildId": 649,
+      "sequenceOrder": 176,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cf739778-54bb-41b5-acd8-e21fd6321102.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:58.463751",
+      "materials": [
+        {
+          "name": "Twisting Vines",
+          "count": 7,
+          "quantity": 7,
+          "identifier": "minecraft:twisting_vines",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20fdcacd-37cb-4d00-a24e-8724fbeb1d8b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33243,
+      "buildId": 649,
+      "sequenceOrder": 177,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e625d4f-60e9-4acb-b4cc-22f20eb3ab10.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:30:59.273755",
+      "materials": [
+        {
+          "name": "Warped Trapdoor",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:warped_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33244,
+      "buildId": 649,
+      "sequenceOrder": 178,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aaf754b7-7fee-4c57-898a-0988d0e07869.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:00.043177",
+      "materials": []
+    },
+    {
+      "id": 33245,
+      "buildId": 649,
+      "sequenceOrder": 179,
+      "image": null,
+      "description": "Break 2 blocks of yellow wool",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:00.046457",
+      "materials": []
+    },
+    {
+      "id": 33246,
+      "buildId": 649,
+      "sequenceOrder": 180,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50f2bc3d-17ee-4a2e-a0a7-e73f11109371.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:01.501062",
+      "materials": [
+        {
+          "name": "Dark Oak Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dark_oak_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33247,
+      "buildId": 649,
+      "sequenceOrder": 181,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ad5b5145-7436-4c66-9cd4-6fc4500bc2b4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:02.497077",
+      "materials": [
+        {
+          "name": "Polished Blackstone Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b8f556a-0f87-4a6a-a979-88500fbc8d92.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33248,
+      "buildId": 649,
+      "sequenceOrder": 182,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/499b5c05-f5de-4b90-ba78-ed0abbc1dd13.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:04.123093",
+      "materials": []
+    },
+    {
+      "id": 33249,
+      "buildId": 649,
+      "sequenceOrder": 183,
+      "image": null,
+      "description": "Break 2 blocks of yellow wool",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:04.125487",
+      "materials": []
+    },
+    {
+      "id": 33250,
+      "buildId": 649,
+      "sequenceOrder": 184,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3d846cae-3195-40c9-9d21-ec868b21bde8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:04.944125",
+      "materials": [
+        {
+          "name": "Dark Oak Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dark_oak_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33251,
+      "buildId": 649,
+      "sequenceOrder": 185,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b122c93f-3758-4b43-9a80-dc0347f1a395.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:05.681641",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33252,
+      "buildId": 649,
+      "sequenceOrder": 186,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6965c0d2-e421-4953-a83d-e844082ffab0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:06.480281",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33253,
+      "buildId": 649,
+      "sequenceOrder": 187,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea72f5f6-e387-4751-822e-1e2edd3f95b3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:07.29176",
+      "materials": [
+        {
+          "name": "Chiseled Bookshelf",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:chiseled_bookshelf",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0e78ba5f-3dcd-4f51-84e9-c2c2a253a65a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33254,
+      "buildId": 649,
+      "sequenceOrder": 188,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3e60ef5-a3e8-45f2-988d-6c1e8cdb9ea0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:08.039862",
+      "materials": []
+    },
+    {
+      "id": 33255,
+      "buildId": 649,
+      "sequenceOrder": 189,
+      "image": null,
+      "description": "Place the book on the chiseled bookshelf",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:08.042502",
+      "materials": []
+    },
+    {
+      "id": 33256,
+      "buildId": 649,
+      "sequenceOrder": 190,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70d32a9e-7a64-4d89-a329-ceabe25693f0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:08.811905",
+      "materials": [
+        {
+          "name": "Black Banner",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33257,
+      "buildId": 649,
+      "sequenceOrder": 191,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7597549f-ddbf-438c-b072-86de3e6d2674.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:09.603585",
+      "materials": [
+        {
+          "name": "White Shulker Box",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:white_shulker_box",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/31387ee1-dd62-4010-8c33-c8e5107f7ea5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33258,
+      "buildId": 649,
+      "sequenceOrder": 192,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6d62725-fe53-40e0-852b-62e92fb59a3c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:10.362433",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33259,
+      "buildId": 649,
+      "sequenceOrder": 193,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6426cfa7-1274-46cf-ae73-e9e4a1109bfa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:11.142781",
+      "materials": [
+        {
+          "name": "White Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/02d2a851-e091-4f1c-9cea-b2ac74b862b2.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33260,
+      "buildId": 649,
+      "sequenceOrder": 194,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16572962-f648-4f18-86aa-606b588468be.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:11.907777",
+      "materials": [
+        {
+          "name": "Moss Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:moss_block",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/93264363-1cb0-4309-8a71-1945f712187d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33261,
+      "buildId": 649,
+      "sequenceOrder": 195,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/217902b9-9cbb-4d74-ba80-eafaf707d1a2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:13.271475",
+      "materials": [
+        {
+          "name": "Flowering Azalea",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:flowering_azalea",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/86125c0b-c676-4b14-a773-8adf962fb76a.webp",
+          "type": "item"
+        },
+        {
+          "name": "Sweet Berries",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:sweet_berries",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/0d6a214b-f4d7-4c07-98e9-c7afbd013b97.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33262,
+      "buildId": 649,
+      "sequenceOrder": 196,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a64840fa-2704-4822-a857-6320e0c0d3f1.webp",
+      "description": "Come this way",
+      "moveToArea": true,
+      "createdAt": "2026-06-06T15:31:14.14901",
+      "materials": []
+    },
+    {
+      "id": 33263,
+      "buildId": 649,
+      "sequenceOrder": 197,
+      "image": null,
+      "description": "Break 2 blocks of yellow wool",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:14.17337",
+      "materials": []
+    },
+    {
+      "id": 33264,
+      "buildId": 649,
+      "sequenceOrder": 198,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca194638-c6ea-4e53-b6d2-23b529155c41.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:15.041001",
+      "materials": [
+        {
+          "name": "Dark Oak Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dark_oak_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33265,
+      "buildId": 649,
+      "sequenceOrder": 199,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/24874480-c7b1-451c-801e-600d8cce68ee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:15.848485",
+      "materials": [
+        {
+          "name": "Polished Blackstone Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:polished_blackstone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7b8f556a-0f87-4a6a-a979-88500fbc8d92.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33266,
+      "buildId": 649,
+      "sequenceOrder": 200,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/000fbb3c-e3ee-47ae-87c0-fb7334c8553f.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:16.712382",
+      "materials": []
+    },
+    {
+      "id": 33267,
+      "buildId": 649,
+      "sequenceOrder": 201,
+      "image": null,
+      "description": "Break 2 blocks of yellow wool",
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:16.715044",
+      "materials": []
+    },
+    {
+      "id": 33268,
+      "buildId": 649,
+      "sequenceOrder": 202,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a00ee2b7-8308-434f-83c1-dc143b15bdef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:17.611423",
+      "materials": [
+        {
+          "name": "Dark Oak Door",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:dark_oak_door",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c0352d6a-a634-400c-bcac-f41066a3c8ee.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33269,
+      "buildId": 649,
+      "sequenceOrder": 203,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2e6bf054-571e-425d-a125-0eaf9b63becb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:18.472172",
+      "materials": [
+        {
+          "name": "Blast Furnace",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:blast_furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/44ff91c1-d483-493c-813f-2ba7b29dea93.webp",
+          "type": "item"
+        },
+        {
+          "name": "Furnace",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:furnace",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b9c1ebfe-d3dd-4082-b6d7-6f2746977c4e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33270,
+      "buildId": 649,
+      "sequenceOrder": 204,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/756f9a54-a040-4e86-950f-f9c7af5b9666.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:19.283863",
+      "materials": [
+        {
+          "name": "Andesite Wall",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:andesite_wall",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/441cfad5-1df2-4c2a-bfd7-2c10a9c0ce3d.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33271,
+      "buildId": 649,
+      "sequenceOrder": 205,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be2bdd37-2329-4490-a3b3-93da751ce2f4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:20.110824",
+      "materials": [
+        {
+          "name": "Andesite Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c0c7cb9-e47a-493e-9622-789268deb231.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33272,
+      "buildId": 649,
+      "sequenceOrder": 206,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a0417c18-af40-4afd-95b5-5ee5ae5a25b0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:20.855519",
+      "materials": [
+        {
+          "name": "Grindstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:grindstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/98585a63-4467-4bc7-b4cd-99b52a50bcbc.webp",
+          "type": "item"
+        },
+        {
+          "name": "Brewing Stand",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:brewing_stand",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a476200c-b2d2-4747-a4c3-468b3d40c4f1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33273,
+      "buildId": 649,
+      "sequenceOrder": 207,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38dd2fad-9a6c-4573-8c5b-c0eea95cf95b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:21.636377",
+      "materials": [
+        {
+          "name": "Black Carpet",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:black_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f46c201a-f7ab-49cc-a7da-fef64a8a8c8e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33274,
+      "buildId": 649,
+      "sequenceOrder": 208,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8cb584c-5427-43ad-955f-35b8d2ccce31.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:22.417909",
+      "materials": [
+        {
+          "name": "Andesite Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:andesite_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e7c61d49-29d0-46db-8d9f-f8d7301d24df.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33275,
+      "buildId": 649,
+      "sequenceOrder": 209,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9291c94a-b671-4e0e-9f3a-b85d72cf7388.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:23.182192",
+      "materials": [
+        {
+          "name": "Chain",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:chain",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/163b04ee-62e6-415e-88ea-ca8e5c729fd9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33276,
+      "buildId": 649,
+      "sequenceOrder": 210,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7bd9beac-94d6-4df1-a798-67fb9af91107.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:23.934308",
+      "materials": [
+        {
+          "name": "Light Gray Carpet",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:light_gray_carpet",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/05a7242f-af4b-4827-bd5e-249d95adefe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33277,
+      "buildId": 649,
+      "sequenceOrder": 211,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2638d295-5f19-4543-b707-3011ab8d4436.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:24.704533",
+      "materials": [
+        {
+          "name": "Painting",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:painting",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e1c2943-de40-411b-8cdb-56eeb54f84c9.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 33278,
+      "buildId": 649,
+      "sequenceOrder": 212,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22b9f970-50b5-4ab2-8438-434949c3badb.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-06T15:31:25.462997",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/869afeff-33a0-49f2-acd2-9b17c7008678.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d55f5471-3c06-4d9f-ae78-8ef267a365e7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b4e7b32c-4a40-4e7f-8c1e-33ce87011642.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b95e83c-05a4-455a-8c80-f2aea663a0a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/766d19c5-f456-4431-ad2e-cdb4266e1c63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b2ab615c-6d4b-45b2-95b0-9a4df256dcf7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d6517da3-6286-4251-b3a0-6580a1b0ce8b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e29e8ab8-9d8b-4870-9276-e3276aeb1430.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cef0ec6d-e731-42dc-8f9a-3f451f86bffc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0c0ad440-761a-4543-ae15-e86cca7ad4de.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1b8a601-d236-46c9-a7eb-e2181d92c8c4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea5b2693-2a34-48ad-94f3-6cae5e57f8a8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67fd7c91-1d6b-4095-a450-5e9c44ca19cf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5d9c3c2f-2f2b-4afc-96f7-06da1666cf9a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/81644ca3-eea0-4a80-a3a9-a80640b1cc1e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/463e24c1-bdc8-443b-a249-ed2410587ad6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/97c00335-90c5-43e0-9749-8805758a96c9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7099c673-2744-4aeb-b693-42447a8ded02.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/977a2bc9-273e-4bb8-b689-9822d69f13e5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4421594c-e635-4d04-a90f-3d405462708f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee0948db-4bbb-4aa6-9b72-ef88750deb2f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5b49d17d-3ed5-445f-a531-bf513b32b033.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c29eafcb-b603-453b-a61b-c03c0bbc9857.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6e2b9b85-14b9-4e83-a414-3ddf315aea12.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d2ed20a4-0f59-4dda-be34-db0815ff1822.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0345b4b6-2b8b-4673-8c4f-3266581955e6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/037b544d-80d4-4f41-bdb8-bd98b568f975.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/12b89292-0b1c-4a14-b067-cdfc9cf78e08.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/795ac4c6-7d9a-4c40-b468-527518041dd4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5f7e8462-698f-4b43-9d85-b46572241f6c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d644cd17-ede7-4023-b506-b607aab62235.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/02078218-2070-4315-a361-ec967ffa2e45.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ae890492-c5e3-48e9-ad74-bae504b5db09.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e86de770-d4a8-48aa-bbd4-240e1795fb27.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7ff748fc-350d-4f26-9427-3a07692209e7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/71635b5f-873f-4435-876e-6cacc9181767.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/465f2f4c-9d40-4e57-bafa-0559b77f2817.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b31cb361-8d82-437f-83b2-d20769c82089.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/60786ab4-5a21-4db7-b600-d8f3b69fb278.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/869dffa9-57e1-40e4-bb47-e6df66ea663e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c310eb41-a8b0-41bf-a716-b9f143db32a0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/97faa5dc-0a8d-4119-9e45-f30c9d8429c3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1deb42bc-2977-4998-ae8a-39b51c36af6b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f5cc8121-3d0a-4c5c-ba5e-202ff33243c8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ffc4ff8d-1a95-43b4-866c-99959a664389.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/09397cea-8eb0-430e-9df7-dbed340ccfdd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b12ea95-6bf1-4222-b284-2a3bd588b1fe.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b2d9e1e-388b-4ea9-b039-e64f9ce7ea6a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43b96ee3-88a3-479c-be20-b00f40edd5c0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cebe005-b9e3-448d-a018-ab5882cbac33.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/34bfb669-e870-4dd4-8ffd-223cd329d034.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6dcd6832-fe62-4f32-9896-c5b12f226501.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d30d6bf5-8284-46a4-ab2d-1ab8269996c4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d8de3a50-070b-4197-9446-6d0016285db8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fa7de031-8a50-426e-bd7c-6ec4fc6714eb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cc77d73d-f39b-49b9-9324-2f4af5a27c96.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c71ad568-f5c5-46a5-a8e7-c087a1bf1401.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f428972a-c228-4904-b711-3d0d93e8a584.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/491dc0e4-6311-4ed8-93ab-e86bd5694955.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/48677698-b817-4b71-adc8-7b8620c3dcae.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ebf91c23-a732-4259-8f0f-24ec773efb6b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/13ed85d0-4809-4107-b736-52df7be813e2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c0408954-2868-4a5e-8d98-dec10261da8f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c2dc809a-6e94-49fb-bae3-d102062e7179.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0aa68f58-af8e-4b02-9e89-2343db8cab15.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e2173ea-b6dc-4c61-9474-cdfec73668a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3519c68-6d62-47ec-b1b6-c35583a1d0e3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0cc571e9-670a-4c85-b3b7-cd2f459cd356.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/00c74fa1-eb23-4e51-97f6-f8e569c7f603.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9ebbe59e-d7c3-4665-b824-da5606fd5024.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/67172445-b10f-40c2-b8e1-49c2a08ec744.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/429cb8c9-846e-40c2-bba4-7a5b7918c1f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70d48fad-8f70-493b-9ebb-1aa1d8ddce70.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0d35396b-5718-411e-af8c-5dee65045f6f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3c901a53-3553-4632-84b7-fad162469c02.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e1c6274b-341a-44d1-ab9e-cb9174b161da.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be09edc7-a772-4de1-bdb5-4dcdc4138073.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1f375666-170c-42fe-867f-e6e0be400619.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0da49121-38b5-402f-8f2a-6d7e65b89216.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9507aa74-1916-47b1-8799-d5d0c394f864.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b33180ee-af53-44f6-a670-16029e177e5f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/716092f7-46df-4d4c-8927-ffde08f7bd8a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3aac103-bdce-465f-8990-1191f01e0f80.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7d31ba5f-7d68-4013-ad58-1f1b0a1c2a2d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b06237dd-9984-43e1-9170-5a3a1b938427.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/468c4247-79ac-44d7-b934-232231cec2a7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b46d6814-0f34-4adb-93ce-daf57fb3d343.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a380c25-85f5-4a7f-a7e7-df8ae8e97fa5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22713e7d-f09d-4424-9e9f-8ceca8a720f6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e5b253b7-2df4-419d-8f15-a9305f5a7cfd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7139ab23-da4f-4b43-82fe-4cbdba1cb129.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a7229d74-469c-4a0c-a5a9-a629efa2fa04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8cc33543-24c4-46a6-b13f-c7f87c565ef3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/724c1c2d-e264-4f09-9e39-88e4bd16197b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9214adeb-e053-496e-a83f-4cdd41da57ee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/927d92f3-992e-4053-a8f5-075d47d00ecb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da30dae6-1741-4a1f-8434-d76cf210f8a7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8862640d-a217-432c-9a63-50d84619dac7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef5e7e41-bbac-4d23-ac7c-1d7013482dbd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce5cecbd-c857-4c3e-9d3a-64c275e5e80f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/543bb026-abd6-4877-8a76-2b4111fd694d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9334ca32-f0fc-446b-8d9f-9eef9bb63e33.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ba169ebe-747a-4424-9b45-bf3a5b624be9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6ea9bc9a-74e2-4606-bc20-791f780c33be.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/df7e2706-ad3c-4b8b-a7e5-298368f63c5c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5774a561-c4a8-4973-8831-09ac61839053.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f213ef47-9adb-4c01-b839-001124d22b35.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e7e5bbe-f78c-4ca5-9aa4-244f858f49bb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f5843c6-0437-40dc-86ef-eaba0f0a3126.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1f46477b-5400-45f1-acd4-75f08b93ff2a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0df27126-b689-41f7-b509-7104fb594c3e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/073426cd-a965-4d26-b03b-f89188604878.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee4b10cd-277c-44c1-966a-254f05cc4983.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a225c7e9-1ce2-46a9-8703-2c0583db6720.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a8015871-7a09-40cb-9d43-c4672adfca8e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ccf1646e-5666-463f-a460-5118291fc43d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3a52da5d-bcd1-4446-827e-70d122d26be8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3e1d2d91-cd26-4651-8e0f-f30149ee661a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/952a6246-7d0c-46c5-8d73-b11a7b990080.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b76a2dd3-cfd8-4968-b732-2771d6b47fae.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a2218655-8fc8-43f8-b7ef-21239ea1f97e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b11fc4ee-e13c-4af6-9d72-59b93685ffc2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/555c47d9-ac18-4ba2-bcee-8ba506d65cbc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8e3b1e98-37ab-46fb-9bdc-f2d98374b249.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/720fce7d-7d55-41cd-9710-d6466465b3bd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/202cc7d8-0825-4d3d-8851-56960aefe178.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b5cf5a33-aeb9-4ddb-9d01-814c3906c8a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c241b1f7-d9a5-498e-b956-d1e2f3af8399.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b01aaab9-6258-4c3e-a395-301af1bfc2ab.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07eb1bc5-bbe3-4a9f-9f3c-6a02264b8a72.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/da44b3d3-ec08-4866-aba7-a734699cfbba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/799002e6-45d1-4552-adf2-2f35dbd58daa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cd3cfc4f-da07-4d6e-924c-e3b52b6d6aa7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6923ddd-04d6-4af9-a75f-a110e748845e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4187908c-8a76-496a-818b-436fd0aee354.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5391aed9-9eb7-4ca6-97f7-d75a098e4976.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/10c58677-92cb-44a1-88b6-d2570e48ca5b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7816239b-e77b-4b2d-9936-41b03efcf355.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/75b37ca2-6a9b-4670-ad5b-968ca355dc9b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3422f4e1-6b81-4085-b9a7-51ea1d96fba1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a8c4e2f0-c9aa-430c-b95f-df1c12b5f756.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/64ba7709-2eba-4559-8956-cf4947971711.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f59d0238-3bc0-46a2-ac81-f3835946e88c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/40013f59-2220-4864-9ad3-6bb6273cf1ad.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9d729edd-5eca-41db-9961-97a3030c4ca2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ce7a671c-027d-48e5-97cb-ed613c538774.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e3d4c807-6964-4f85-ade2-a04c4c32e275.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1827d559-43da-4e55-9e38-0413e3d23d4e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43cd308d-c995-4295-a658-43813dcb3f23.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/398f7a9a-d570-4d56-ae8b-52c7c1d3db53.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/491d9eea-d362-4b4e-a27c-758a164d4fad.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2ef885c6-4e83-4721-b98b-abbad2a4dd65.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9f0d7154-b14d-4f2c-917d-43cb18f00dc6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/db215008-1580-4422-9b83-c7d86f604dc4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50e96a41-850d-42e8-9c50-8428ac9f0837.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f52a680-10f8-4a73-bafd-e56190ca0929.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/febd2456-0499-42fd-a641-3b30d9b78753.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bb273355-65c5-44cc-8c99-96bc6ecee8e8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3882ef3a-134a-4eaf-bef8-78cc254f4e25.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/51ee050f-6cb1-4a4d-bd07-236ab2b7dc77.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6086a6af-c0c6-4a70-a7e8-ae7d1d1c1f66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/5cc0733e-2125-41cb-b021-a1ff713616e1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f45d60cd-0f60-4f68-b690-48906e66ebba.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c4238c37-b299-476c-a239-5c69bcc4fa5b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6c70efef-0045-4d2c-ba47-ac4b0e11c2c6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/efc74c39-1ea3-41ef-a8c8-48af6f40bcb5.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/eafe36c2-3e4c-4de3-9c73-82b409938d50.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cf739778-54bb-41b5-acd8-e21fd6321102.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4e625d4f-60e9-4acb-b4cc-22f20eb3ab10.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/aaf754b7-7fee-4c57-898a-0988d0e07869.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/50f2bc3d-17ee-4a2e-a0a7-e73f11109371.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ad5b5145-7436-4c66-9cd4-6fc4500bc2b4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/499b5c05-f5de-4b90-ba78-ed0abbc1dd13.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3d846cae-3195-40c9-9d21-ec868b21bde8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b122c93f-3758-4b43-9a80-dc0347f1a395.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6965c0d2-e421-4953-a83d-e844082ffab0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea72f5f6-e387-4751-822e-1e2edd3f95b3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/b3e60ef5-a3e8-45f2-988d-6c1e8cdb9ea0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70d32a9e-7a64-4d89-a329-ceabe25693f0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7597549f-ddbf-438c-b072-86de3e6d2674.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6d62725-fe53-40e0-852b-62e92fb59a3c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6426cfa7-1274-46cf-ae73-e9e4a1109bfa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/16572962-f648-4f18-86aa-606b588468be.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/217902b9-9cbb-4d74-ba80-eafaf707d1a2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a64840fa-2704-4822-a857-6320e0c0d3f1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ca194638-c6ea-4e53-b6d2-23b529155c41.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/24874480-c7b1-451c-801e-600d8cce68ee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/000fbb3c-e3ee-47ae-87c0-fb7334c8553f.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a00ee2b7-8308-434f-83c1-dc143b15bdef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2e6bf054-571e-425d-a125-0eaf9b63becb.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/756f9a54-a040-4e86-950f-f9c7af5b9666.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/be2bdd37-2329-4490-a3b3-93da751ce2f4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a0417c18-af40-4afd-95b5-5ee5ae5a25b0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/38dd2fad-9a6c-4573-8c5b-c0eea95cf95b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e8cb584c-5427-43ad-955f-35b8d2ccce31.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/9291c94a-b671-4e0e-9f3a-b85d72cf7388.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7bd9beac-94d6-4df1-a798-67fb9af91107.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2638d295-5f19-4543-b707-3011ab8d4436.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/22b9f970-50b5-4ab2-8438-434949c3badb.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/6e553f36-df74-4f45-99d8-d5a66709168e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/6e553f36-df74-4f45-99d8-d5a66709168e.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

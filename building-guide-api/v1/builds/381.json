@@ -1,0 +1,722 @@
+{
+  "id": 381,
+  "name": "Baby Steve Statue",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 28,
+  "steps": 28,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/2d24c389-da02-4311-8a00-2a79be1f0ff1.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/2d24c389-da02-4311-8a00-2a79be1f0ff1.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73f2dfe7-a723-4eac-80de-820bccc07160.webp",
+  "description": "A baby Steve minecraft statue with a big head, cyan shirt and blue legs, built from wool or concrete. A small block count in a few colors, so it is done fast. Works as a spawn marker or a fun landmark outside your base.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-03-06T18:27:56.814276",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Birch Planks",
+      "count": 32,
+      "quantity": 32,
+      "identifier": "minecraft:birch_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:white_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Brown Wool",
+      "count": 44,
+      "quantity": 44,
+      "identifier": "minecraft:brown_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Gray Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:gray_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Cyan Wool",
+      "count": 22,
+      "quantity": 22,
+      "identifier": "minecraft:cyan_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+      "type": "item"
+    },
+    {
+      "name": "Blue Wool",
+      "count": 20,
+      "quantity": 20,
+      "identifier": "minecraft:blue_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 21262,
+      "buildId": 381,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bfa17ad4-841a-4901-a7a1-18a823075397.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:58.234199",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21263,
+      "buildId": 381,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff8c10a7-1248-492e-8725-61da86970e0b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:27:59.669372",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21264,
+      "buildId": 381,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e41344b3-dcf7-4ac8-ae01-44269f162aef.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:01.160198",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21265,
+      "buildId": 381,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6925e65-4127-4fbe-965d-1cfc117ad338.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:02.427281",
+      "materials": [
+        {
+          "name": "Cyan Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cyan_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21266,
+      "buildId": 381,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/928d2dff-4d94-461c-92ba-9f444af065e6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:03.595206",
+      "materials": [
+        {
+          "name": "Cyan Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cyan_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21267,
+      "buildId": 381,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7a97b2b3-a487-48d0-a2a4-1a4a4e4d7fa8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:05.075212",
+      "materials": [
+        {
+          "name": "Cyan Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:cyan_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21268,
+      "buildId": 381,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c01d2421-c918-4f8d-a099-310bf8fea546.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:06.627341",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21269,
+      "buildId": 381,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c657793-5232-4437-b761-c6617b75d730.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:07.832565",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21270,
+      "buildId": 381,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f327032-37c0-493e-a0f7-809afc29f0f7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:08.96008",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21271,
+      "buildId": 381,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80eec78b-8461-412a-8f99-bc4f1d3d65ee.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:09.781036",
+      "materials": [
+        {
+          "name": "Gray Wool",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:gray_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/080c75fe-3834-4c09-830b-caf6a00288c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21272,
+      "buildId": 381,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cfd95607-c4b2-401a-a4a1-880bc6a04a01.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:10.773433",
+      "materials": [
+        {
+          "name": "Cyan Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21273,
+      "buildId": 381,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b186593-6129-4289-a000-667fd8175ff9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:11.877336",
+      "materials": [
+        {
+          "name": "Cyan Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:cyan_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/e8baaff6-3d63-4739-be43-1931e80fbb20.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21274,
+      "buildId": 381,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a3cb60a-1544-4f86-bde4-3db36932b912.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:12.99924",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21275,
+      "buildId": 381,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2467f1e1-694a-471d-983b-371b5d535cf2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:13.922866",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21276,
+      "buildId": 381,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef64f6f4-95cb-44a2-a082-b77dd8795dc7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:16.121525",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Birch Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21277,
+      "buildId": 381,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b41d0e5-105d-42c4-91db-d680136eabdf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:16.985847",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21278,
+      "buildId": 381,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8320a823-ecba-40ad-a772-6b0abde7f19b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:18.320167",
+      "materials": [
+        {
+          "name": "Blue Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:blue_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5d607a0d-3860-4d48-8667-d26845df9566.webp",
+          "type": "item"
+        },
+        {
+          "name": "White Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:white_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/20da9897-b552-460e-b171-e4ec89f633c4.webp",
+          "type": "item"
+        },
+        {
+          "name": "Birch Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21279,
+      "buildId": 381,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd0d1484-cfe2-45c7-94d0-03c5de973252.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:19.551448",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Brown Wool",
+          "count": 5,
+          "quantity": 5,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21280,
+      "buildId": 381,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43851877-b670-4a9a-a66d-488ac368e6b6.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:20.789134",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21281,
+      "buildId": 381,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e15246a-77fc-4fb1-a128-92021ef7f738.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:21.972297",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Brown Wool",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21282,
+      "buildId": 381,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77153772-e4e8-4070-87ad-b295147b9d50.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:22.841499",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        },
+        {
+          "name": "Birch Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21283,
+      "buildId": 381,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f65487d8-dff9-4148-b52e-ef11b1dffcc9.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:23.80573",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        },
+        {
+          "name": "Brown Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21284,
+      "buildId": 381,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/962e16da-f6f8-42dc-ad0c-a49d3c4cfcd0.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:24.978487",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21285,
+      "buildId": 381,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f7673c8-a44b-41e5-a41b-24c2ad164746.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:27.100854",
+      "materials": [
+        {
+          "name": "Birch Planks",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:birch_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9f464ce-5c6b-4794-91b2-8dd2337c7db3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21286,
+      "buildId": 381,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fbba6961-8404-4311-8064-1f50ab010c3d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:28.297242",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 8,
+          "quantity": 8,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21287,
+      "buildId": 381,
+      "sequenceOrder": 26,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32267e16-08c4-45d5-8ed0-6500b98a6b4d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:29.755446",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 16,
+          "quantity": 16,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21288,
+      "buildId": 381,
+      "sequenceOrder": 27,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2c81dcb4-87c3-427b-b1fe-e830cc83f6f3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:30.696915",
+      "materials": [
+        {
+          "name": "Brown Wool",
+          "count": 6,
+          "quantity": 6,
+          "identifier": "minecraft:brown_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9c1ab08f-aaef-4272-bb9b-0b21b34dfdf6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 21289,
+      "buildId": 381,
+      "sequenceOrder": 28,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73f2dfe7-a723-4eac-80de-820bccc07160.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-03-06T18:28:32.352313",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/bfa17ad4-841a-4901-a7a1-18a823075397.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ff8c10a7-1248-492e-8725-61da86970e0b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e41344b3-dcf7-4ac8-ae01-44269f162aef.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c6925e65-4127-4fbe-965d-1cfc117ad338.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/928d2dff-4d94-461c-92ba-9f444af065e6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7a97b2b3-a487-48d0-a2a4-1a4a4e4d7fa8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c01d2421-c918-4f8d-a099-310bf8fea546.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c657793-5232-4437-b761-c6617b75d730.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2f327032-37c0-493e-a0f7-809afc29f0f7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/80eec78b-8461-412a-8f99-bc4f1d3d65ee.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cfd95607-c4b2-401a-a4a1-880bc6a04a01.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b186593-6129-4289-a000-667fd8175ff9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a3cb60a-1544-4f86-bde4-3db36932b912.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2467f1e1-694a-471d-983b-371b5d535cf2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ef64f6f4-95cb-44a2-a082-b77dd8795dc7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7b41d0e5-105d-42c4-91db-d680136eabdf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8320a823-ecba-40ad-a772-6b0abde7f19b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fd0d1484-cfe2-45c7-94d0-03c5de973252.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/43851877-b670-4a9a-a66d-488ac368e6b6.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7e15246a-77fc-4fb1-a128-92021ef7f738.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/77153772-e4e8-4070-87ad-b295147b9d50.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f65487d8-dff9-4148-b52e-ef11b1dffcc9.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/962e16da-f6f8-42dc-ad0c-a49d3c4cfcd0.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7f7673c8-a44b-41e5-a41b-24c2ad164746.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/fbba6961-8404-4311-8064-1f50ab010c3d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/32267e16-08c4-45d5-8ed0-6500b98a6b4d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2c81dcb4-87c3-427b-b1fe-e830cc83f6f3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73f2dfe7-a723-4eac-80de-820bccc07160.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73f2dfe7-a723-4eac-80de-820bccc07160.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73f2dfe7-a723-4eac-80de-820bccc07160.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

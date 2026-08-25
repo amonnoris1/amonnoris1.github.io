@@ -1,0 +1,698 @@
+{
+  "id": 356,
+  "name": "Mini F1 Car",
+  "categoryId": 16,
+  "categoryName": "Vehicle",
+  "category": "Vehicle",
+  "categories": [
+    {
+      "id": 16,
+      "name": "Vehicle",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/a5cc2111-70a4-4942-847d-da1569044fb2.webp"
+    }
+  ],
+  "labels": [
+    "Vehicle"
+  ],
+  "styleId": 3,
+  "styleName": "Modern",
+  "style": "Modern",
+  "tags": [],
+  "difficulty": 1,
+  "buildSteps": 25,
+  "steps": 25,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b45295db-93bf-4528-a566-f22b0653d70c.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/b45295db-93bf-4528-a566-f22b0653d70c.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/864a8261-6daf-4102-9613-83ab0ca103fc.webp",
+  "description": "A mini F1 car with a red brick body, black wool tires and a white front wing. Low and flat like the real thing, with a nose cone and rear engine detail. A quick build with cheap blocks. Line a few up on a race track or drop one in a garage.",
+  "dimensions": null,
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-02-27T17:28:32.865784",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Mangrove Slab",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:mangrove_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1d6d85a-4446-4a61-bd52-c6e99079b981.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stripped Mangrove Wood",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:stripped_mangrove_wood",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f1db830-1e30-40b3-b59a-cfe3936dc2b5.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Fence Gate",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:mangrove_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/62d263a9-78b8-498e-ba7a-64af84adb8b9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Stairs",
+      "count": 8,
+      "quantity": 8,
+      "identifier": "minecraft:mangrove_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Stairs",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:stone_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4003183-e438-4801-be19-d922429ecdce.webp",
+      "type": "item"
+    },
+    {
+      "name": "Stone Button",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:stone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+      "type": "item"
+    },
+    {
+      "name": "Iron Bars",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:iron_bars",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Stairs",
+      "count": 9,
+      "quantity": 9,
+      "identifier": "minecraft:smooth_quartz_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Quartz Block",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:smooth_quartz",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+      "type": "item"
+    },
+    {
+      "name": "Red Wool",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:red_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Wool",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:black_wool",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smoker",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smoker",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1ef0afa4-9ba4-459f-a83b-85fe7da3dcbb.webp",
+      "type": "item"
+    },
+    {
+      "name": "Item Frame",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:item_frame",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+      "type": "item"
+    },
+    {
+      "name": "Mangrove Sign",
+      "count": 6,
+      "quantity": 6,
+      "identifier": "minecraft:mangrove_sign",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c262fb0-1d9e-44d7-9280-47c3af14a082.webp",
+      "type": "item"
+    },
+    {
+      "name": "Rail",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:rail",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "Minecart",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:minecart",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9bcb09c-62a9-4b89-a2af-42242fc09e16.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 20047,
+      "buildId": 356,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/100bce26-e07f-4211-8219-1d51c4398b5e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:34.268853",
+      "materials": [
+        {
+          "name": "Mangrove Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:mangrove_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1d6d85a-4446-4a61-bd52-c6e99079b981.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20048,
+      "buildId": 356,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee7a3489-fcf0-4ab9-b5bc-c0f77adb6cd4.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:36.478023",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20049,
+      "buildId": 356,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2a79c9d8-9ad2-44a6-a307-6835c3c6cc90.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:37.917897",
+      "materials": [
+        {
+          "name": "Stripped Mangrove Wood",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stripped_mangrove_wood",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6f1db830-1e30-40b3-b59a-cfe3936dc2b5.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20050,
+      "buildId": 356,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/04cb83f1-ebdf-4b9a-8a4f-5f8a7b343112.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:39.259472",
+      "materials": [
+        {
+          "name": "Mangrove Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:mangrove_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20051,
+      "buildId": 356,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/54c4db67-bb76-4638-a28c-238d4b4ba966.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:40.351972",
+      "materials": [
+        {
+          "name": "Mangrove Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:mangrove_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20052,
+      "buildId": 356,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d5922a6a-1622-4752-bd77-f40c11a27ccc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:41.26247",
+      "materials": [
+        {
+          "name": "Mangrove Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:mangrove_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20053,
+      "buildId": 356,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0be4e847-a77b-4712-96ec-7a5ee25c3883.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:42.529604",
+      "materials": [
+        {
+          "name": "Smooth Quartz Block",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:smooth_quartz",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b6567e34-a4bd-4ea3-b39e-2822510f24c8.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20054,
+      "buildId": 356,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/85323149-e8f3-49f8-ba26-4a358023c1a1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:43.673335",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 4,
+          "quantity": 4,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20055,
+      "buildId": 356,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a3bbb23-51e5-404c-a6e2-420628bd3aea.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:44.845275",
+      "materials": [
+        {
+          "name": "Smooth Quartz Stairs",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:smooth_quartz_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9e0b89ab-c62d-4ca4-9627-78f20c9baba4.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20056,
+      "buildId": 356,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/61d318a0-d2d9-4b17-9f35-cb460e125d7c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:47.015691",
+      "materials": [
+        {
+          "name": "Black Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20057,
+      "buildId": 356,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/553b789f-e991-4205-be7e-3e8e3852a17a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:48.025365",
+      "materials": [
+        {
+          "name": "Mangrove Fence Gate",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:mangrove_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/62d263a9-78b8-498e-ba7a-64af84adb8b9.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:black_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a91e06a3-be6e-4f36-8031-1d8092edd364.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20058,
+      "buildId": 356,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78fa0674-7425-4087-ad97-e1b1bd7a22c2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:49.074586",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20059,
+      "buildId": 356,
+      "sequenceOrder": 13,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c1ae3be-5060-4bce-8d9f-ae33c1468d68.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:49.998303",
+      "materials": [
+        {
+          "name": "Stone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:stone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1121241c-85a1-452e-afcc-822aeef7ba30.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20060,
+      "buildId": 356,
+      "sequenceOrder": 14,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b24d836-712f-4726-ad63-54818e330e4e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:51.386861",
+      "materials": [
+        {
+          "name": "Iron Bars",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:iron_bars",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/3ee5f053-5df6-4a46-bcb8-35891063abf1.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20061,
+      "buildId": 356,
+      "sequenceOrder": 15,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ebb4898b-9e24-47f7-ac26-c336ef373d95.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:52.534243",
+      "materials": [
+        {
+          "name": "Mangrove Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:mangrove_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20062,
+      "buildId": 356,
+      "sequenceOrder": 16,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73e34fd3-7f1d-48bd-8108-abb77e8fd276.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:53.460842",
+      "materials": [
+        {
+          "name": "Mangrove Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:mangrove_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1d6d85a-4446-4a61-bd52-c6e99079b981.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20063,
+      "buildId": 356,
+      "sequenceOrder": 17,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07badd20-f080-48ff-9d1a-6b684b8565f8.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:54.363312",
+      "materials": [
+        {
+          "name": "Mangrove Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:mangrove_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/95ee6cf8-59aa-4ba8-baaa-f6f46ed04d6e.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20064,
+      "buildId": 356,
+      "sequenceOrder": 18,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b16540e-f3a6-46a3-80a8-31dc4e09c8d1.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:56.523046",
+      "materials": [
+        {
+          "name": "Mangrove Sign",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:mangrove_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c262fb0-1d9e-44d7-9280-47c3af14a082.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20065,
+      "buildId": 356,
+      "sequenceOrder": 19,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8916659f-4e8a-4f90-82db-c66fe433eb53.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:57.887482",
+      "materials": [
+        {
+          "name": "Mangrove Sign",
+          "count": 3,
+          "quantity": 3,
+          "identifier": "minecraft:mangrove_sign",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/6c262fb0-1d9e-44d7-9280-47c3af14a082.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20066,
+      "buildId": 356,
+      "sequenceOrder": 20,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7eae49c7-b0aa-4456-9ab5-95f25792a889.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:58.715206",
+      "materials": [
+        {
+          "name": "Stone Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:stone_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/f4003183-e438-4801-be19-d922429ecdce.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20067,
+      "buildId": 356,
+      "sequenceOrder": 21,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c61aa6e-d4c2-490d-bb01-f3edb43157a3.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:28:59.992705",
+      "materials": [
+        {
+          "name": "Rail",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:rail",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5341467c-1d27-4ee5-9db9-d4fe4722cbe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20068,
+      "buildId": 356,
+      "sequenceOrder": 22,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e41ea19-871b-4129-8b88-47447489a05c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:29:02.178665",
+      "materials": [
+        {
+          "name": "Minecart",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:minecart",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/c9bcb09c-62a9-4b89-a2af-42242fc09e16.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20069,
+      "buildId": 356,
+      "sequenceOrder": 23,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6382e4c9-d0ca-4dbb-95ee-e6495b25a51c.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:29:03.665112",
+      "materials": [
+        {
+          "name": "Smoker",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smoker",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/1ef0afa4-9ba4-459f-a83b-85fe7da3dcbb.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20070,
+      "buildId": 356,
+      "sequenceOrder": 24,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70da78c1-d6a9-464b-9cc0-d4ce36f1003a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:29:04.937265",
+      "materials": [
+        {
+          "name": "Item Frame",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:item_frame",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/33133c85-5d80-4f7c-bcf0-280350bf7cde.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 20071,
+      "buildId": 356,
+      "sequenceOrder": 25,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/864a8261-6daf-4102-9613-83ab0ca103fc.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-02-27T17:29:05.813865",
+      "materials": [
+        {
+          "name": "Red Wool",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:red_wool",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/daadf1ff-5a38-4f67-9069-3f7a8ed1745b.webp",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/100bce26-e07f-4211-8219-1d51c4398b5e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ee7a3489-fcf0-4ab9-b5bc-c0f77adb6cd4.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2a79c9d8-9ad2-44a6-a307-6835c3c6cc90.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/04cb83f1-ebdf-4b9a-8a4f-5f8a7b343112.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/54c4db67-bb76-4638-a28c-238d4b4ba966.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d5922a6a-1622-4752-bd77-f40c11a27ccc.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0be4e847-a77b-4712-96ec-7a5ee25c3883.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/85323149-e8f3-49f8-ba26-4a358023c1a1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8a3bbb23-51e5-404c-a6e2-420628bd3aea.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/61d318a0-d2d9-4b17-9f35-cb460e125d7c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/553b789f-e991-4205-be7e-3e8e3852a17a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/78fa0674-7425-4087-ad97-e1b1bd7a22c2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1c1ae3be-5060-4bce-8d9f-ae33c1468d68.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0b24d836-712f-4726-ad63-54818e330e4e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ebb4898b-9e24-47f7-ac26-c336ef373d95.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73e34fd3-7f1d-48bd-8108-abb77e8fd276.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/07badd20-f080-48ff-9d1a-6b684b8565f8.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8b16540e-f3a6-46a3-80a8-31dc4e09c8d1.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8916659f-4e8a-4f90-82db-c66fe433eb53.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/7eae49c7-b0aa-4456-9ab5-95f25792a889.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8c61aa6e-d4c2-490d-bb01-f3edb43157a3.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0e41ea19-871b-4129-8b88-47447489a05c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6382e4c9-d0ca-4dbb-95ee-e6495b25a51c.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/70da78c1-d6a9-464b-9cc0-d4ce36f1003a.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/864a8261-6daf-4102-9613-83ab0ca103fc.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/864a8261-6daf-4102-9613-83ab0ca103fc.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/864a8261-6daf-4102-9613-83ab0ca103fc.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

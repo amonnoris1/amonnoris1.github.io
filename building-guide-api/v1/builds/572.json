@@ -1,0 +1,280 @@
+{
+  "id": 572,
+  "name": "Crab",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 8,
+  "styleName": "Cute",
+  "style": "Cute",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Cute"
+    }
+  ],
+  "difficulty": 1,
+  "buildSteps": 9,
+  "steps": 9,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0aeb0115-159a-462a-af25-ff74238cd177.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/0aeb0115-159a-462a-af25-ff74238cd177.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3884493c-8b56-463f-a55b-4c70aac35a2a.webp",
+  "description": "A small minecraft statue of a crab with an orange body, sandy claws and four fence legs. Just a few blocks of terracotta, wood and fences, done in minutes. Drop it on a beach or riverbank for a bit of life.",
+  "dimensions": {
+    "width": 6,
+    "height": 3,
+    "length": 5
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-05-15T15:35:00.580701",
+  "updatedAt": "2026-05-15T15:35:00.580703",
+  "contentUpdatedAtEpochMs": 1784720999816,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Oak Fence Gate",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:oak_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/64f657fa-917c-4e3a-8e76-ac990d2e823a.webp",
+      "type": "item"
+    },
+    {
+      "name": "Acacia Fence Gate",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:acacia_fence_gate",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a1604274-2f84-4f71-8d8c-87a1b9fe9b1f.webp",
+      "type": "item"
+    },
+    {
+      "name": "Smooth Red Sandstone Slab",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:smooth_red_sandstone_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+      "type": "item"
+    },
+    {
+      "name": "Black Banner",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:black_banner",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+      "type": "item"
+    },
+    {
+      "name": "Glowstone",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:glowstone",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+      "type": "item"
+    },
+    {
+      "name": "White Dye",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:white_dye",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b82ffd7f-d3d9-474e-b7a9-a86afef292e8.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 31357,
+      "buildId": 572,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8abf0d1-038f-4f40-b9be-642fe91e0f73.webp",
+      "description": "Dig down two blocks and place the glowstone block there.",
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:02.202905",
+      "materials": [
+        {
+          "name": "Glowstone",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:glowstone",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7c23e48d-299d-4eba-a5e7-e531fcf8cfe3.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31358,
+      "buildId": 572,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e4d29b78-cb45-4867-9cdc-9f4d5b0cc98e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:04.36178",
+      "materials": [
+        {
+          "name": "Acacia Fence Gate",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:acacia_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a1604274-2f84-4f71-8d8c-87a1b9fe9b1f.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31359,
+      "buildId": 572,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3f13b9e-1211-4be6-baa6-d4ccf99b501d.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:05.373104",
+      "materials": [
+        {
+          "name": "Oak Fence Gate",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:oak_fence_gate",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/64f657fa-917c-4e3a-8e76-ac990d2e823a.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31360,
+      "buildId": 572,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a34ed082-38a1-4857-ac86-cb734decccfa.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:06.913286",
+      "materials": [
+        {
+          "name": "White Dye",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:white_dye",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b82ffd7f-d3d9-474e-b7a9-a86afef292e8.webp",
+          "type": "item"
+        },
+        {
+          "name": "Black Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31361,
+      "buildId": 572,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cf25ec55-d12b-4d90-be92-abd14a237266.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:07.755876",
+      "materials": []
+    },
+    {
+      "id": 31362,
+      "buildId": 572,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/015a8184-7901-42fd-98a3-3c041b10e5d2.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:08.56292",
+      "materials": []
+    },
+    {
+      "id": 31363,
+      "buildId": 572,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73683f38-11ad-4f13-a957-6e750acf1b04.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:09.467477",
+      "materials": [
+        {
+          "name": "Black Banner",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:black_banner",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/fce96fce-f1c9-4600-bb13-6492ba3edf85.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31364,
+      "buildId": 572,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1a647ef8-d49c-4ebf-85ae-9da0ccd85e90.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:11.138124",
+      "materials": [
+        {
+          "name": "Smooth Red Sandstone Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:smooth_red_sandstone_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/21550d22-ff39-410d-84b2-9405a2de73f6.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 31365,
+      "buildId": 572,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3884493c-8b56-463f-a55b-4c70aac35a2a.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-05-15T15:35:12.374617",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/f8abf0d1-038f-4f40-b9be-642fe91e0f73.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/e4d29b78-cb45-4867-9cdc-9f4d5b0cc98e.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c3f13b9e-1211-4be6-baa6-d4ccf99b501d.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/a34ed082-38a1-4857-ac86-cb734decccfa.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/cf25ec55-d12b-4d90-be92-abd14a237266.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/015a8184-7901-42fd-98a3-3c041b10e5d2.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/73683f38-11ad-4f13-a957-6e750acf1b04.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/1a647ef8-d49c-4ebf-85ae-9da0ccd85e90.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3884493c-8b56-463f-a55b-4c70aac35a2a.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3884493c-8b56-463f-a55b-4c70aac35a2a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3884493c-8b56-463f-a55b-4c70aac35a2a.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    }
+  ]
+}

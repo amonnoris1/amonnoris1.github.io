@@ -1,0 +1,409 @@
+{
+  "id": 657,
+  "name": "Warped Snake",
+  "categoryId": 9,
+  "categoryName": "Statue",
+  "category": "Statue",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Statue",
+      "iconUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/category-icons/c9133283-37fe-437a-bf2b-79aa0747077f.webp"
+    }
+  ],
+  "labels": [
+    "Statue"
+  ],
+  "styleId": 6,
+  "styleName": "Natural",
+  "style": "Natural",
+  "tags": [],
+  "difficulty": 2,
+  "buildSteps": 12,
+  "steps": 12,
+  "coverImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/cfff1e2a-26fc-4ba9-a8cd-90932f9b855c.webp",
+  "cover": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/covers/cfff1e2a-26fc-4ba9-a8cd-90932f9b855c.webp",
+  "productDetailImage": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/a0206d34-472f-44a2-b971-578ccbe2c598.webp",
+  "description": "A minecraft statue of a coiled snake built from warped blocks, with a red tongue sticking out. It stands a few blocks tall on a simple S-curve frame. Warped stems from the Nether cover the whole thing. A quick decoration for a swamp, garden or Nether-themed area.",
+  "dimensions": {
+    "width": 7,
+    "height": 7,
+    "length": 3
+  },
+  "editions": [
+    "java",
+    "bedrock"
+  ],
+  "likeCount": 0,
+  "finishCount": 0,
+  "averageRating": 0,
+  "createdAt": "2026-06-29T14:03:55.719917",
+  "updatedAt": "2026-08-13T17:13:57.543649",
+  "contentUpdatedAtEpochMs": 1786641237543,
+  "modifiedBy": null,
+  "materials": [
+    {
+      "name": "Mangrove Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:mangrove_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e0ef5be-14bc-49ae-906f-11dccbd109c9.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Planks",
+      "count": 4,
+      "quantity": 4,
+      "identifier": "minecraft:warped_planks",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1ca1c6a-40c8-43aa-983d-1977b61dab5b.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Trapdoor",
+      "count": 1,
+      "quantity": 1,
+      "identifier": "minecraft:warped_trapdoor",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Stairs",
+      "count": 10,
+      "quantity": 10,
+      "identifier": "minecraft:warped_stairs",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+      "type": "item"
+    },
+    {
+      "name": "Warped Slab",
+      "count": 3,
+      "quantity": 3,
+      "identifier": "minecraft:warped_slab",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b72446-3346-4cf1-bc2e-599bf8009637.webp",
+      "type": "item"
+    },
+    {
+      "name": "Polished Blackstone Button",
+      "count": 2,
+      "quantity": 2,
+      "identifier": "minecraft:polished_blackstone_button",
+      "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+      "type": "item"
+    }
+  ],
+  "subBuilds": [
+    {
+      "id": 36868,
+      "buildId": 657,
+      "sequenceOrder": 1,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c7ab26ba-5fcb-46a3-9107-997e4c954b66.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.849415",
+      "materials": [
+        {
+          "name": "Warped Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1ca1c6a-40c8-43aa-983d-1977b61dab5b.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36869,
+      "buildId": 657,
+      "sequenceOrder": 2,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3420f14a-0585-4ef2-82f5-eff43b191f1b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.864185",
+      "materials": [
+        {
+          "name": "Warped Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36870,
+      "buildId": 657,
+      "sequenceOrder": 3,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4242932c-8f19-42f6-84e3-6f37e6a23e63.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.876972",
+      "materials": [
+        {
+          "name": "Warped Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36871,
+      "buildId": 657,
+      "sequenceOrder": 4,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8968a15d-7064-4a18-8626-6b6b4c4813cd.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.883613",
+      "materials": [
+        {
+          "name": "Warped Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1ca1c6a-40c8-43aa-983d-1977b61dab5b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36872,
+      "buildId": 657,
+      "sequenceOrder": 5,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d36bb131-13d1-4c9b-bc7a-40b9a4780a09.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.895089",
+      "materials": [
+        {
+          "name": "Warped Stairs",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36873,
+      "buildId": 657,
+      "sequenceOrder": 6,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/49414874-e22b-47c5-8fbc-d9ae8781270b.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.902877",
+      "materials": [
+        {
+          "name": "Warped Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1ca1c6a-40c8-43aa-983d-1977b61dab5b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36874,
+      "buildId": 657,
+      "sequenceOrder": 7,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6bfabdfb-5e28-4c2a-ae2e-7bb110a4d359.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.913927",
+      "materials": [
+        {
+          "name": "Warped Planks",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_planks",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/b1ca1c6a-40c8-43aa-983d-1977b61dab5b.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36875,
+      "buildId": 657,
+      "sequenceOrder": 8,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea92eaca-933b-4bf5-9948-8d8eaf150cdf.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.925578",
+      "materials": [
+        {
+          "name": "Warped Slab",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:warped_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b72446-3346-4cf1-bc2e-599bf8009637.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36876,
+      "buildId": 657,
+      "sequenceOrder": 9,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0550066d-0bf4-4377-b00e-8be94b741799.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.93113",
+      "materials": [
+        {
+          "name": "Warped Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/9b1067dc-0640-449e-b6ef-89707d06cd8c.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Slab",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_slab",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/58b72446-3346-4cf1-bc2e-599bf8009637.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36877,
+      "buildId": 657,
+      "sequenceOrder": 10,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2435f455-15fe-404d-a841-c5fc4b4836d7.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.939072",
+      "materials": [
+        {
+          "name": "Mangrove Trapdoor",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:mangrove_trapdoor",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/7e0ef5be-14bc-49ae-906f-11dccbd109c9.webp",
+          "type": "item"
+        },
+        {
+          "name": "Warped Stairs",
+          "count": 1,
+          "quantity": 1,
+          "identifier": "minecraft:warped_stairs",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/a2718dfe-9b23-470b-bef4-9d14ce7730da.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36878,
+      "buildId": 657,
+      "sequenceOrder": 11,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/645ba4f9-19f5-4d0c-82f5-b4aeb9621a11.webp",
+      "description": "Place the same on the other side too",
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.949471",
+      "materials": [
+        {
+          "name": "Polished Blackstone Button",
+          "count": 2,
+          "quantity": 2,
+          "identifier": "minecraft:polished_blackstone_button",
+          "imageUrl": "https://amonnoris1.github.io/building-guide-api/v1/media/materials/5608a69b-3e2b-4761-a1d9-5798837c09b0.webp",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "id": 36879,
+      "buildId": 657,
+      "sequenceOrder": 12,
+      "image": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99fcd94c-2050-4455-a37d-dc91e82e529e.webp",
+      "description": null,
+      "moveToArea": false,
+      "createdAt": "2026-06-29T14:03:55.990182",
+      "materials": []
+    }
+  ],
+  "stepImages": [
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/c7ab26ba-5fcb-46a3-9107-997e4c954b66.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/3420f14a-0585-4ef2-82f5-eff43b191f1b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/4242932c-8f19-42f6-84e3-6f37e6a23e63.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/8968a15d-7064-4a18-8626-6b6b4c4813cd.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/d36bb131-13d1-4c9b-bc7a-40b9a4780a09.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/49414874-e22b-47c5-8fbc-d9ae8781270b.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/6bfabdfb-5e28-4c2a-ae2e-7bb110a4d359.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/ea92eaca-933b-4bf5-9948-8d8eaf150cdf.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/0550066d-0bf4-4377-b00e-8be94b741799.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/2435f455-15fe-404d-a841-c5fc4b4836d7.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/645ba4f9-19f5-4d0c-82f5-b4aeb9621a11.webp",
+    "https://amonnoris1.github.io/building-guide-api/v1/media/builds/steps/99fcd94c-2050-4455-a37d-dc91e82e529e.webp"
+  ],
+  "showcaseMedia": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/a0206d34-472f-44a2-b971-578ccbe2c598.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/e2d0ed18-21e6-4958-9bab-0a62fae003d5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/caf8c6a4-756e-405d-b352-a851088be1d1.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ],
+  "showcase": [
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/a0206d34-472f-44a2-b971-578ccbe2c598.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 1
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/e2d0ed18-21e6-4958-9bab-0a62fae003d5.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 2
+    },
+    {
+      "url": "https://amonnoris1.github.io/building-guide-api/v1/media/builds/showcase/caf8c6a4-756e-405d-b352-a851088be1d1.webp",
+      "type": "image",
+      "format": "webp",
+      "sequenceOrder": 3
+    }
+  ]
+}
